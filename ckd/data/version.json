@@ -1,7 +1,8 @@
 {
   "version": "1.0.1",
   "updateTime": "2026-04-06",
-  "foodCategoriesUrl": "https://636c-cloudbase-7gottmpb58ab7474-1419540191.tcb.qcloud.la/data/food-categories.json",
-  "foodsUrl": "https://636c-cloudbase-7gottmpb58ab7474-1419540191.tcb.qcloud.la/data/foods.json",
-  "recipesUrl": "https://636c-cloudbase-7gottmpb58ab7474-1419540191.tcb.qcloud.la/data/recipes.json"
+  "foodCategoriesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/food-categories.json",
+  "foodsUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/foods.json",
+  "recipesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/recipes.json",
+  "eatoutUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/eatout.json"
 }

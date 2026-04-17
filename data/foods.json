@@ -1,0 +1,7059 @@
+[
+  {
+    "id": "f001",
+    "name": "大米",
+    "nutrition": {
+      "protein": 7.4,
+      "potassium": 103,
+      "phosphorus": 110,
+      "sodium": 3.8,
+      "energy": 352
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "CKD 3-5期建议用低蛋白大米替代，或减少份量至每餐50g",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "粳米",
+      "白米",
+      "精米"
+    ],
+    "pinyin": "dami",
+    "pinyinInitials": "dm",
+    "aliasesPinyin": [
+      "jingmi",
+      "baimi",
+      "jingmi"
+    ],
+    "aliasesPinyinInitials": [
+      "jm",
+      "bm",
+      "jm"
+    ],
+    "cover": "大米.webp"
+  },
+  {
+    "id": "f002",
+    "name": "小米",
+    "nutrition": {
+      "protein": 9,
+      "potassium": 284,
+      "phosphorus": 229,
+      "sodium": 4.3,
+      "energy": 366
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量较高，建议浸泡后烹饪，透析患者需控制份量",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "谷子",
+      "黄米",
+      "粟"
+    ],
+    "pinyin": "xiaomi",
+    "pinyinInitials": "xm",
+    "aliasesPinyin": [
+      "guzi",
+      "huangmi",
+      "su"
+    ],
+    "aliasesPinyinInitials": [
+      "gz",
+      "hm",
+      "s"
+    ],
+    "cover": "小米.webp"
+  },
+  {
+    "id": "f003",
+    "name": "面粉（标准粉）",
+    "nutrition": {
+      "protein": 11.2,
+      "potassium": 190,
+      "phosphorus": 188,
+      "sodium": 3.1,
+      "energy": 353
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "可选择麦淀粉替代部分面粉制作面食",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "面粉",
+      "普通面粉",
+      "中筋粉"
+    ],
+    "pinyin": "mianfen（biaozhunfen）",
+    "pinyinInitials": "mf（bzf）",
+    "aliasesPinyin": [
+      "mianfen",
+      "putongmianfen",
+      "zhongjinfen"
+    ],
+    "aliasesPinyinInitials": [
+      "mf",
+      "ptmf",
+      "zjf"
+    ],
+    "cover": "面粉（标准粉）.webp"
+  },
+  {
+    "id": "f004",
+    "name": "玉米",
+    "nutrition": {
+      "protein": 4,
+      "potassium": 238,
+      "phosphorus": 117,
+      "sodium": 1.1,
+      "energy": 113
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量中等，适量食用，建议煮后弃汤",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "苞米",
+      "玉蜀黍",
+      "棒子",
+      "苞谷"
+    ],
+    "pinyin": "yumi",
+    "pinyinInitials": "ym",
+    "aliasesPinyin": [
+      "baomi",
+      "yushushu",
+      "bangzi",
+      "baogu"
+    ],
+    "aliasesPinyinInitials": [
+      "bm",
+      "yss",
+      "bz",
+      "bg"
+    ],
+    "cover": "玉米.webp"
+  },
+  {
+    "id": "f005",
+    "name": "土豆",
+    "cover": "土豆.webp",
+    "nutrition": {
+      "protein": 2,
+      "potassium": 342,
+      "phosphorus": 40,
+      "sodium": 2.7,
+      "energy": 78
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "切块焯水1分钟，可去除约30%钾",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "马铃薯",
+      "洋芋",
+      "薯仔"
+    ],
+    "pinyin": "tudou",
+    "pinyinInitials": "td",
+    "aliasesPinyin": [
+      "malingshu",
+      "yangyu",
+      "shuzai"
+    ],
+    "aliasesPinyinInitials": [
+      "mls",
+      "yy",
+      "sz"
+    ]
+  },
+  {
+    "id": "f006",
+    "name": "红薯",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 130,
+      "phosphorus": 39,
+      "sodium": 28.5,
+      "energy": 103
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量较高，建议切块焯水后食用",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "甘薯",
+      "地瓜",
+      "番薯",
+      "白薯"
+    ],
+    "pinyin": "hongshu",
+    "pinyinInitials": "hs",
+    "aliasesPinyin": [
+      "ganshu",
+      "digua",
+      "fanshu",
+      "baishu"
+    ],
+    "aliasesPinyinInitials": [
+      "gs",
+      "dg",
+      "fs",
+      "bs"
+    ],
+    "cover": "红薯.webp"
+  },
+  {
+    "id": "f007",
+    "name": "山药",
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 213,
+      "phosphorus": 34,
+      "sodium": 18.6,
+      "energy": 58
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "相对低钾，适合CKD患者，可替代部分主食",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "薯蓣",
+      "怀山",
+      "淮山",
+      "山芋"
+    ],
+    "pinyin": "shanyao",
+    "pinyinInitials": "sy",
+    "aliasesPinyin": [
+      "shuyu",
+      "huaishan",
+      "huaishan",
+      "shanyu"
+    ],
+    "aliasesPinyinInitials": [
+      "sy",
+      "hs",
+      "hs",
+      "sy"
+    ],
+    "cover": "山药.webp"
+  },
+  {
+    "id": "f008",
+    "name": "芋头",
+    "nutrition": {
+      "protein": 2.2,
+      "potassium": 378,
+      "phosphorus": 55,
+      "sodium": 33.1,
+      "energy": 82
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量偏高，建议焯水后食用",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "毛芋",
+      "芋艿",
+      "香芋"
+    ],
+    "pinyin": "yutou",
+    "pinyinInitials": "yt",
+    "aliasesPinyin": [
+      "maoyu",
+      "yunai",
+      "xiangyu"
+    ],
+    "aliasesPinyinInitials": [
+      "my",
+      "yn",
+      "xy"
+    ],
+    "cover": "芋头.webp"
+  },
+  {
+    "id": "f009",
+    "name": "南瓜",
+    "nutrition": {
+      "protein": 0.5,
+      "potassium": 152,
+      "phosphorus": 10,
+      "sodium": 0.9,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾低磷，适合各期CKD患者",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "倭瓜",
+      "北瓜",
+      "金瓜"
+    ],
+    "pinyin": "nangua",
+    "pinyinInitials": "ng",
+    "aliasesPinyin": [
+      "wogua",
+      "beigua",
+      "jingua"
+    ],
+    "aliasesPinyinInitials": [
+      "wg",
+      "bg",
+      "jg"
+    ],
+    "cover": "南瓜.webp"
+  },
+  {
+    "id": "f010",
+    "name": "藕",
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 243,
+      "phosphorus": 58,
+      "sodium": 44.2,
+      "energy": 74
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "建议切片焯水后食用",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "莲藕",
+      "藕节",
+      "湖藕"
+    ],
+    "pinyin": "ou",
+    "pinyinInitials": "ǒ",
+    "aliasesPinyin": [
+      "lianou",
+      "oujie",
+      "huou"
+    ],
+    "aliasesPinyinInitials": [
+      "lǒ",
+      "ǒj",
+      "hǒ"
+    ],
+    "cover": "藕.webp"
+  },
+  {
+    "id": "f011",
+    "name": "粉丝",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 18,
+      "phosphorus": 16,
+      "sodium": 9.3,
+      "energy": 343
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低蛋白主食，适合CKD 3-5期患者",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "细粉丝",
+      "绿豆粉丝",
+      "粉条"
+    ],
+    "pinyin": "fensi",
+    "pinyinInitials": "fs",
+    "aliasesPinyin": [
+      "xifensi",
+      "lvdoufensi",
+      "fentiao"
+    ],
+    "aliasesPinyinInitials": [
+      "xfs",
+      "ldfs",
+      "ft"
+    ],
+    "cover": "粉丝.webp"
+  },
+  {
+    "id": "f012",
+    "name": "低蛋白大米",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 12,
+      "phosphorus": 18,
+      "sodium": 1,
+      "energy": 350
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "肾病专用主食，可安全食用",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "低蛋白米",
+      "麦淀粉大米",
+      "特殊大米"
+    ],
+    "pinyin": "didanbaidami",
+    "pinyinInitials": "ddbdm",
+    "aliasesPinyin": [
+      "didanbaimi",
+      "maidianfendami",
+      "teshudami"
+    ],
+    "aliasesPinyinInitials": [
+      "ddbm",
+      "mdfdm",
+      "tsdm"
+    ],
+    "cover": "低蛋白大米.webp"
+  },
+  {
+    "id": "f013",
+    "name": "燕麦",
+    "nutrition": {
+      "protein": 14.4,
+      "potassium": 356,
+      "phosphorus": 359,
+      "sodium": 12.1,
+      "energy": 381
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "磷和蛋白质含量高，CKD 3-5期及透析患者应避免",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "麦片",
+      "燕麦片",
+      "莜麦"
+    ],
+    "pinyin": "yanmai",
+    "pinyinInitials": "ym",
+    "aliasesPinyin": [
+      "maipian",
+      "yanmaipian",
+      "youmai"
+    ],
+    "aliasesPinyinInitials": [
+      "mp",
+      "ymp",
+      "ym"
+    ],
+    "cover": "燕麦.webp"
+  },
+  {
+    "id": "f014",
+    "name": "荞麦",
+    "nutrition": {
+      "protein": 9.3,
+      "potassium": 401,
+      "phosphorus": 297,
+      "sodium": 4.7,
+      "energy": 341
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾高磷，各期均需控制",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "甜荞",
+      "苦荞"
+    ],
+    "pinyin": "qiaomai",
+    "pinyinInitials": "qm",
+    "aliasesPinyin": [
+      "tianqiao",
+      "kuqiao"
+    ],
+    "aliasesPinyinInitials": [
+      "tq",
+      "kq"
+    ],
+    "cover": "荞麦.webp"
+  },
+  {
+    "id": "f015",
+    "name": "薏米",
+    "nutrition": {
+      "protein": 12.8,
+      "potassium": 238,
+      "phosphorus": 217,
+      "sodium": 3.6,
+      "energy": 366
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "适量食用，建议浸泡后烹饪",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "薏仁",
+      "苡仁",
+      "薏苡仁"
+    ],
+    "pinyin": "yimi",
+    "pinyinInitials": "ym",
+    "aliasesPinyin": [
+      "yiren",
+      "yiren",
+      "yiyiren"
+    ],
+    "aliasesPinyinInitials": [
+      "yr",
+      "yr",
+      "yyr"
+    ],
+    "cover": "薏米.webp"
+  },
+  {
+    "id": "f016",
+    "name": "绿豆",
+    "nutrition": {
+      "protein": 21.6,
+      "potassium": 787,
+      "phosphorus": 337,
+      "sodium": 3.2,
+      "energy": 333
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾高蛋白，CKD 3-5期应避免",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "青小豆",
+      "植豆"
+    ],
+    "pinyin": "lvdou",
+    "pinyinInitials": "ld",
+    "aliasesPinyin": [
+      "qingxiaodou",
+      "zhidou"
+    ],
+    "aliasesPinyinInitials": [
+      "qxd",
+      "zd"
+    ],
+    "cover": "绿豆.webp"
+  },
+  {
+    "id": "f017",
+    "name": "红豆",
+    "nutrition": {
+      "protein": 20.2,
+      "potassium": 860,
+      "phosphorus": 305,
+      "sodium": 2.2,
+      "energy": 328
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾高蛋白，需严格控制",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "赤豆",
+      "赤小豆",
+      "朱砂豆"
+    ],
+    "pinyin": "hongdou",
+    "pinyinInitials": "hd",
+    "aliasesPinyin": [
+      "chidou",
+      "chixiaodou",
+      "zhushadou"
+    ],
+    "aliasesPinyinInitials": [
+      "cd",
+      "cxd",
+      "zsd"
+    ],
+    "cover": "红豆.webp"
+  },
+  {
+    "id": "f018",
+    "name": "面条",
+    "nutrition": {
+      "protein": 8.3,
+      "potassium": 135,
+      "phosphorus": 162,
+      "sodium": 28,
+      "energy": 290
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "选择低钠面条，煮后弃汤",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "挂面",
+      "面条（干）",
+      "拉面"
+    ],
+    "pinyin": "miantiao",
+    "pinyinInitials": "mt",
+    "aliasesPinyin": [
+      "guamian",
+      "miantiao（gan）",
+      "lamian"
+    ],
+    "aliasesPinyinInitials": [
+      "gm",
+      "mt（g）",
+      "lm"
+    ],
+    "cover": "面条.webp"
+  },
+  {
+    "id": "f019",
+    "name": "馒头",
+    "nutrition": {
+      "protein": 7,
+      "potassium": 138,
+      "phosphorus": 107,
+      "sodium": 165.1,
+      "energy": 226
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "注意钠含量，可自制减少盐量",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "白面馒头",
+      "发面馒头"
+    ],
+    "pinyin": "mantou",
+    "pinyinInitials": "mt",
+    "aliasesPinyin": [
+      "baimianmantou",
+      "famianmantou"
+    ],
+    "aliasesPinyinInitials": [
+      "bmmt",
+      "fmmt"
+    ],
+    "cover": "馒头.webp"
+  },
+  {
+    "id": "f020",
+    "name": "面包",
+    "nutrition": {
+      "protein": 8.3,
+      "potassium": 88,
+      "phosphorus": 107,
+      "sodium": 230.4,
+      "energy": 316
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "含钠和磷添加剂较多，选择无添加全麦面包",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "白面包",
+      "切片面包",
+      "吐司"
+    ],
+    "pinyin": "mianbao",
+    "pinyinInitials": "mb",
+    "aliasesPinyin": [
+      "baimianbao",
+      "qiepianmianbao",
+      "tusi"
+    ],
+    "aliasesPinyinInitials": [
+      "bmb",
+      "qpmb",
+      "ts"
+    ],
+    "cover": "面包.webp"
+  },
+  {
+    "id": "f021",
+    "name": "冬瓜",
+    "nutrition": {
+      "protein": 0.4,
+      "potassium": 78,
+      "phosphorus": 12,
+      "sodium": 1.8,
+      "energy": 12
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾低磷，可放心食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "东瓜",
+      "白瓜"
+    ],
+    "pinyin": "donggua",
+    "pinyinInitials": "dg",
+    "aliasesPinyin": [
+      "donggua",
+      "baigua"
+    ],
+    "aliasesPinyinInitials": [
+      "dg",
+      "bg"
+    ],
+    "cover": "冬瓜.webp"
+  },
+  {
+    "id": "f022",
+    "name": "黄瓜",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 102,
+      "phosphorus": 24,
+      "sodium": 4.9,
+      "energy": 16
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾蔬菜，可凉拌或炒食",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "胡瓜",
+      "青瓜",
+      "刺瓜"
+    ],
+    "pinyin": "huanggua",
+    "pinyinInitials": "hg",
+    "aliasesPinyin": [
+      "hugua",
+      "qinggua",
+      "cigua"
+    ],
+    "aliasesPinyinInitials": [
+      "hg",
+      "qg",
+      "cg"
+    ],
+    "cover": "黄瓜.webp"
+  },
+  {
+    "id": "f023",
+    "name": "丝瓜",
+    "nutrition": {
+      "protein": 1,
+      "potassium": 115,
+      "phosphorus": 29,
+      "sodium": 2.6,
+      "energy": 22
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾蔬菜，适合CKD患者",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "菜瓜",
+      "天罗",
+      "布瓜"
+    ],
+    "pinyin": "sigua",
+    "pinyinInitials": "sg",
+    "aliasesPinyin": [
+      "caigua",
+      "tianluo",
+      "bugua"
+    ],
+    "aliasesPinyinInitials": [
+      "cg",
+      "tl",
+      "bg"
+    ],
+    "cover": "丝瓜.webp"
+  },
+  {
+    "id": "f024",
+    "name": "西葫芦",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 92,
+      "phosphorus": 17,
+      "sodium": 5,
+      "energy": 19
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可炒食或做汤",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "角瓜",
+      "小瓜",
+      "美洲南瓜",
+      "搅瓜"
+    ],
+    "pinyin": "xihulu",
+    "pinyinInitials": "xhl",
+    "aliasesPinyin": [
+      "jiaogua",
+      "xiaogua",
+      "meizhounangua",
+      "jiaogua"
+    ],
+    "aliasesPinyinInitials": [
+      "jg",
+      "xg",
+      "mzng",
+      "jg"
+    ],
+    "cover": "西葫芦.webp"
+  },
+  {
+    "id": "f025",
+    "name": "大白菜",
+    "nutrition": {
+      "protein": 1.5,
+      "potassium": 130,
+      "phosphorus": 31,
+      "sodium": 57.5,
+      "energy": 18
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾蔬菜，注意钠含量",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "白菜",
+      "结球白菜",
+      "黄芽菜"
+    ],
+    "pinyin": "dabaicai",
+    "pinyinInitials": "dbc",
+    "aliasesPinyin": [
+      "baicai",
+      "jieqiubaicai",
+      "huangyacai"
+    ],
+    "aliasesPinyinInitials": [
+      "bc",
+      "jqbc",
+      "hyc"
+    ],
+    "cover": "大白菜.webp"
+  },
+  {
+    "id": "f026",
+    "name": "圆白菜",
+    "nutrition": {
+      "protein": 1.5,
+      "potassium": 124,
+      "phosphorus": 26,
+      "sodium": 27.2,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可放心食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "卷心菜",
+      "包菜",
+      "洋白菜",
+      "莲花白",
+      "甘蓝"
+    ],
+    "pinyin": "yuanbaicai",
+    "pinyinInitials": "ybc",
+    "aliasesPinyin": [
+      "juanxincai",
+      "baocai",
+      "yangbaicai",
+      "lianhuabai",
+      "ganlan"
+    ],
+    "aliasesPinyinInitials": [
+      "jxc",
+      "bc",
+      "ybc",
+      "lhb",
+      "gl"
+    ],
+    "cover": "圆白菜.webp"
+  },
+  {
+    "id": "f027",
+    "name": "芹菜",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 154,
+      "phosphorus": 50,
+      "sodium": 73.8,
+      "energy": 17
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钠含量较高，建议焯水后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "西芹",
+      "旱芹",
+      "药芹"
+    ],
+    "pinyin": "qincai",
+    "pinyinInitials": "qc",
+    "aliasesPinyin": [
+      "xiqin",
+      "hanqin",
+      "yaoqin"
+    ],
+    "aliasesPinyinInitials": [
+      "xq",
+      "hq",
+      "yq"
+    ],
+    "cover": "西芹.webp"
+  },
+  {
+    "id": "f028",
+    "name": "油菜",
+    "nutrition": {
+      "protein": 1.8,
+      "potassium": 210,
+      "phosphorus": 39,
+      "sodium": 55.8,
+      "energy": 25
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "低钾蔬菜，可清炒或做汤；少放盐",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "上海青",
+      "青江菜",
+      "小棠菜",
+      "汤匙菜",
+      "瓢儿菜",
+      "油白菜"
+    ],
+    "pinyin": "youcai",
+    "pinyinInitials": "yc",
+    "aliasesPinyin": [
+      "shanghaiqing",
+      "qingjiangcai",
+      "xiaotangcai",
+      "tangchicai",
+      "piaoercai",
+      "youbaicai"
+    ],
+    "aliasesPinyinInitials": [
+      "shq",
+      "qjc",
+      "xtc",
+      "tcc",
+      "péc",
+      "ybc"
+    ],
+    "cover": "油菜.webp"
+  },
+  {
+    "id": "f029",
+    "name": "菠菜",
+    "nutrition": {
+      "protein": 2.6,
+      "potassium": 311,
+      "phosphorus": 47,
+      "sodium": 85.2,
+      "energy": 28
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾蔬菜，需焯水弃汤后食用，每次不超过50g",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "菠薐菜",
+      "波斯菜",
+      "鹦鹉菜",
+      "赤根菜",
+      "红根菠菜"
+    ],
+    "pinyin": "bocai",
+    "pinyinInitials": "bc",
+    "aliasesPinyin": [
+      "bolengcai",
+      "bosicai",
+      "yingwucai",
+      "chigencai",
+      "honggenbocai"
+    ],
+    "aliasesPinyinInitials": [
+      "blc",
+      "bsc",
+      "ywc",
+      "cgc",
+      "hgbc"
+    ],
+    "cover": "菠菜.webp"
+  },
+  {
+    "id": "f030",
+    "name": "苋菜",
+    "nutrition": {
+      "protein": 2.8,
+      "potassium": 207,
+      "phosphorus": 59,
+      "sodium": 32.4,
+      "energy": 30
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾，焯水后少量食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "米苋",
+      "彩苋",
+      "赤苋"
+    ],
+    "pinyin": "xiancai",
+    "pinyinInitials": "xc",
+    "aliasesPinyin": [
+      "mixian",
+      "caixian",
+      "chixian"
+    ],
+    "aliasesPinyinInitials": [
+      "mx",
+      "cx",
+      "cx"
+    ],
+    "cover": "苋菜.webp"
+  },
+  {
+    "id": "f031",
+    "name": "空心菜",
+    "nutrition": {
+      "protein": 2.2,
+      "potassium": 243,
+      "phosphorus": 38,
+      "sodium": 94.3,
+      "energy": 23
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，焯水后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "蕹菜",
+      "通心菜",
+      "藤菜"
+    ],
+    "pinyin": "kongxincai",
+    "pinyinInitials": "kxc",
+    "aliasesPinyin": [
+      "wengcai",
+      "tongxincai",
+      "tengcai"
+    ],
+    "aliasesPinyinInitials": [
+      "wc",
+      "txc",
+      "tc"
+    ],
+    "cover": "空心菜.webp"
+  },
+  {
+    "id": "f032",
+    "name": "生菜",
+    "nutrition": {
+      "protein": 1.3,
+      "potassium": 170,
+      "phosphorus": 27,
+      "sodium": 32.8,
+      "energy": 15
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可生食或清炒",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "叶莴苣",
+      "球生菜",
+      "油麦菜（近似）"
+    ],
+    "pinyin": "shengcai",
+    "pinyinInitials": "sc",
+    "aliasesPinyin": [
+      "yewoju",
+      "qiushengcai",
+      "youmaicai（jinsi）"
+    ],
+    "aliasesPinyinInitials": [
+      "ywj",
+      "qsc",
+      "ymc（js）"
+    ],
+    "cover": "生菜.webp"
+  },
+  {
+    "id": "f033",
+    "name": "油麦菜",
+    "nutrition": {
+      "protein": 1.4,
+      "potassium": 100,
+      "phosphorus": 31,
+      "sodium": 80,
+      "energy": 16
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，适合各期CKD患者",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "莜麦菜",
+      "苦菜（油麦）"
+    ],
+    "pinyin": "youmaicai",
+    "pinyinInitials": "ymc",
+    "aliasesPinyin": [
+      "youmaicai",
+      "kucai（youmai）"
+    ],
+    "aliasesPinyinInitials": [
+      "ymc",
+      "kc（ym）"
+    ],
+    "cover": "油麦菜.webp"
+  },
+  {
+    "id": "f034",
+    "name": "西兰花",
+    "nutrition": {
+      "protein": 4.1,
+      "potassium": 17,
+      "phosphorus": 72,
+      "sodium": 18.8,
+      "energy": 36
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "建议焯水后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "绿花菜",
+      "绿椰菜",
+      "青花菜",
+      "花椰菜（绿）"
+    ],
+    "pinyin": "xilanhua",
+    "pinyinInitials": "xlh",
+    "aliasesPinyin": [
+      "lvhuacai",
+      "lvyecai",
+      "qinghuacai",
+      "huayecai（lv）"
+    ],
+    "aliasesPinyinInitials": [
+      "lhc",
+      "lyc",
+      "qhc",
+      "hyc（l）"
+    ],
+    "cover": "西兰花.webp"
+  },
+  {
+    "id": "f035",
+    "name": "菜花",
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 200,
+      "phosphorus": 47,
+      "sodium": 31.6,
+      "energy": 26
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "相对低钾，适合食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "花椰菜",
+      "白花菜",
+      "花菜"
+    ],
+    "pinyin": "caihua",
+    "pinyinInitials": "ch",
+    "aliasesPinyin": [
+      "huayecai",
+      "baihuacai",
+      "huacai"
+    ],
+    "aliasesPinyinInitials": [
+      "hyc",
+      "bhc",
+      "hc"
+    ],
+    "cover": "菜花.webp"
+  },
+  {
+    "id": "f036",
+    "name": "茄子",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 142,
+      "phosphorus": 23,
+      "sodium": 5.4,
+      "energy": 23
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可放心食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "矮瓜",
+      "落苏",
+      "紫茄"
+    ],
+    "pinyin": "qiezi",
+    "pinyinInitials": "qz",
+    "aliasesPinyin": [
+      "aigua",
+      "luosu",
+      "ziqie"
+    ],
+    "aliasesPinyinInitials": [
+      "ǎg",
+      "ls",
+      "zq"
+    ],
+    "cover": "茄子.webp"
+  },
+  {
+    "id": "f037",
+    "name": "番茄",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 163,
+      "phosphorus": 23,
+      "sodium": 5,
+      "energy": 21
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量中等，适量食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "西红柿",
+      "圣女果(小番茄)"
+    ],
+    "pinyin": "fanqie",
+    "pinyinInitials": "fq",
+    "aliasesPinyin": [
+      "xihongshi",
+      "shengnvguo(xiaofanqie)"
+    ],
+    "aliasesPinyinInitials": [
+      "xhs",
+      "sng(xfq)"
+    ],
+    "cover": "西红柿.webp"
+  },
+  {
+    "id": "f038",
+    "name": "胡萝卜",
+    "nutrition": {
+      "protein": 1.0,
+      "potassium": 190,
+      "phosphorus": 27,
+      "sodium": 71.4,
+      "energy": 39
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，适量食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "红萝卜",
+      "黄萝卜",
+      "丁香萝卜"
+    ],
+    "pinyin": "huluobo",
+    "pinyinInitials": "hlb",
+    "aliasesPinyin": [
+      "hongluobo",
+      "huangluobo",
+      "dingxiangluobo"
+    ],
+    "aliasesPinyinInitials": [
+      "hlb",
+      "hlb",
+      "dxlb"
+    ],
+    "cover": "胡萝卜.webp"
+  },
+  {
+    "id": "f039",
+    "name": "白萝卜",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 173,
+      "phosphorus": 26,
+      "sodium": 61.8,
+      "energy": 23
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可煮汤或炒食",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "萝卜",
+      "莱菔"
+    ],
+    "pinyin": "bailuobo",
+    "pinyinInitials": "blb",
+    "aliasesPinyin": [
+      "luobo",
+      "laifu"
+    ],
+    "aliasesPinyinInitials": [
+      "lb",
+      "lf"
+    ],
+    "cover": "白萝卜.webp"
+  },
+  {
+    "id": "f040",
+    "name": "青椒",
+    "nutrition": {
+      "protein": 1,
+      "potassium": 142,
+      "phosphorus": 20,
+      "sodium": 3.3,
+      "energy": 25
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可放心食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "灯笼椒",
+      "甜椒（绿）",
+      "柿子椒",
+      "甜椒",
+      "菜椒",
+      "辣椒（甜）"
+    ],
+    "pinyin": "qingjiao",
+    "pinyinInitials": "qj",
+    "aliasesPinyin": [
+      "denglongjiao",
+      "tianjiao（lv）",
+      "shizijiao",
+      "tianjiao",
+      "caijiao",
+      "lajiao（tian）"
+    ],
+    "aliasesPinyinInitials": [
+      "dlj",
+      "tj（l）",
+      "szj",
+      "tj",
+      "cj",
+      "lj（t）"
+    ],
+    "cover": "青椒.webp"
+  },
+  {
+    "id": "f041",
+    "name": "洋葱",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 147,
+      "phosphorus": 39,
+      "sodium": 4.4,
+      "energy": 41
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可炒食或做汤",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "球葱",
+      "圆葱",
+      "玉葱",
+      "葱头"
+    ],
+    "pinyin": "yangcong",
+    "pinyinInitials": "yc",
+    "aliasesPinyin": [
+      "qiucong",
+      "yuancong",
+      "yucong",
+      "congtou"
+    ],
+    "aliasesPinyinInitials": [
+      "qc",
+      "yc",
+      "yc",
+      "ct"
+    ],
+    "cover": "洋葱.webp"
+  },
+  {
+    "id": "f042",
+    "name": "蒜薹",
+    "nutrition": {
+      "protein": 2,
+      "potassium": 161,
+      "phosphorus": 52,
+      "sodium": 3.8,
+      "energy": 66
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，适量食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "蒜苔",
+      "青蒜薹"
+    ],
+    "pinyin": "suantai",
+    "pinyinInitials": "st",
+    "aliasesPinyin": [
+      "suantai",
+      "qingsuantai"
+    ],
+    "aliasesPinyinInitials": [
+      "st",
+      "qst"
+    ],
+    "cover": "蒜薹.webp"
+  },
+  {
+    "id": "f043",
+    "name": "豆角",
+    "nutrition": {
+      "protein": 2.5,
+      "potassium": 207,
+      "phosphorus": 55,
+      "sodium": 3.4,
+      "energy": 35
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "必须煮熟后食用，预防中毒",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "四季豆",
+      "架豆",
+      "芸豆角",
+      "菜豆"
+    ],
+    "pinyin": "doujiao",
+    "pinyinInitials": "dj",
+    "aliasesPinyin": [
+      "sijidou",
+      "jiadou",
+      "yundoujiao",
+      "caidou"
+    ],
+    "aliasesPinyinInitials": [
+      "sjd",
+      "jd",
+      "ydj",
+      "cd"
+    ],
+    "cover": "豆角.webp"
+  },
+  {
+    "id": "f044",
+    "name": "荷兰豆",
+    "nutrition": {
+      "protein": 2.5,
+      "potassium": 116,
+      "phosphorus": 19,
+      "sodium": 8.8,
+      "energy": 30
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可清炒",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "甜豌豆",
+      "食荚豌豆",
+      "糖豆"
+    ],
+    "pinyin": "helandou",
+    "pinyinInitials": "hld",
+    "aliasesPinyin": [
+      "tianwandou",
+      "shijiawandou",
+      "tangdou"
+    ],
+    "aliasesPinyinInitials": [
+      "twd",
+      "sjwd",
+      "td"
+    ],
+    "cover": "荷兰豆.webp"
+  },
+  {
+    "id": "f045",
+    "name": "蘑菇",
+    "nutrition": {
+      "protein": 2.7,
+      "potassium": 312,
+      "phosphorus": 94,
+      "sodium": 8.3,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量较高，焯水后食用",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "白蘑菇",
+      "口蘑（普通）"
+    ],
+    "pinyin": "mogu",
+    "pinyinInitials": "mg",
+    "aliasesPinyin": [
+      "baimogu",
+      "koumo（putong）"
+    ],
+    "aliasesPinyinInitials": [
+      "bmg",
+      "km（pt）"
+    ],
+    "cover": "蘑菇.webp"
+  },
+  {
+    "id": "f046",
+    "name": "香菇",
+    "nutrition": {
+      "protein": 2.2,
+      "potassium": 20,
+      "phosphorus": 53,
+      "sodium": 1.4,
+      "energy": 26
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可放心食用",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "冬菇",
+      "香蕈",
+      "花蕈",
+      "干香菇"
+    ],
+    "pinyin": "xianggu",
+    "pinyinInitials": "xg",
+    "aliasesPinyin": [
+      "donggu",
+      "xiangxun",
+      "huaxun",
+      "ganxianggu"
+    ],
+    "aliasesPinyinInitials": [
+      "dg",
+      "xx",
+      "hx",
+      "gxg"
+    ],
+    "cover": "香菇.webp"
+  },
+  {
+    "id": "f047",
+    "name": "金针菇",
+    "nutrition": {
+      "protein": 2.4,
+      "potassium": 195,
+      "phosphorus": 97,
+      "sodium": 4.3,
+      "energy": 32
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，建议焯水后食用",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "智力菇",
+      "朴菇",
+      "毛脚菇"
+    ],
+    "pinyin": "jinzhengu",
+    "pinyinInitials": "jzg",
+    "aliasesPinyin": [
+      "zhiligu",
+      "pugu",
+      "maojiaogu"
+    ],
+    "aliasesPinyinInitials": [
+      "zlg",
+      "pg",
+      "mjg"
+    ],
+    "cover": "金针菇.webp"
+  },
+  {
+    "id": "f048",
+    "name": "竹笋",
+    "nutrition": {
+      "protein": 2.6,
+      "potassium": 389,
+      "phosphorus": 64,
+      "sodium": 0.4,
+      "energy": 23
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量偏高，需焯水后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "冬笋",
+      "春笋",
+      "笋片"
+    ],
+    "pinyin": "zhusun",
+    "pinyinInitials": "zs",
+    "aliasesPinyin": [
+      "dongsun",
+      "chunsun",
+      "sunpian"
+    ],
+    "aliasesPinyinInitials": [
+      "ds",
+      "cs",
+      "sp"
+    ],
+    "cover": "竹笋.webp"
+  },
+  {
+    "id": "f049",
+    "name": "芦笋",
+    "nutrition": {
+      "protein": 1.4,
+      "potassium": 213,
+      "phosphorus": 42,
+      "sodium": 3.1,
+      "energy": 22
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，焯水后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "石刁柏",
+      "龙须菜"
+    ],
+    "pinyin": "lusun",
+    "pinyinInitials": "ls",
+    "aliasesPinyin": [
+      "shidiaobai",
+      "longxucai"
+    ],
+    "aliasesPinyinInitials": [
+      "sdb",
+      "lxc"
+    ],
+    "cover": "芦笋.webp"
+  },
+  {
+    "id": "f050",
+    "name": "秋葵",
+    "nutrition": {
+      "protein": 2,
+      "potassium": 95,
+      "phosphorus": 65,
+      "sodium": 3.9,
+      "energy": 45
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "焯水后食用，可去除部分钾",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "羊角豆",
+      "毛茄",
+      "咖啡黄葵"
+    ],
+    "pinyin": "qiukui",
+    "pinyinInitials": "qk",
+    "aliasesPinyin": [
+      "yangjiaodou",
+      "maoqie",
+      "kafeihuangkui"
+    ],
+    "aliasesPinyinInitials": [
+      "yjd",
+      "mq",
+      "kfhk"
+    ],
+    "cover": "秋葵.webp"
+  },
+  {
+    "id": "f051",
+    "name": "苹果",
+    "nutrition": {
+      "protein": 0.2,
+      "potassium": 119,
+      "phosphorus": 12,
+      "sodium": 1.6,
+      "energy": 55
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾水果，可每天1个",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "林檎",
+      "苹婆"
+    ],
+    "pinyin": "pingguo",
+    "pinyinInitials": "pg",
+    "aliasesPinyin": [
+      "linqin",
+      "pingpo"
+    ],
+    "aliasesPinyinInitials": [
+      "lq",
+      "pp"
+    ],
+    "cover": "苹果.webp"
+  },
+  {
+    "id": "f052",
+    "name": "梨",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 45,
+      "phosphorus": 11,
+      "sodium": 1.4,
+      "energy": 51
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，适合CKD患者",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "雪梨",
+      "白梨",
+      "鸭梨"
+    ],
+    "pinyin": "li",
+    "pinyinInitials": "l",
+    "aliasesPinyin": [
+      "xueli",
+      "baili",
+      "yali"
+    ],
+    "aliasesPinyinInitials": [
+      "xl",
+      "bl",
+      "yl"
+    ],
+    "cover": "梨.webp"
+  },
+  {
+    "id": "f053",
+    "name": "桃子",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 166,
+      "phosphorus": 20,
+      "sodium": 5.7,
+      "energy": 51
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量中等，每天1个",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "水蜜桃",
+      "毛桃",
+      "蟠桃"
+    ],
+    "pinyin": "taozi",
+    "pinyinInitials": "tz",
+    "aliasesPinyin": [
+      "shuimitao",
+      "maotao",
+      "pantao"
+    ],
+    "aliasesPinyinInitials": [
+      "smt",
+      "mt",
+      "pt"
+    ],
+    "cover": "桃子.webp"
+  },
+  {
+    "id": "f054",
+    "name": "西瓜",
+    "nutrition": {
+      "protein": 0.6,
+      "potassium": 87,
+      "phosphorus": 9,
+      "sodium": 3.2,
+      "energy": 26
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "低钾但水分多，透析患者需注意控制液体量",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "寒瓜",
+      "天生白虎汤"
+    ],
+    "pinyin": "xigua",
+    "pinyinInitials": "xg",
+    "aliasesPinyin": [
+      "hangua",
+      "tianshengbaihutang"
+    ],
+    "aliasesPinyinInitials": [
+      "hg",
+      "tsbht"
+    ],
+    "cover": "西瓜.webp"
+  },
+  {
+    "id": "f055",
+    "name": "葡萄",
+    "nutrition": {
+      "protein": 0.5,
+      "potassium": 104,
+      "phosphorus": 13,
+      "sodium": 1.3,
+      "energy": 45
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，每次10-15粒",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "提子",
+      "葡桃",
+      "草龙珠"
+    ],
+    "pinyin": "putao",
+    "pinyinInitials": "pt",
+    "aliasesPinyin": [
+      "tizi",
+      "putao",
+      "caolongzhu"
+    ],
+    "aliasesPinyinInitials": [
+      "tz",
+      "pt",
+      "clz"
+    ],
+    "cover": "葡萄.webp"
+  },
+  {
+    "id": "f056",
+    "name": "草莓",
+    "nutrition": {
+      "protein": 1,
+      "potassium": 131,
+      "phosphorus": 27,
+      "sodium": 4.2,
+      "energy": 32
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，每次5-6颗",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "洋莓",
+      "地莓",
+      "红莓"
+    ],
+    "pinyin": "caomei",
+    "pinyinInitials": "cm",
+    "aliasesPinyin": [
+      "yangmei",
+      "dimei",
+      "hongmei"
+    ],
+    "aliasesPinyinInitials": [
+      "ym",
+      "dm",
+      "hm"
+    ],
+    "cover": "草莓.webp"
+  },
+  {
+    "id": "f057",
+    "name": "樱桃",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 232,
+      "phosphorus": 27,
+      "sodium": 8,
+      "energy": 47
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量较高，每次不超过10颗",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "车厘子",
+      "莺桃"
+    ],
+    "pinyin": "yingtao",
+    "pinyinInitials": "yt",
+    "aliasesPinyin": [
+      "chelizi",
+      "yingtao"
+    ],
+    "aliasesPinyinInitials": [
+      "clz",
+      "yt"
+    ],
+    "cover": "车厘子.webp"
+  },
+  {
+    "id": "f058",
+    "name": "橙子",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 159,
+      "phosphorus": 22,
+      "sodium": 1.2,
+      "energy": 49
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，每次半个",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "甜橙",
+      "广柑",
+      "黄果"
+    ],
+    "pinyin": "chengzi",
+    "pinyinInitials": "cz",
+    "aliasesPinyin": [
+      "tiancheng",
+      "guanggan",
+      "huangguo"
+    ],
+    "aliasesPinyinInitials": [
+      "tc",
+      "gg",
+      "hg"
+    ],
+    "cover": "橙子.webp"
+  },
+  {
+    "id": "f059",
+    "name": "柚子",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 119,
+      "phosphorus": 24,
+      "sodium": 3,
+      "energy": 43
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可每天1-2瓣",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "文旦",
+      "香栾",
+      "朱栾"
+    ],
+    "pinyin": "youzi",
+    "pinyinInitials": "yz",
+    "aliasesPinyin": [
+      "wendan",
+      "xiangluan",
+      "zhuluan"
+    ],
+    "aliasesPinyinInitials": [
+      "wd",
+      "xl",
+      "zl"
+    ],
+    "cover": "柚子.webp"
+  },
+  {
+    "id": "f060",
+    "name": "猕猴桃",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 144,
+      "phosphorus": 26,
+      "sodium": 10,
+      "energy": 62
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾水果，CKD 3-5期应避免",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "奇异果"
+    ],
+    "pinyin": "mihoutao",
+    "pinyinInitials": "mht",
+    "aliasesPinyin": [
+      "qiyiguo"
+    ],
+    "aliasesPinyinInitials": [
+      "qyg"
+    ],
+    "cover": "猕猴桃.webp"
+  },
+  {
+    "id": "f061",
+    "name": "香蕉",
+    "nutrition": {
+      "protein": 1.4,
+      "potassium": 256,
+      "phosphorus": 28,
+      "sodium": 0.8,
+      "energy": 94
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾水果，应避免食用",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "甘蕉",
+      "大蕉",
+      "弓蕉"
+    ],
+    "pinyin": "xiangjiao",
+    "pinyinInitials": "xj",
+    "aliasesPinyin": [
+      "ganjiao",
+      "dajiao",
+      "gongjiao"
+    ],
+    "aliasesPinyinInitials": [
+      "gj",
+      "dj",
+      "gj"
+    ],
+    "cover": "香蕉.webp"
+  },
+  {
+    "id": "f062",
+    "name": "芒果",
+    "nutrition": {
+      "protein": 0.6,
+      "potassium": 138,
+      "phosphorus": 11,
+      "sodium": 2.8,
+      "energy": 35
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，每次半个",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "杧果",
+      "马蒙",
+      "檬果"
+    ],
+    "pinyin": "mangguo",
+    "pinyinInitials": "mg",
+    "aliasesPinyin": [
+      "mangguo",
+      "mameng",
+      "mengguo"
+    ],
+    "aliasesPinyinInitials": [
+      "mg",
+      "mm",
+      "mg"
+    ],
+    "cover": "芒果.webp"
+  },
+  {
+    "id": "f063",
+    "name": "火龙果",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 20,
+      "phosphorus": 35,
+      "sodium": 2.7,
+      "energy": 56
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "极低钾，可放心食用",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "红龙果",
+      "仙蜜果",
+      "玉龙果"
+    ],
+    "pinyin": "huolongguo",
+    "pinyinInitials": "hlg",
+    "aliasesPinyin": [
+      "honglongguo",
+      "xianmiguo",
+      "yulongguo"
+    ],
+    "aliasesPinyinInitials": [
+      "hlg",
+      "xmg",
+      "ylg"
+    ],
+    "cover": "火龙果.webp"
+  },
+  {
+    "id": "f064",
+    "name": "木瓜",
+    "nutrition": {
+      "protein": 0.4,
+      "potassium": 18,
+      "phosphorus": 12,
+      "sodium": 28,
+      "energy": 29
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "极低钾，适合CKD患者",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "番木瓜",
+      "乳瓜",
+      "万寿果"
+    ],
+    "pinyin": "mugua",
+    "pinyinInitials": "mg",
+    "aliasesPinyin": [
+      "fanmugua",
+      "rugua",
+      "wanshouguo"
+    ],
+    "aliasesPinyinInitials": [
+      "fmg",
+      "rg",
+      "wsg"
+    ],
+    "cover": "木瓜.webp"
+  },
+  {
+    "id": "f065",
+    "name": "蓝莓",
+    "nutrition": {
+      "protein": 0.7,
+      "potassium": 77,
+      "phosphorus": 12,
+      "sodium": 1,
+      "energy": 57
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，富含抗氧化物质",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "越橘",
+      "美国蓝莓",
+      "蓝浆果"
+    ],
+    "pinyin": "lanmei",
+    "pinyinInitials": "lm",
+    "aliasesPinyin": [
+      "yueju",
+      "meiguolanmei",
+      "lanjiangguo"
+    ],
+    "aliasesPinyinInitials": [
+      "yj",
+      "mglm",
+      "ljg"
+    ],
+    "cover": "蓝莓.webp"
+  },
+  {
+    "id": "f066",
+    "name": "鸡蛋",
+    "nutrition": {
+      "protein": 12.8,
+      "potassium": 121,
+      "phosphorus": 182,
+      "sodium": 125.7,
+      "energy": 143
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，每天1个，蛋黄含磷较高可少吃",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "鸡子",
+      "整蛋",
+      "生鸡蛋"
+    ],
+    "pinyin": "jidan",
+    "pinyinInitials": "jd",
+    "aliasesPinyin": [
+      "jizi",
+      "zhengdan",
+      "shengjidan"
+    ],
+    "aliasesPinyinInitials": [
+      "jz",
+      "zd",
+      "sjd"
+    ],
+    "cover": "鸡蛋.webp"
+  },
+  {
+    "id": "f067",
+    "name": "鸡蛋白",
+    "nutrition": {
+      "protein": 11.6,
+      "potassium": 132,
+      "phosphorus": 18,
+      "sodium": 79.4,
+      "energy": 61
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "纯蛋白，磷含量极低，适合CKD患者",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "蛋白",
+      "蛋清",
+      "鸡蛋清"
+    ],
+    "pinyin": "jidanbai",
+    "pinyinInitials": "jdb",
+    "aliasesPinyin": [
+      "danbai",
+      "danqing",
+      "jidanqing"
+    ],
+    "aliasesPinyinInitials": [
+      "db",
+      "dq",
+      "jdq"
+    ],
+    "cover": "鸡蛋白.webp"
+  },
+  {
+    "id": "f068",
+    "name": "鸡蛋黄",
+    "nutrition": {
+      "protein": 15.2,
+      "potassium": 95,
+      "phosphorus": 240,
+      "sodium": 54.9,
+      "energy": 325
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量高，建议少吃或不吃",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "蛋黄"
+    ],
+    "pinyin": "jidanhuang",
+    "pinyinInitials": "jdh",
+    "aliasesPinyin": [
+      "danhuang"
+    ],
+    "aliasesPinyinInitials": [
+      "dh"
+    ],
+    "cover": "鸡蛋黄.webp"
+  },
+  {
+    "id": "f069",
+    "name": "鸭蛋",
+    "nutrition": {
+      "protein": 12.6,
+      "potassium": 135,
+      "phosphorus": 226,
+      "sodium": 106,
+      "energy": 179
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量较高，适量食用",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "鸭子蛋",
+      "皮蛋（原料）"
+    ],
+    "pinyin": "yadan",
+    "pinyinInitials": "yd",
+    "aliasesPinyin": [
+      "yazidan",
+      "pidan（yuanliao）"
+    ],
+    "aliasesPinyinInitials": [
+      "yzd",
+      "pd（yl）"
+    ],
+    "cover": "鸭蛋.webp"
+  },
+  {
+    "id": "f070",
+    "name": "牛奶",
+    "nutrition": {
+      "protein": 2.7,
+      "potassium": 157,
+      "phosphorus": 83,
+      "sodium": 28.3,
+      "energy": 54
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "建议每天不超过250ml",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "全脂牛奶",
+      "鲜牛奶",
+      "白奶"
+    ],
+    "pinyin": "niunai",
+    "pinyinInitials": "nn",
+    "aliasesPinyin": [
+      "quanzhiniunai",
+      "xianniunai",
+      "bainai"
+    ],
+    "aliasesPinyinInitials": [
+      "qznn",
+      "xnn",
+      "bn"
+    ],
+    "cover": "鲜牛奶.webp"
+  },
+  {
+    "id": "f071",
+    "name": "酸奶",
+    "nutrition": {
+      "protein": 3,
+      "potassium": 272,
+      "phosphorus": 168,
+      "sodium": 69.6,
+      "energy": 89
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "选择无添加糖酸奶",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "酸牛奶",
+      "乳酪"
+    ],
+    "pinyin": "suannai",
+    "pinyinInitials": "sn",
+    "aliasesPinyin": [
+      "suanniunai",
+      "rulao"
+    ],
+    "aliasesPinyinInitials": [
+      "snn",
+      "rl"
+    ],
+    "cover": "酸奶.webp"
+  },
+  {
+    "id": "f072",
+    "name": "猪肉（瘦）",
+    "nutrition": {
+      "protein": 20.3,
+      "potassium": 305,
+      "phosphorus": 189,
+      "sodium": 57.5,
+      "energy": 143
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，每次50-75g",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "猪瘦肉",
+      "精肉",
+      "红肉（猪）"
+    ],
+    "pinyin": "zhurou（shou）",
+    "pinyinInitials": "zr（s）",
+    "aliasesPinyin": [
+      "zhushourou",
+      "jingrou",
+      "hongrou（zhu）"
+    ],
+    "aliasesPinyinInitials": [
+      "zsr",
+      "jr",
+      "hr（z）"
+    ],
+    "cover": "猪肉（瘦）.webp"
+  },
+  {
+    "id": "f073",
+    "name": "牛肉（瘦）",
+    "nutrition": {
+      "protein": 20.2,
+      "potassium": 284,
+      "phosphorus": 172,
+      "sodium": 53.6,
+      "energy": 107
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，每次50-75g",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "牛瘦肉",
+      "牛肉",
+      "黄牛肉"
+    ],
+    "pinyin": "niurou（shou）",
+    "pinyinInitials": "nr（s）",
+    "aliasesPinyin": [
+      "niushourou",
+      "niurou",
+      "huangniurou"
+    ],
+    "aliasesPinyinInitials": [
+      "nsr",
+      "nr",
+      "hnr"
+    ],
+    "cover": "牛肉（瘦）.webp"
+  },
+  {
+    "id": "f074",
+    "name": "鸡肉",
+    "nutrition": {
+      "protein": 19.3,
+      "potassium": 251,
+      "phosphorus": 156,
+      "sodium": 63.3,
+      "energy": 167
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "去皮食用，每次50-75g",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "鸡肉",
+      "整鸡肉",
+      "三黄鸡"
+    ],
+    "pinyin": "jirou",
+    "pinyinInitials": "jr",
+    "aliasesPinyin": [
+      "jirou",
+      "zhengjirou",
+      "sanhuangji"
+    ],
+    "aliasesPinyinInitials": [
+      "jr",
+      "zjr",
+      "shj"
+    ],
+    "cover": "鸡肉.webp"
+  },
+  {
+    "id": "f075",
+    "name": "鸭肉",
+    "nutrition": {
+      "protein": 15.5,
+      "potassium": 191,
+      "phosphorus": 122,
+      "sodium": 69,
+      "energy": 238
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "去皮去脂，适量食用",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "家鸭肉",
+      "鸭子"
+    ],
+    "pinyin": "yarou",
+    "pinyinInitials": "yr",
+    "aliasesPinyin": [
+      "jiayarou",
+      "yazi"
+    ],
+    "aliasesPinyinInitials": [
+      "jyr",
+      "yz"
+    ],
+    "cover": "鸭肉.webp"
+  },
+  {
+    "id": "f076",
+    "name": "鱼肉（草鱼）",
+    "nutrition": {
+      "protein": 16.6,
+      "potassium": 312,
+      "phosphorus": 203,
+      "sodium": 46,
+      "energy": 114
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，每周2-3次",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "草鱼",
+      "鲩鱼",
+      "皖鱼"
+    ],
+    "pinyin": "yurou（caoyu）",
+    "pinyinInitials": "yr（cy）",
+    "aliasesPinyin": [
+      "caoyu",
+      "huanyu",
+      "wanyu"
+    ],
+    "aliasesPinyinInitials": [
+      "cy",
+      "hy",
+      "wy"
+    ],
+    "cover": "鱼肉（草鱼）.webp"
+  },
+  {
+    "id": "f077",
+    "name": "三文鱼",
+    "nutrition": {
+      "protein": 17.2,
+      "potassium": 361,
+      "phosphorus": 154,
+      "sodium": 63.3,
+      "energy": 139
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "富含Omega-3，适量食用",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "鲑鱼",
+      "大马哈鱼",
+      "撒蒙鱼"
+    ],
+    "pinyin": "sanwenyu",
+    "pinyinInitials": "swy",
+    "aliasesPinyin": [
+      "guiyu",
+      "damahayu",
+      "samengyu"
+    ],
+    "aliasesPinyinInitials": [
+      "gy",
+      "dmhy",
+      "smy"
+    ],
+    "cover": "三文鱼.webp"
+  },
+  {
+    "id": "f078",
+    "name": "虾",
+    "nutrition": {
+      "protein": 16.8,
+      "potassium": 228,
+      "phosphorus": 196,
+      "sodium": 302.2,
+      "energy": 80
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量中等，每次5-6只",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "河虾",
+      "基围虾",
+      "对虾",
+      "明虾"
+    ],
+    "pinyin": "xia",
+    "pinyinInitials": "x",
+    "aliasesPinyin": [
+      "hexia",
+      "jiweixia",
+      "duixia",
+      "mingxia"
+    ],
+    "aliasesPinyinInitials": [
+      "hx",
+      "jwx",
+      "dx",
+      "mx"
+    ],
+    "cover": "虾.webp"
+  },
+  {
+    "id": "f079",
+    "name": "猪肝",
+    "nutrition": {
+      "protein": 19.3,
+      "potassium": 235,
+      "phosphorus": 310,
+      "sodium": 68.6,
+      "energy": 130
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高磷高嘌呤，应避免食用",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "猪肝脏"
+    ],
+    "pinyin": "zhugan",
+    "pinyinInitials": "zg",
+    "aliasesPinyin": [
+      "zhuganzang"
+    ],
+    "aliasesPinyinInitials": [
+      "zgz"
+    ],
+    "cover": "猪肝.webp"
+  },
+  {
+    "id": "f080",
+    "name": "瘦火腿",
+    "nutrition": {
+      "protein": 16,
+      "potassium": 220,
+      "phosphorus": 90,
+      "sodium": 1086.7,
+      "energy": 327
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "钠含量极高，不建议食用",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "低盐火腿",
+      "熟火腿"
+    ],
+    "pinyin": "shouhuotui",
+    "pinyinInitials": "sht",
+    "aliasesPinyin": [
+      "diyanhuotui",
+      "shuhuotui"
+    ],
+    "aliasesPinyinInitials": [
+      "dyht",
+      "sht"
+    ],
+    "cover": "瘦火腿.webp"
+  },
+  {
+    "id": "f081",
+    "name": "香肠",
+    "nutrition": {
+      "protein": 24.1,
+      "potassium": 453,
+      "phosphorus": 198,
+      "sodium": 2309.2,
+      "energy": 503
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠高磷，加工肉制品应避免",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "腊肠",
+      "广式腊肠",
+      "熏肠"
+    ],
+    "pinyin": "xiangchang",
+    "pinyinInitials": "xc",
+    "aliasesPinyin": [
+      "lachang",
+      "guangshilachang",
+      "xunchang"
+    ],
+    "aliasesPinyinInitials": [
+      "lc",
+      "gslc",
+      "xc"
+    ],
+    "cover": "香肠.webp"
+  },
+  {
+    "id": "f082",
+    "name": "培根",
+    "nutrition": {
+      "protein": 22.3,
+      "potassium": 294,
+      "phosphorus": 228,
+      "sodium": 51.2,
+      "energy": 181
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠高脂，不建议食用",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "烟熏培根",
+      "腌肉"
+    ],
+    "pinyin": "peigen",
+    "pinyinInitials": "pg",
+    "aliasesPinyin": [
+      "yanxunpeigen",
+      "yanrou"
+    ],
+    "aliasesPinyinInitials": [
+      "yxpg",
+      "yr"
+    ],
+    "cover": "培根.webp"
+  },
+  {
+    "id": "f083",
+    "name": "豆腐",
+    "nutrition": {
+      "protein": 6.2,
+      "potassium": 154,
+      "phosphorus": 90,
+      "sodium": 3.1,
+      "energy": 57
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "优质植物蛋白，每次100g",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "豆腐",
+      "嫩豆腐",
+      "绢豆腐",
+      "软豆腐"
+    ],
+    "pinyin": "doufu",
+    "pinyinInitials": "df",
+    "aliasesPinyin": [
+      "doufu",
+      "nendoufu",
+      "juandoufu",
+      "ruandoufu"
+    ],
+    "aliasesPinyinInitials": [
+      "df",
+      "ndf",
+      "jdf",
+      "rdf"
+    ],
+    "cover": "豆腐.webp"
+  },
+  {
+    "id": "f084",
+    "name": "豆浆",
+    "nutrition": {
+      "protein": 1.8,
+      "potassium": 48,
+      "phosphorus": 30,
+      "sodium": 3,
+      "energy": 16
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "每天不超过250ml",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "豆奶",
+      "豆乳"
+    ],
+    "pinyin": "doujiang",
+    "pinyinInitials": "dj",
+    "aliasesPinyin": [
+      "dounai",
+      "douru"
+    ],
+    "aliasesPinyinInitials": [
+      "dn",
+      "dr"
+    ],
+    "cover": "豆浆.webp"
+  },
+  {
+    "id": "f085",
+    "name": "腐竹",
+    "nutrition": {
+      "protein": 44.6,
+      "potassium": 553,
+      "phosphorus": 284,
+      "sodium": 26.5,
+      "energy": 462
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "高蛋白，每次少量",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "豆腐皮",
+      "豆皮",
+      "油皮"
+    ],
+    "pinyin": "fuzhu",
+    "pinyinInitials": "fz",
+    "aliasesPinyin": [
+      "doufupi",
+      "doupi",
+      "youpi"
+    ],
+    "aliasesPinyinInitials": [
+      "dfp",
+      "dp",
+      "yp"
+    ],
+    "cover": "豆腐皮.webp"
+  },
+  {
+    "id": "f086",
+    "name": "食盐",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 14,
+      "phosphorus": 0,
+      "sodium": 39311,
+      "energy": 0
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "严格控制用量；3-5期每日<2g，透析期每日<2g，烹饪时尽量减少用量",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "盐",
+      "精盐",
+      "细盐"
+    ],
+    "pinyin": "shiyan",
+    "pinyinInitials": "sy",
+    "aliasesPinyin": [
+      "yan",
+      "jingyan",
+      "xiyan"
+    ],
+    "aliasesPinyinInitials": [
+      "y",
+      "jy",
+      "xy"
+    ],
+    "cover": "食盐.webp"
+  },
+  {
+    "id": "f087",
+    "name": "酱油",
+    "nutrition": {
+      "protein": 5.6,
+      "potassium": 337,
+      "phosphorus": 204,
+      "sodium": 5757,
+      "energy": 64
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "高钠调味品，严格限量使用；每次不超过5ml，可用低盐酱油替代",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "生抽",
+      "老抽",
+      "豉油"
+    ],
+    "pinyin": "jiangyou",
+    "pinyinInitials": "jy",
+    "aliasesPinyin": [
+      "shengchou",
+      "laochou",
+      "chiyou"
+    ],
+    "aliasesPinyinInitials": [
+      "sc",
+      "lc",
+      "cy"
+    ],
+    "cover": "酱油.webp"
+  },
+  {
+    "id": "f088",
+    "name": "醋",
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 351,
+      "phosphorus": 96,
+      "sodium": 262,
+      "energy": 31
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "可适量使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "陈醋",
+      "米醋",
+      "白醋"
+    ],
+    "pinyin": "cu",
+    "pinyinInitials": "c",
+    "aliasesPinyin": [
+      "chencu",
+      "micu",
+      "baicu"
+    ],
+    "aliasesPinyinInitials": [
+      "cc",
+      "mc",
+      "bc"
+    ],
+    "cover": "醋.webp"
+  },
+  {
+    "id": "f089",
+    "name": "鸡精",
+    "nutrition": {
+      "protein": 10.7,
+      "potassium": 88,
+      "phosphorus": 66,
+      "sodium": 18864.4,
+      "energy": 199
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠，建议避免使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "鸡粉"
+    ],
+    "pinyin": "jijing",
+    "pinyinInitials": "jj",
+    "aliasesPinyin": [
+      "jifen"
+    ],
+    "aliasesPinyinInitials": [
+      "jf"
+    ],
+    "cover": "鸡精.webp"
+  },
+  {
+    "id": "f090",
+    "name": "味精",
+    "nutrition": {
+      "protein": 40.1,
+      "potassium": 4,
+      "phosphorus": 4,
+      "sodium": 8160,
+      "energy": 272
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠，建议避免",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "谷氨酸钠",
+      "MSG"
+    ],
+    "pinyin": "weijing",
+    "pinyinInitials": "wj",
+    "aliasesPinyin": [
+      "guansuanna",
+      "MSG"
+    ],
+    "aliasesPinyinInitials": [
+      "gāsn",
+      "MSG"
+    ],
+    "cover": "味精.webp"
+  },
+  {
+    "id": "f091",
+    "name": "蚝油",
+    "nutrition": {
+      "protein": 1,
+      "potassium": 0,
+      "phosphorus": 0,
+      "sodium": 4800,
+      "energy": 100
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠，每次不超过5ml",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "牡蛎油",
+      "海蛎子酱"
+    ],
+    "pinyin": "haoyou",
+    "pinyinInitials": "hy",
+    "aliasesPinyin": [
+      "muliyou",
+      "hailizijiang"
+    ],
+    "aliasesPinyinInitials": [
+      "mly",
+      "hlzj"
+    ],
+    "cover": "蚝油.webp"
+  },
+  {
+    "id": "f092",
+    "name": "豆瓣酱",
+    "nutrition": {
+      "protein": 13.6,
+      "potassium": 772,
+      "phosphorus": 154,
+      "sodium": 6012,
+      "energy": 182
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钠高蛋白，慎用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "黄豆酱",
+      "面酱"
+    ],
+    "pinyin": "doubanjiang",
+    "pinyinInitials": "dbj",
+    "aliasesPinyin": [
+      "huangdoujiang",
+      "mianjiang"
+    ],
+    "aliasesPinyinInitials": [
+      "hdj",
+      "mj"
+    ],
+    "cover": "豆瓣酱.webp"
+  },
+  {
+    "id": "f093",
+    "name": "花生油",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 1,
+      "phosphorus": 15,
+      "sodium": 3.5,
+      "energy": 883
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "可适量使用，每天25-30g",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "植物油",
+      "食用油"
+    ],
+    "pinyin": "huashengyou",
+    "pinyinInitials": "hsy",
+    "aliasesPinyin": [
+      "zhiwuyou",
+      "shiyongyou"
+    ],
+    "aliasesPinyinInitials": [
+      "zwy",
+      "syy"
+    ],
+    "cover": "花生油.webp"
+  },
+  {
+    "id": "f094",
+    "name": "橄榄油",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 0,
+      "phosphorus": 0,
+      "sodium": 0,
+      "energy": 884
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "健康油脂，可适量使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "特级初榨橄榄油",
+      "冷榨橄榄油"
+    ],
+    "pinyin": "ganlanyou",
+    "pinyinInitials": "gly",
+    "aliasesPinyin": [
+      "tejichuzhaganlanyou",
+      "lengzhaganlanyou"
+    ],
+    "aliasesPinyinInitials": [
+      "tjczgly",
+      "lzgly"
+    ],
+    "cover": "橄榄油.webp"
+  },
+  {
+    "id": "f095",
+    "name": "芝麻油",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 0,
+      "phosphorus": 0,
+      "sodium": 0.3,
+      "energy": 882
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "少量调味使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "香油",
+      "麻油"
+    ],
+    "pinyin": "zhimayou",
+    "pinyinInitials": "zmy",
+    "aliasesPinyin": [
+      "xiangyou",
+      "mayou"
+    ],
+    "aliasesPinyinInitials": [
+      "xy",
+      "my"
+    ],
+    "cover": "芝麻油.webp"
+  },
+  {
+    "id": "f096",
+    "name": "白糖",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 5,
+      "phosphorus": 8,
+      "sodium": 0.4,
+      "energy": 406
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "糖尿病患者需控制",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "砂糖",
+      "白砂糖",
+      "绵白糖"
+    ],
+    "pinyin": "baitang",
+    "pinyinInitials": "bt",
+    "aliasesPinyin": [
+      "shatang",
+      "baishatang",
+      "mianbaitang"
+    ],
+    "aliasesPinyinInitials": [
+      "st",
+      "bst",
+      "mbt"
+    ],
+    "cover": "白糖.webp"
+  },
+  {
+    "id": "f097",
+    "name": "蜂蜜",
+    "nutrition": {
+      "protein": 0.4,
+      "potassium": 28,
+      "phosphorus": 3,
+      "sodium": 0.3,
+      "energy": 326
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "每次不超过1勺",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "蜜糖",
+      "土蜂蜜"
+    ],
+    "pinyin": "fengmi",
+    "pinyinInitials": "fm",
+    "aliasesPinyin": [
+      "mitang",
+      "tufengmi"
+    ],
+    "aliasesPinyinInitials": [
+      "mt",
+      "tfm"
+    ],
+    "cover": "蜂蜜.webp"
+  },
+  {
+    "id": "f098",
+    "name": "番茄酱",
+    "nutrition": {
+      "protein": 4.9,
+      "potassium": 989,
+      "phosphorus": 117,
+      "sodium": 37.1,
+      "energy": 86
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "高钠，少量使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "茄汁",
+      "番茄沙司"
+    ],
+    "pinyin": "fanqiejiang",
+    "pinyinInitials": "fqj",
+    "aliasesPinyin": [
+      "qiezhi",
+      "fanqieshasi"
+    ],
+    "aliasesPinyinInitials": [
+      "qz",
+      "fqss"
+    ],
+    "cover": "番茄酱.webp"
+  },
+  {
+    "id": "f099",
+    "name": "沙拉酱",
+    "nutrition": {
+      "protein": 2.8,
+      "potassium": 160,
+      "phosphorus": 71,
+      "sodium": 733.6,
+      "energy": 712
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "高脂高钠，建议自制低脂版本",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "蛋黄酱",
+      "千岛酱",
+      "美乃滋"
+    ],
+    "pinyin": "shalajiang",
+    "pinyinInitials": "slj",
+    "aliasesPinyin": [
+      "danhuangjiang",
+      "qiandaojiang",
+      "meinaizi"
+    ],
+    "aliasesPinyinInitials": [
+      "dhj",
+      "qdj",
+      "mnz"
+    ],
+    "cover": "沙拉酱.webp"
+  },
+  {
+    "id": "f100",
+    "name": "料酒",
+    "nutrition": {
+      "protein": 0.3,
+      "potassium": 0,
+      "phosphorus": 0,
+      "sodium": 270,
+      "energy": 1
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "可适量使用去腥",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "黄酒",
+      "花雕",
+      "绍兴酒"
+    ],
+    "pinyin": "liaojiu",
+    "pinyinInitials": "lj",
+    "aliasesPinyin": [
+      "huangjiu",
+      "huadiao",
+      "shaoxingjiu"
+    ],
+    "aliasesPinyinInitials": [
+      "hj",
+      "hd",
+      "sxj"
+    ],
+    "cover": "料酒.webp"
+  },
+  {
+    "id": "f101",
+    "name": "黄豆",
+    "nutrition": {
+      "protein": 35,
+      "potassium": 1503,
+      "phosphorus": 465,
+      "sodium": 2.2,
+      "energy": 389
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾高蛋白，CKD 3-5期应避免",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "大豆",
+      "毛豆（干）"
+    ],
+    "pinyin": "huangdou",
+    "pinyinInitials": "hd",
+    "aliasesPinyin": [
+      "dadou",
+      "maodou（gan）"
+    ],
+    "aliasesPinyinInitials": [
+      "dd",
+      "md（g）"
+    ],
+    "cover": "黄豆.webp"
+  },
+  {
+    "id": "f102",
+    "name": "黑豆",
+    "nutrition": {
+      "protein": 36,
+      "potassium": 1377,
+      "phosphorus": 500,
+      "sodium": 3,
+      "energy": 402
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾高磷，应避免",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "乌豆",
+      "黑大豆"
+    ],
+    "pinyin": "heidou",
+    "pinyinInitials": "hd",
+    "aliasesPinyin": [
+      "wudou",
+      "heidadou"
+    ],
+    "aliasesPinyinInitials": [
+      "wd",
+      "hdd"
+    ],
+    "cover": "黑豆.webp"
+  },
+  {
+    "id": "f103",
+    "name": "绿豆芽",
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 68,
+      "phosphorus": 37,
+      "sodium": 4.4,
+      "energy": 20
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾低磷，可放心食用",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "豆芽",
+      "豆芽菜"
+    ],
+    "pinyin": "lvdouya",
+    "pinyinInitials": "ldy",
+    "aliasesPinyin": [
+      "douya",
+      "douyacai"
+    ],
+    "aliasesPinyinInitials": [
+      "dy",
+      "dyc"
+    ],
+    "cover": "绿豆芽.webp"
+  },
+  {
+    "id": "f104",
+    "name": "黄豆芽",
+    "nutrition": {
+      "protein": 4.5,
+      "potassium": 160,
+      "phosphorus": 74,
+      "sodium": 7.2,
+      "energy": 48
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "中等钾，适量食用",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "大豆芽"
+    ],
+    "pinyin": "huangdouya",
+    "pinyinInitials": "hdy",
+    "aliasesPinyin": [
+      "dadouya"
+    ],
+    "aliasesPinyinInitials": [
+      "ddy"
+    ],
+    "cover": "黄豆芽.webp"
+  },
+  {
+    "id": "f105",
+    "name": "豆腐干",
+    "nutrition": {
+      "protein": 16.2,
+      "potassium": 140,
+      "phosphorus": 273,
+      "sodium": 76.5,
+      "energy": 143
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钠含量较高，注意份量",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "香干",
+      "五香豆腐干"
+    ],
+    "pinyin": "doufugan",
+    "pinyinInitials": "dfg",
+    "aliasesPinyin": [
+      "xianggan",
+      "wuxiangdoufugan"
+    ],
+    "aliasesPinyinInitials": [
+      "xg",
+      "wxdfg"
+    ],
+    "cover": "香干.webp"
+  },
+  {
+    "id": "f106",
+    "name": "油豆腐",
+    "nutrition": {
+      "protein": 17,
+      "potassium": 158,
+      "phosphorus": 238,
+      "sodium": 32.5,
+      "energy": 243
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "高脂，适量食用",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "豆泡",
+      "炸豆腐"
+    ],
+    "pinyin": "youdoufu",
+    "pinyinInitials": "ydf",
+    "aliasesPinyin": [
+      "doupao",
+      "zhadoufu"
+    ],
+    "aliasesPinyinInitials": [
+      "dp",
+      "zdf"
+    ],
+    "cover": "油豆腐.webp"
+  },
+  {
+    "id": "f107",
+    "name": "腐乳",
+    "nutrition": {
+      "protein": 12.3,
+      "potassium": 120,
+      "phosphorus": 100,
+      "sodium": 2080,
+      "energy": 154
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "极高钠，应避免",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "豆腐乳",
+      "南乳",
+      "红腐乳"
+    ],
+    "pinyin": "furu",
+    "pinyinInitials": "fr",
+    "aliasesPinyin": [
+      "doufuru",
+      "nanru",
+      "hongfuru"
+    ],
+    "aliasesPinyinInitials": [
+      "dfr",
+      "nr",
+      "hfr"
+    ],
+    "cover": "腐乳.webp"
+  },
+  {
+    "id": "f108",
+    "name": "核桃",
+    "nutrition": {
+      "protein": 14.9,
+      "potassium": 385,
+      "phosphorus": 294,
+      "sodium": 6.4,
+      "energy": 638
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高磷高钾，CKD 3-5期应避免",
+    "categoryId": "fc_nuts",
+    "aliases": [
+      "胡桃",
+      "羌桃",
+      "万岁子"
+    ],
+    "pinyin": "hetao",
+    "pinyinInitials": "ht",
+    "aliasesPinyin": [
+      "hutao",
+      "qiangtao",
+      "wansuizi"
+    ],
+    "aliasesPinyinInitials": [
+      "ht",
+      "qt",
+      "wsz"
+    ],
+    "cover": "核桃.webp"
+  },
+  {
+    "id": "f109",
+    "name": "花生(鲜)",
+    "nutrition": {
+      "protein": 12,
+      "potassium": 390,
+      "phosphorus": 250,
+      "sodium": 3.7,
+      "energy": 310
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高磷，建议避免",
+    "categoryId": "fc_nuts",
+    "aliases": [
+      "落花生",
+      "地豆",
+      "番豆",
+      "长生果"
+    ],
+    "pinyin": "huasheng",
+    "pinyinInitials": "hs",
+    "aliasesPinyin": [
+      "luohuasheng",
+      "didou",
+      "fandou",
+      "changshengguo"
+    ],
+    "aliasesPinyinInitials": [
+      "lhs",
+      "dd",
+      "fd",
+      "csg"
+    ],
+    "cover": "花生.webp"
+  },
+  {
+    "id": "f110",
+    "name": "腰果",
+    "nutrition": {
+      "protein": 17.3,
+      "potassium": 503,
+      "phosphorus": 395,
+      "sodium": 251.3,
+      "energy": 556
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高磷高钾，应避免",
+    "categoryId": "fc_nuts",
+    "aliases": [
+      "肾形果",
+      "槚如树果"
+    ],
+    "pinyin": "yaoguo",
+    "pinyinInitials": "yg",
+    "aliasesPinyin": [
+      "shenxingguo",
+      "jiarushuguo"
+    ],
+    "aliasesPinyinInitials": [
+      "sxg",
+      "jrsg"
+    ],
+    "cover": "腰果.webp"
+  },
+  {
+    "id": "f111",
+    "name": "芝麻",
+    "nutrition": {
+      "protein": 19.1,
+      "potassium": 358,
+      "phosphorus": 516,
+      "sodium": 8.3,
+      "energy": 553
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "磷含量极高，应避免",
+    "categoryId": "fc_nuts",
+    "aliases": [
+      "胡麻",
+      "脂麻",
+      "黑芝麻（白芝麻）"
+    ],
+    "pinyin": "zhima",
+    "pinyinInitials": "zm",
+    "aliasesPinyin": [
+      "huma",
+      "zhima",
+      "heizhima（baizhima）"
+    ],
+    "aliasesPinyinInitials": [
+      "hm",
+      "zm",
+      "hzm（bzm）"
+    ],
+    "cover": "芝麻.webp"
+  },
+  {
+    "id": "f112",
+    "name": "莲子",
+    "nutrition": {
+      "protein": 17.2,
+      "potassium": 846,
+      "phosphorus": 550,
+      "sodium": 5.1,
+      "energy": 354
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾，CKD 3-5期应避免",
+    "categoryId": "fc_other",
+    "aliases": [
+      "莲实",
+      "莲肉"
+    ],
+    "pinyin": "lianzi",
+    "pinyinInitials": "lz",
+    "aliasesPinyin": [
+      "lianshi",
+      "lianrou"
+    ],
+    "aliasesPinyinInitials": [
+      "ls",
+      "lr"
+    ],
+    "cover": "莲子.webp"
+  },
+  {
+    "id": "f113",
+    "name": "红枣(干)",
+    "nutrition": {
+      "protein": 3.2,
+      "potassium": 524,
+      "phosphorus": 51,
+      "sodium": 6.2,
+      "energy": 280
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾，每次1-2颗",
+    "categoryId": "fc_other",
+    "aliases": [
+      "大枣",
+      "枣子",
+      "干枣"
+    ],
+    "pinyin": "hongzao",
+    "pinyinInitials": "hz",
+    "aliasesPinyin": [
+      "dazao",
+      "zaozi",
+      "ganzao"
+    ],
+    "aliasesPinyinInitials": [
+      "dz",
+      "zz",
+      "gz"
+    ],
+    "cover": "红枣.webp"
+  },
+  {
+    "id": "f114",
+    "name": "枸杞",
+    "nutrition": {
+      "protein": 5.6,
+      "potassium": 170,
+      "phosphorus": 32,
+      "sodium": 29.8,
+      "energy": 47
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "每次不超过10g",
+    "categoryId": "fc_other",
+    "aliases": [
+      "枸杞子",
+      "红枸杞",
+      "西枸杞"
+    ],
+    "pinyin": "gouqi",
+    "pinyinInitials": "gq",
+    "aliasesPinyin": [
+      "gouqizi",
+      "honggouqi",
+      "xigouqi"
+    ],
+    "aliasesPinyinInitials": [
+      "gqz",
+      "hgq",
+      "xgq"
+    ],
+    "cover": "枸杞.webp"
+  },
+  {
+    "id": "f115",
+    "name": "银耳",
+    "nutrition": {
+      "protein": 10,
+      "potassium": 1588,
+      "phosphorus": 369,
+      "sodium": 82.1,
+      "energy": 261
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾，可做汤羹",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "雪耳",
+      "白木耳",
+      "银耳菌"
+    ],
+    "pinyin": "yiner",
+    "pinyinInitials": "yě",
+    "aliasesPinyin": [
+      "xueer",
+      "baimuer",
+      "yinerjun"
+    ],
+    "aliasesPinyinInitials": [
+      "xě",
+      "bmě",
+      "yěj"
+    ],
+    "cover": "银耳.webp"
+  },
+  {
+    "id": "f116",
+    "name": "木耳",
+    "nutrition": {
+      "protein": 12.1,
+      "potassium": 757,
+      "phosphorus": 292,
+      "sodium": 48.5,
+      "energy": 265
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高钾，焯水后少量食用",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "黑木耳",
+      "云耳",
+      "黑云耳"
+    ],
+    "pinyin": "muer",
+    "pinyinInitials": "mě",
+    "aliasesPinyin": [
+      "heimuer",
+      "yuner",
+      "heiyuner"
+    ],
+    "aliasesPinyinInitials": [
+      "hmě",
+      "yě",
+      "hyě"
+    ],
+    "cover": "木耳.webp"
+  },
+  {
+    "id": "f117",
+    "name": "海带",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 246,
+      "phosphorus": 22,
+      "sodium": 8.6,
+      "energy": 13
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "red"
+    },
+    "tips": "中等钾，透析患者慎食",
+    "categoryId": "fc_other",
+    "aliases": [
+      "昆布",
+      "江白菜",
+      "纶布"
+    ],
+    "pinyin": "haidai",
+    "pinyinInitials": "hd",
+    "aliasesPinyin": [
+      "kunbu",
+      "jiangbaicai",
+      "lunbu"
+    ],
+    "aliasesPinyinInitials": [
+      "kb",
+      "jbc",
+      "lb"
+    ],
+    "cover": "海带.webp"
+  },
+  {
+    "id": "f118",
+    "name": "紫菜",
+    "nutrition": {
+      "protein": 26.7,
+      "potassium": 1796,
+      "phosphorus": 350,
+      "sodium": 710.5,
+      "energy": 251
+    },
+    "advice": {
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "极高钾，应避免",
+    "categoryId": "fc_other",
+    "aliases": [
+      "紫苔",
+      "坛紫菜"
+    ],
+    "pinyin": "zicai",
+    "pinyinInitials": "zc",
+    "aliasesPinyin": [
+      "zitai",
+      "tanzicai"
+    ],
+    "aliasesPinyinInitials": [
+      "zt",
+      "tzc"
+    ],
+    "cover": "紫菜.webp"
+  },
+  {
+    "id": "f119",
+    "name": "魔芋",
+    "nutrition": {
+      "protein": 4.6,
+      "potassium": 299,
+      "phosphorus": 272,
+      "sodium": 49.9,
+      "energy": 180
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "极低钾，可放心食用",
+    "categoryId": "fc_other",
+    "aliases": [
+      "蒟蒻",
+      "鬼芋",
+      "魔芋豆腐"
+    ],
+    "pinyin": "moyu",
+    "pinyinInitials": "my",
+    "aliasesPinyin": [
+      "juruo",
+      "guiyu",
+      "moyudoufu"
+    ],
+    "aliasesPinyinInitials": [
+      "jr",
+      "gy",
+      "mydf"
+    ],
+    "cover": "魔芋.webp"
+  },
+  {
+    "id": "f120",
+    "name": "淀粉",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 8,
+      "phosphorus": 25,
+      "sodium": 6.3,
+      "energy": 351
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低蛋白，适合制作面食",
+    "categoryId": "fc_other",
+    "aliases": [
+      "玉米淀粉",
+      "太白粉"
+    ],
+    "pinyin": "dianfen",
+    "pinyinInitials": "df",
+    "aliasesPinyin": [
+      "yumidianfen",
+      "taibaifen"
+    ],
+    "aliasesPinyinInitials": [
+      "ymdf",
+      "tbf"
+    ],
+    "cover": "淀粉.webp"
+  },
+  {
+    "id": "f121",
+    "name": "麦淀粉",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 8,
+      "phosphorus": 25,
+      "sodium": 6.3,
+      "energy": 351
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "极低蛋白主食，适合CKD 3-5期制作蒸饺、面条",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "澄粉",
+      "小麦淀粉",
+      "无蛋白粉"
+    ],
+    "pinyin": "maidianfen",
+    "pinyinInitials": "mdf",
+    "aliasesPinyin": [
+      "chengfen",
+      "xiaomaidianfen",
+      "wudanbaifen"
+    ],
+    "aliasesPinyinInitials": [
+      "cf",
+      "xmdf",
+      "wdbf"
+    ],
+    "cover": "麦淀粉.webp"
+  },
+  {
+    "id": "f122",
+    "name": "藜麦",
+    "nutrition": {
+      "protein": 14.1,
+      "potassium": 563,
+      "phosphorus": 457,
+      "sodium": 5,
+      "energy": 368
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "高蛋白高磷高钾，CKD 3-5期及透析患者不宜作主食",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "奎奴亚藜",
+      "南美藜"
+    ],
+    "pinyin": "limai",
+    "pinyinInitials": "lm",
+    "aliasesPinyin": [
+      "kuinuyali",
+      "nanmeili"
+    ],
+    "aliasesPinyinInitials": [
+      "knyl",
+      "nml"
+    ],
+    "cover": "藜麦.webp"
+  },
+  {
+    "id": "f123",
+    "name": "米线",
+    "nutrition": {
+      "protein": 4,
+      "potassium": 38,
+      "phosphorus": 35,
+      "sodium": 310.4,
+      "energy": 95
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低蛋白主食，少喝米线汤以减少钠摄入",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "米粉",
+      "过桥米线"
+    ],
+    "pinyin": "mixian",
+    "pinyinInitials": "mx",
+    "aliasesPinyin": [
+      "mifen",
+      "guoqiaomixian"
+    ],
+    "aliasesPinyinInitials": [
+      "mf",
+      "gqmx"
+    ],
+    "cover": "米线.webp"
+  },
+  {
+    "id": "f124",
+    "name": "河粉",
+    "nutrition": {
+      "protein": 8,
+      "potassium": 43,
+      "phosphorus": 53,
+      "sodium": 5.9,
+      "energy": 351
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低蛋白，炒粉时注意用油量",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "沙河粉",
+      "炒河粉"
+    ],
+    "pinyin": "hefen",
+    "pinyinInitials": "hf",
+    "aliasesPinyin": [
+      "shahefen",
+      "chaohefen"
+    ],
+    "aliasesPinyinInitials": [
+      "shf",
+      "chf"
+    ],
+    "cover": "河粉.webp"
+  },
+  {
+    "id": "f125",
+    "name": "茼蒿",
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 220,
+      "phosphorus": 36,
+      "sodium": 161.3,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钠偏高，建议焯水弃汤后食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "皇帝菜",
+      "蒿子秆",
+      "菊花菜"
+    ],
+    "pinyin": "tonghao",
+    "pinyinInitials": "th",
+    "aliasesPinyin": [
+      "huangdicai",
+      "haozigan",
+      "juhuacai"
+    ],
+    "aliasesPinyinInitials": [
+      "hdc",
+      "hzg",
+      "jhc"
+    ],
+    "cover": "茼蒿.webp"
+  },
+  {
+    "id": "f126",
+    "name": "芥菜",
+    "nutrition": {
+      "protein": 2,
+      "potassium": 281,
+      "phosphorus": 47,
+      "sodium": 30.5,
+      "energy": 27
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，焯水后适量食用",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "雪里蕻",
+      "大头菜（芥菜头）"
+    ],
+    "pinyin": "jiecai",
+    "pinyinInitials": "jc",
+    "aliasesPinyin": [
+      "xuelihong",
+      "datoucai（jiecaitou）"
+    ],
+    "aliasesPinyinInitials": [
+      "xlh",
+      "dtc（jct）"
+    ],
+    "cover": "芥菜.webp"
+  },
+  {
+    "id": "f127",
+    "name": "韭菜",
+    "nutrition": {
+      "protein": 2.4,
+      "potassium": 247,
+      "phosphorus": 38,
+      "sodium": 8.1,
+      "energy": 29
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，肾功能减退者每次少量",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "起阳草",
+      "长生韭",
+      "韭",
+      "扁菜"
+    ],
+    "pinyin": "jiucai",
+    "pinyinInitials": "jc",
+    "aliasesPinyin": [
+      "qiyangcao",
+      "changshengjiu",
+      "jiu",
+      "biancai"
+    ],
+    "aliasesPinyinInitials": [
+      "qyc",
+      "csj",
+      "j",
+      "bc"
+    ],
+    "cover": "韭菜.webp"
+  },
+  {
+    "id": "f128",
+    "name": "佛手瓜",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 76,
+      "phosphorus": 18,
+      "sodium": 1,
+      "energy": 19
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾蔬菜，适合各期CKD患者",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "洋瓜",
+      "千金瓜",
+      "隼人瓜"
+    ],
+    "pinyin": "foshougua",
+    "pinyinInitials": "fsg",
+    "aliasesPinyin": [
+      "yanggua",
+      "qianjingua",
+      "sunrengua"
+    ],
+    "aliasesPinyinInitials": [
+      "yg",
+      "qjg",
+      "srg"
+    ],
+    "cover": "佛手瓜.webp"
+  },
+  {
+    "id": "f129",
+    "name": "荸荠",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 306,
+      "phosphorus": 44,
+      "sodium": 15.7,
+      "energy": 62
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾偏高，切片焯水后可减少部分钾",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "马蹄",
+      "地栗",
+      "乌芋"
+    ],
+    "pinyin": "biqi",
+    "pinyinInitials": "bq",
+    "aliasesPinyin": [
+      "mati",
+      "dili",
+      "wuyu"
+    ],
+    "aliasesPinyinInitials": [
+      "mt",
+      "dl",
+      "wy"
+    ],
+    "cover": "荸荠.webp"
+  },
+  {
+    "id": "f130",
+    "name": "梨",
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 45,
+      "phosphorus": 11,
+      "sodium": 1.4,
+      "energy": 51
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾水果，每日半个至1个为宜",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "雪梨",
+      "鸭梨",
+      "白梨"
+    ],
+    "pinyin": "li",
+    "pinyinInitials": "l",
+    "aliasesPinyin": [
+      "xueli",
+      "yali",
+      "baili"
+    ],
+    "aliasesPinyinInitials": [
+      "xl",
+      "yl",
+      "bl"
+    ],
+    "cover": "梨.webp"
+  },
+  {
+    "id": "f131",
+    "name": "樱桃",
+    "nutrition": {
+      "protein": 1.1,
+      "potassium": 232,
+      "phosphorus": 27,
+      "sodium": 8,
+      "energy": 47
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，每次约10颗以内",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "车厘子",
+      "莺桃"
+    ],
+    "pinyin": "yingtao",
+    "pinyinInitials": "yt",
+    "aliasesPinyin": [
+      "chelizi",
+      "yingtao"
+    ],
+    "aliasesPinyinInitials": [
+      "clz",
+      "yt"
+    ],
+    "cover": "车厘子.webp"
+  },
+  {
+    "id": "f132",
+    "name": "鲈鱼",
+    "nutrition": {
+      "protein": 18.6,
+      "potassium": 205,
+      "phosphorus": 242,
+      "sodium": 144.1,
+      "energy": 106
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，清蒸少盐，每周2次左右",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "花鲈",
+      "七星鲈",
+      "真鲈"
+    ],
+    "pinyin": "luyu",
+    "pinyinInitials": "ly",
+    "aliasesPinyin": [
+      "hualu",
+      "qixinglu",
+      "zhenlu"
+    ],
+    "aliasesPinyinInitials": [
+      "hl",
+      "qxl",
+      "zl"
+    ],
+    "cover": "鲈鱼.webp"
+  },
+  {
+    "id": "f133",
+    "name": "带鱼",
+    "nutrition": {
+      "protein": 17.7,
+      "potassium": 280,
+      "phosphorus": 191,
+      "sodium": 150.1,
+      "energy": 128
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量较高，适量食用，避免油炸",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "刀鱼",
+      "白带鱼",
+      "牙带"
+    ],
+    "pinyin": "daiyu",
+    "pinyinInitials": "dy",
+    "aliasesPinyin": [
+      "daoyu",
+      "baidaiyu",
+      "yadai"
+    ],
+    "aliasesPinyinInitials": [
+      "dy",
+      "bdy",
+      "yd"
+    ],
+    "cover": "带鱼.webp"
+  },
+  {
+    "id": "f134",
+    "name": "平菇",
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 258,
+      "phosphorus": 86,
+      "sodium": 3.8,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，焯水后再烹调",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "侧耳",
+      "糙皮侧耳",
+      "北风菌"
+    ],
+    "pinyin": "pinggu",
+    "pinyinInitials": "pg",
+    "aliasesPinyin": [
+      "ceer",
+      "caopiceer",
+      "beifengjun"
+    ],
+    "aliasesPinyinInitials": [
+      "cě",
+      "cpcě",
+      "bfj"
+    ],
+    "cover": "平菇.webp"
+  },
+  {
+    "id": "f135",
+    "name": "杏鲍菇",
+    "nutrition": {
+      "protein": 1.3,
+      "potassium": 242,
+      "phosphorus": 66,
+      "sodium": 3.5,
+      "energy": 35
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "切片焯水可降低部分钾",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "刺芹侧耳",
+      "雪茸"
+    ],
+    "pinyin": "xingbaogu",
+    "pinyinInitials": "xbg",
+    "aliasesPinyin": [
+      "ciqinceer",
+      "xuerong"
+    ],
+    "aliasesPinyinInitials": [
+      "cqcě",
+      "xr"
+    ],
+    "cover": "杏鲍菇.webp"
+  },
+  {
+    "id": "f136",
+    "name": "内酯豆腐",
+    "nutrition": {
+      "protein": 5,
+      "potassium": 95,
+      "phosphorus": 57,
+      "sodium": 6.4,
+      "energy": 50
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "水分多、单位蛋白质略低于北豆腐，适合少盐凉拌或做汤",
+    "categoryId": "fc_beancurd",
+    "aliases": [
+      "嫩豆腐",
+      "石膏豆腐",
+      "日式豆腐"
+    ],
+    "pinyin": "neizhidoufu",
+    "pinyinInitials": "nzdf",
+    "aliasesPinyin": [
+      "nendoufu",
+      "shigaodoufu",
+      "rishidoufu"
+    ],
+    "aliasesPinyinInitials": [
+      "ndf",
+      "sgdf",
+      "rsdf"
+    ],
+    "cover": "内酯豆腐.webp"
+  },
+  {
+    "id": "f137",
+    "name": "羊瘦肉",
+    "nutrition": {
+      "protein": 19,
+      "potassium": 232,
+      "phosphorus": 146,
+      "sodium": 80.6,
+      "energy": 119
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，每次50g左右，去可见脂肪",
+    "categoryId": "fc_meat_dairy",
+    "aliases": [
+      "羊肉",
+      "羔羊肉",
+      "绵羊肉"
+    ],
+    "pinyin": "yangshourou",
+    "pinyinInitials": "ysr",
+    "aliasesPinyin": [
+      "yangrou",
+      "gaoyangrou",
+      "mianyangrou"
+    ],
+    "aliasesPinyinInitials": [
+      "yr",
+      "gyr",
+      "myr"
+    ],
+    "cover": "羊瘦肉.webp"
+  },
+  {
+    "id": "f138",
+    "name": "低钠盐",
+    "nutrition": {
+      "protein": 0,
+      "potassium": 12000,
+      "phosphorus": 0,
+      "sodium": 20000,
+      "energy": 0
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "多含氯化钾，高钾血症及CKD 3-5期、透析患者不宜使用",
+    "categoryId": "fc_seasoning",
+    "aliases": [
+      "代盐",
+      "保健盐",
+      "KCl盐"
+    ],
+    "pinyin": "dinayan",
+    "pinyinInitials": "dny",
+    "aliasesPinyin": [
+      "daiyan",
+      "baojianyan",
+      "KClyan"
+    ],
+    "aliasesPinyinInitials": [
+      "dy",
+      "bjy",
+      "KCly"
+    ],
+    "cover": "低钠盐.webp"
+  },
+  {
+    "id": "f139",
+    "name": "蛤蜊",
+    "nutrition": {
+      "protein": 10.1,
+      "potassium": 140,
+      "phosphorus": 128,
+      "sodium": 425.7,
+      "energy": 62
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "嘌呤与钠不低，少喝汤，适量食用",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "花蛤",
+      "哈蜊",
+      "文蛤",
+      "蛤"
+    ],
+    "pinyin": "geli",
+    "pinyinInitials": "gl",
+    "aliasesPinyin": [
+      "huaha",
+      "hali",
+      "wenge",
+      "ha"
+    ],
+    "aliasesPinyinInitials": [
+      "hh",
+      "hl",
+      "wg",
+      "h"
+    ],
+    "cover": "蛤蜊.webp"
+  },
+  {
+    "id": "f140",
+    "name": "口蘑",
+    "nutrition": {
+      "protein": 38.7,
+      "potassium": 3106,
+      "phosphorus": 1655,
+      "sodium": 5.2,
+      "energy": 278
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾磷均偏高，焯水后少量食用",
+    "categoryId": "fc_mushroom",
+    "aliases": [
+      "白蘑",
+      "蒙古口蘑"
+    ],
+    "pinyin": "koumo",
+    "pinyinInitials": "km",
+    "aliasesPinyin": [
+      "baimo",
+      "menggukoumo"
+    ],
+    "aliasesPinyinInitials": [
+      "bm",
+      "mgkm"
+    ],
+    "cover": "口蘑.webp"
+  },
+  {
+    "id": "f141",
+    "name": "豌豆苗",
+    "nutrition": {
+      "protein": 4,
+      "potassium": 222,
+      "phosphorus": 67,
+      "sodium": 18.5,
+      "energy": 38
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等偏低，可清炒或做汤",
+    "categoryId": "fc_vegetable",
+    "aliases": [
+      "豆苗",
+      "嫩豌豆苗",
+      "龙须豆苗"
+    ],
+    "pinyin": "wandoumiao",
+    "pinyinInitials": "wdm",
+    "aliasesPinyin": [
+      "doumiao",
+      "nenwandoumiao",
+      "longxudoumiao"
+    ],
+    "aliasesPinyinInitials": [
+      "dm",
+      "nwdm",
+      "lxdm"
+    ],
+    "cover": "豌豆苗.webp"
+  },
+  {
+    "id": "f142",
+    "name": "全麦粉",
+    "nutrition": {
+      "protein": 12.7,
+      "potassium": 290,
+      "phosphorus": 350,
+      "sodium": 2,
+      "energy": 340
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量较高，肾病饮食需控制蛋白时不宜大量替代精白面",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "全麦面粉",
+      "粗粮粉"
+    ],
+    "pinyin": "quanmaifen",
+    "pinyinInitials": "qmf",
+    "aliasesPinyin": [
+      "quanmaimianfen",
+      "culiangfen"
+    ],
+    "aliasesPinyinInitials": [
+      "qmmf",
+      "clf"
+    ],
+    "cover": "全麦粉.webp"
+  },
+  {
+    "id": "f143",
+    "name": "紫米",
+    "nutrition": {
+      "protein": 8.3,
+      "potassium": 219,
+      "phosphorus": 183,
+      "sodium": 4,
+      "energy": 351
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾磷高于白米，需控制份量或部分换低蛋白大米",
+    "categoryId": "fc_staple",
+    "aliases": [
+      "黑米",
+      "紫糯米",
+      "墨米"
+    ],
+    "pinyin": "zimi",
+    "pinyinInitials": "zm",
+    "aliasesPinyin": [
+      "heimi",
+      "zinuomi",
+      "momi"
+    ],
+    "aliasesPinyinInitials": [
+      "hm",
+      "znm",
+      "mm"
+    ],
+    "cover": "紫米.webp"
+  },
+  {
+    "id": "f144",
+    "name": "杨梅",
+    "nutrition": {
+      "protein": 0.8,
+      "potassium": 149,
+      "phosphorus": 8,
+      "sodium": 0.7,
+      "energy": 30
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "钾中等，每次一小碗以内，糖尿病者计糖",
+    "categoryId": "fc_fruit",
+    "aliases": [
+      "圣生梅",
+      "白蒂梅"
+    ],
+    "pinyin": "yangmei",
+    "pinyinInitials": "ym",
+    "aliasesPinyin": [
+      "shengshengmei",
+      "baidimei"
+    ],
+    "aliasesPinyinInitials": [
+      "ssm",
+      "bdm"
+    ],
+    "cover": "杨梅.webp"
+  },
+  {
+    "id": "f145",
+    "name": "鳗鱼",
+    "nutrition": {
+      "protein": 18.6,
+      "potassium": 207,
+      "phosphorus": 248,
+      "sodium": 58.8,
+      "energy": 180
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "脂肪与磷不低，市售蒲烧鳗含钠高，慎选",
+    "categoryId": "fc_fish_seafood",
+    "aliases": [
+      "鳗",
+      "白鳝",
+      "河鳗",
+      "日式鳗鱼"
+    ],
+    "pinyin": "manyu",
+    "pinyinInitials": "my",
+    "aliasesPinyin": [
+      "man",
+      "baishan",
+      "heman",
+      "rishimanyu"
+    ],
+    "aliasesPinyinInitials": [
+      "m",
+      "bs",
+      "hm",
+      "rsmy"
+    ],
+    "cover": "鳗鱼.webp"
+  },
+  {
+    "id": "f146",
+    "name": "苦瓜",
+    "aliases": [
+      "凉瓜",
+      "癞瓜",
+      "锦荔枝"
+    ],
+    "nutrition": {
+      "protein": 1,
+      "potassium": 256,
+      "phosphorus": 35,
+      "sodium": 2.5,
+      "energy": 22
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量偏高，建议焯水后食用；苦味物质有辅助降糖作用，适合合并糖尿病患者",
+    "categoryId": "fc_vegetable",
+    "pinyin": "kugua",
+    "pinyinInitials": "kg",
+    "aliasesPinyin": [
+      "lianggua",
+      "laigua",
+      "jinlizhi"
+    ],
+    "aliasesPinyinInitials": [
+      "lg",
+      "lg",
+      "jlz"
+    ],
+    "cover": "苦瓜.webp"
+  },
+  {
+    "id": "f147",
+    "name": "莴苣",
+    "aliases": [
+      "莴笋",
+      "青笋",
+      "茎用莴苣"
+    ],
+    "nutrition": {
+      "protein": 1,
+      "potassium": 212,
+      "phosphorus": 48,
+      "sodium": 36.5,
+      "energy": 15
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量中等，建议焯水后食用；叶片钾含量更高，宜少食",
+    "categoryId": "fc_vegetable",
+    "pinyin": "woju",
+    "pinyinInitials": "wj",
+    "aliasesPinyin": [
+      "wosun",
+      "qingsun",
+      "jingyongwoju"
+    ],
+    "aliasesPinyinInitials": [
+      "ws",
+      "qs",
+      "jywj"
+    ],
+    "cover": "莴苣.webp"
+  },
+  {
+    "id": "f149",
+    "name": "小白菜",
+    "aliases": [
+      "青菜",
+      "普通白菜",
+      "不结球白菜"
+    ],
+    "nutrition": {
+      "protein": 1.5,
+      "potassium": 178,
+      "phosphorus": 36,
+      "sodium": 73.5,
+      "energy": 17
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "低钾低磷，可放心食用",
+    "categoryId": "fc_vegetable",
+    "pinyin": "xiaobaicai",
+    "pinyinInitials": "xbc",
+    "aliasesPinyin": [
+      "qingcai",
+      "putongbaicai",
+      "bujieqiubaicai"
+    ],
+    "aliasesPinyinInitials": [
+      "qc",
+      "ptbc",
+      "bjqbc"
+    ],
+    "cover": "小白菜.webp"
+  },
+  {
+    "id": "f150",
+    "name": "豌豆",
+    "aliases": [
+      "青豌豆",
+      "青豆",
+      "麦豆"
+    ],
+    "nutrition": {
+      "protein": 7.4,
+      "potassium": 332,
+      "phosphorus": 127,
+      "sodium": 1.2,
+      "energy": 112
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "蛋白质和钾含量较高，建议每次不超过50g",
+    "categoryId": "fc_vegetable",
+    "pinyin": "wandou",
+    "pinyinInitials": "wd",
+    "aliasesPinyin": [
+      "qingwandou",
+      "qingdou",
+      "maidou"
+    ],
+    "aliasesPinyinInitials": [
+      "qwd",
+      "qd",
+      "md"
+    ],
+    "cover": "豌豆.webp"
+  },
+  {
+    "id": "f151",
+    "name": "蒜苗",
+    "aliases": [
+      "青蒜",
+      "大蒜苗",
+      "蒜毫"
+    ],
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 226,
+      "phosphorus": 44,
+      "sodium": 5.1,
+      "energy": 41
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "中等钾，适量食用，炒食为主",
+    "categoryId": "fc_vegetable",
+    "pinyin": "suanmiao",
+    "pinyinInitials": "sm",
+    "aliasesPinyin": [
+      "qingsuan",
+      "dasuanmiao",
+      "suanhao"
+    ],
+    "aliasesPinyinInitials": [
+      "qs",
+      "dsm",
+      "sh"
+    ],
+    "cover": "蒜苗.webp"
+  },
+  {
+    "id": "f152",
+    "name": "香菜",
+    "aliases": [
+      "芫荽",
+      "胡荽",
+      "芫茜"
+    ],
+    "nutrition": {
+      "protein": 1.8,
+      "potassium": 272,
+      "phosphorus": 49,
+      "sodium": 48.5,
+      "energy": 34
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "通常作调味少量使用，钾含量不低，不宜大量食用",
+    "categoryId": "fc_vegetable",
+    "pinyin": "xiangcai",
+    "pinyinInitials": "xc",
+    "aliasesPinyin": [
+      "yansui",
+      "husui",
+      "yuanqian"
+    ],
+    "aliasesPinyinInitials": [
+      "ys",
+      "hs",
+      "yq"
+    ],
+    "cover": "香菜.webp"
+  },
+  {
+    "id": "f153",
+    "name": "扁豆",
+    "aliases": [
+      "白扁豆",
+      "峨眉豆",
+      "沿篱豆"
+    ],
+    "nutrition": {
+      "protein": 2.7,
+      "potassium": 178,
+      "phosphorus": 54,
+      "sodium": 3.8,
+      "energy": 42
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "tips": "需煮熟食用，生扁豆含毒素；钾含量适中",
+    "categoryId": "fc_vegetable",
+    "pinyin": "biandou",
+    "pinyinInitials": "bd",
+    "aliasesPinyin": [
+      "baibiandou",
+      "emeidou",
+      "yanlidou"
+    ],
+    "aliasesPinyinInitials": [
+      "bbd",
+      "émd",
+      "yld"
+    ],
+    "cover": "扁豆.webp"
+  },
+  {
+    "id": "f154",
+    "name": "紫甘蓝",
+    "aliases": [
+      "红卷心菜",
+      "紫包菜",
+      "紫椰菜"
+    ],
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 177,
+      "phosphorus": 22,
+      "sodium": 27,
+      "energy": 25
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾低磷，富含花青素，可凉拌或炒食",
+    "categoryId": "fc_vegetable",
+    "pinyin": "ziganlan",
+    "pinyinInitials": "zgl",
+    "aliasesPinyin": [
+      "hongjuanxincai",
+      "zibaocai",
+      "ziyecai"
+    ],
+    "aliasesPinyinInitials": [
+      "hjxc",
+      "zbc",
+      "zyc"
+    ],
+    "cover": "紫甘蓝.webp"
+  },
+  {
+    "id": "f155",
+    "name": "大蒜",
+    "aliases": [
+      "蒜头",
+      "蒜瓣",
+      "胡蒜"
+    ],
+    "nutrition": {
+      "protein": 4.5,
+      "potassium": 302,
+      "phosphorus": 117,
+      "sodium": 19.6,
+      "energy": 130
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "常作调味少量使用；每餐2-3瓣为宜，不宜大量食用",
+    "categoryId": "fc_seasoning",
+    "pinyin": "dasuan",
+    "pinyinInitials": "ds",
+    "aliasesPinyin": [
+      "suantou",
+      "suanban",
+      "husuan"
+    ],
+    "aliasesPinyinInitials": [
+      "st",
+      "sb",
+      "hs"
+    ],
+    "cover": "大蒜.webp"
+  },
+  {
+    "id": "f156",
+    "name": "胡椒",
+    "aliases": [
+      "白胡椒",
+      "黑胡椒",
+      "胡椒粉"
+    ],
+    "nutrition": {
+      "protein": 9.6,
+      "potassium": 154,
+      "phosphorus": 172,
+      "sodium": 4.9,
+      "energy": 366
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "通常极少量调味使用，不需要限量；刺激肠胃，胃肠不适者慎用",
+    "categoryId": "fc_seasoning",
+    "pinyin": "hujiao",
+    "pinyinInitials": "hj",
+    "aliasesPinyin": [
+      "baihujiao",
+      "heihujiao",
+      "hujiaofen"
+    ],
+    "aliasesPinyinInitials": [
+      "bhj",
+      "hhj",
+      "hjf"
+    ],
+    "cover": "胡椒.webp"
+  },
+  {
+    "id": "f157",
+    "name": "花椒",
+    "aliases": [
+      "川椒",
+      "秦椒",
+      "山椒"
+    ],
+    "nutrition": {
+      "protein": 6.7,
+      "potassium": 204,
+      "phosphorus": 69,
+      "sodium": 47.4,
+      "energy": 314
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "调味少量使用，无需特别限制",
+    "categoryId": "fc_seasoning",
+    "pinyin": "huajiao",
+    "pinyinInitials": "hj",
+    "aliasesPinyin": [
+      "chuanjiao",
+      "qinjiao",
+      "shanjiao"
+    ],
+    "aliasesPinyinInitials": [
+      "cj",
+      "qj",
+      "sj"
+    ],
+    "cover": "花椒.webp"
+  },
+  {
+    "id": "f158",
+    "name": "八角",
+    "aliases": [
+      "大料",
+      "八角茴香",
+      "大茴香"
+    ],
+    "nutrition": {
+      "protein": 3.8,
+      "potassium": 120,
+      "phosphorus": 50,
+      "sodium": 5,
+      "energy": 345
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "炖煮调味少量使用，无需特别限制",
+    "categoryId": "fc_seasoning",
+    "pinyin": "bajiao",
+    "pinyinInitials": "bj",
+    "aliasesPinyin": [
+      "daliao",
+      "bajiaohuixiang",
+      "dahuixiang"
+    ],
+    "aliasesPinyinInitials": [
+      "dl",
+      "bjhx",
+      "dhx"
+    ],
+    "cover": "八角.webp"
+  },
+  {
+    "id": "f159",
+    "name": "生姜",
+    "aliases": [
+      "姜",
+      "老姜",
+      "仔姜",
+      "嫩姜"
+    ],
+    "nutrition": {
+      "protein": 0.7,
+      "potassium": 160,
+      "phosphorus": 11,
+      "sodium": 1.9,
+      "energy": 47
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "调味少量使用，无需特别限制",
+    "categoryId": "fc_seasoning",
+    "pinyin": "shengjiang",
+    "pinyinInitials": "sj",
+    "aliasesPinyin": [
+      "jiang",
+      "laojiang",
+      "zaijiang",
+      "nenjiang"
+    ],
+    "aliasesPinyinInitials": [
+      "j",
+      "lj",
+      "zj",
+      "nj"
+    ],
+    "cover": "生姜.webp"
+  },
+  {
+    "id": "f160",
+    "name": "大葱",
+    "aliases": [
+      "葱",
+      "北方大葱",
+      "长葱"
+    ],
+    "nutrition": {
+      "protein": 1.7,
+      "potassium": 144,
+      "phosphorus": 38,
+      "sodium": 4.8,
+      "energy": 33
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "调味适量使用",
+    "categoryId": "fc_seasoning",
+    "pinyin": "dacong",
+    "pinyinInitials": "dc",
+    "aliasesPinyin": [
+      "cong",
+      "beifangdacong",
+      "changcong"
+    ],
+    "aliasesPinyinInitials": [
+      "c",
+      "bfdc",
+      "cc"
+    ],
+    "cover": "大葱.webp"
+  },
+  {
+    "id": "f161",
+    "name": "小葱",
+    "aliases": [
+      "葱花",
+      "香葱",
+      "细香葱"
+    ],
+    "nutrition": {
+      "protein": 2.5,
+      "potassium": 144,
+      "phosphorus": 61,
+      "sodium": 10,
+      "energy": 27
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "调味装饰少量使用",
+    "categoryId": "fc_seasoning",
+    "pinyin": "xiaocong",
+    "pinyinInitials": "xc",
+    "aliasesPinyin": [
+      "conghua",
+      "xiangcong",
+      "xixiangcong"
+    ],
+    "aliasesPinyinInitials": [
+      "ch",
+      "xc",
+      "xxc"
+    ],
+    "cover": "小葱.webp"
+  },
+  {
+    "id": "f162",
+    "name": "猪里脊",
+    "aliases": [
+      "里脊肉",
+      "猪通脊",
+      "腰柳"
+    ],
+    "nutrition": {
+      "protein": 20.2,
+      "potassium": 317,
+      "phosphorus": 184,
+      "sodium": 43.2,
+      "energy": 155
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，脂肪少，每次50-75g",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "zhuliji",
+    "pinyinInitials": "zlj",
+    "aliasesPinyin": [
+      "lijirou",
+      "zhutongji",
+      "yaoliu"
+    ],
+    "aliasesPinyinInitials": [
+      "ljr",
+      "ztj",
+      "yl"
+    ],
+    "cover": "猪里脊.webp"
+  },
+  {
+    "id": "f163",
+    "name": "猪排骨",
+    "aliases": [
+      "排骨",
+      "肋排",
+      "猪肋骨"
+    ],
+    "nutrition": {
+      "protein": 16.7,
+      "potassium": 230,
+      "phosphorus": 135,
+      "sodium": 62.6,
+      "energy": 275
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "骨头汤含磷量高，不建议多喝汤；排骨本身适量食用，注意去脂",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "zhupaigu",
+    "pinyinInitials": "zpg",
+    "aliasesPinyin": [
+      "paigu",
+      "leipai",
+      "zhuleigu"
+    ],
+    "aliasesPinyinInitials": [
+      "pg",
+      "lp",
+      "zlg"
+    ],
+    "cover": "猪排骨.webp"
+  },
+  {
+    "id": "f164",
+    "name": "鸡翅",
+    "aliases": [
+      "鸡翅膀",
+      "鸡中翅",
+      "翅根"
+    ],
+    "nutrition": {
+      "protein": 17.4,
+      "potassium": 205,
+      "phosphorus": 161,
+      "sodium": 50.8,
+      "energy": 194
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "脂肪含量较高，去皮后食用，每次1-2个",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "jichi",
+    "pinyinInitials": "jc",
+    "aliasesPinyin": [
+      "jichibang",
+      "jizhongchi",
+      "chigen"
+    ],
+    "aliasesPinyinInitials": [
+      "jcb",
+      "jzc",
+      "cg"
+    ],
+    "cover": "鸡翅.webp"
+  },
+  {
+    "id": "f165",
+    "name": "猪血",
+    "aliases": [
+      "血豆腐",
+      "血旺",
+      "猪红"
+    ],
+    "nutrition": {
+      "protein": 12.2,
+      "potassium": 56,
+      "phosphorus": 16,
+      "sodium": 56,
+      "energy": 56
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "低钾低磷，铁含量高；每次100g以内",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "zhuxue",
+    "pinyinInitials": "zx",
+    "aliasesPinyin": [
+      "xuedoufu",
+      "xuewang",
+      "zhuhong"
+    ],
+    "aliasesPinyinInitials": [
+      "xdf",
+      "xw",
+      "zh"
+    ],
+    "cover": "猪血.webp"
+  },
+  {
+    "id": "f166",
+    "name": "鸡腿",
+    "aliases": [
+      "鸡琵琶腿",
+      "鸡大腿",
+      "小鸡腿"
+    ],
+    "nutrition": {
+      "protein": 16,
+      "potassium": 242,
+      "phosphorus": 172,
+      "sodium": 64.4,
+      "energy": 180
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "去皮后食用，每次1个（约100g）",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "jitui",
+    "pinyinInitials": "jt",
+    "aliasesPinyin": [
+      "jipipatui",
+      "jidatui",
+      "xiaojitui"
+    ],
+    "aliasesPinyinInitials": [
+      "jppt",
+      "jdt",
+      "xjt"
+    ],
+    "cover": "鸡腿.webp"
+  },
+  {
+    "id": "f167",
+    "name": "牛腩",
+    "aliases": [
+      "牛腩肉",
+      "牛腹肉"
+    ],
+    "nutrition": {
+      "protein": 19.9,
+      "potassium": 216,
+      "phosphorus": 168,
+      "sodium": 84.2,
+      "energy": 126
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "脂肪含量高，适量食用，每次75g以内；炖煮时不喝浓汤",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "niunan",
+    "pinyinInitials": "nn",
+    "aliasesPinyin": [
+      "niunanrou",
+      "niufurou"
+    ],
+    "aliasesPinyinInitials": [
+      "nnr",
+      "nfr"
+    ],
+    "cover": "牛腩.webp"
+  },
+  {
+    "id": "f168",
+    "name": "鸡胸肉",
+    "aliases": [
+      "鸡脯肉",
+      "白肉",
+      "鸡胸"
+    ],
+    "nutrition": {
+      "protein": 19.4,
+      "potassium": 338,
+      "phosphorus": 214,
+      "sodium": 34.4,
+      "energy": 133
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "高蛋白低脂，CKD 1-2期优先选择；每次50-75g",
+    "categoryId": "fc_meat_dairy",
+    "pinyin": "jixiongrou",
+    "pinyinInitials": "jxr",
+    "aliasesPinyin": [
+      "jipurou",
+      "bairou",
+      "jixiong"
+    ],
+    "aliasesPinyinInitials": [
+      "jpr",
+      "br",
+      "jx"
+    ],
+    "cover": "鸡胸肉.webp"
+  },
+  {
+    "id": "f169",
+    "name": "鲢鱼",
+    "aliases": [
+      "白鲢",
+      "连鱼",
+      "鲢子"
+    ],
+    "nutrition": {
+      "protein": 17.8,
+      "potassium": 277,
+      "phosphorus": 190,
+      "sodium": 57.5,
+      "energy": 104
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，刺多，清蒸或炖煮，每次75-100g",
+    "categoryId": "fc_fish_seafood",
+    "pinyin": "lianyu",
+    "pinyinInitials": "ly",
+    "aliasesPinyin": [
+      "bailian",
+      "lianyu",
+      "lianzi"
+    ],
+    "aliasesPinyinInitials": [
+      "bl",
+      "ly",
+      "lz"
+    ],
+    "cover": "鲢鱼.webp"
+  },
+  {
+    "id": "f170",
+    "name": "鲫鱼",
+    "aliases": [
+      "鲋鱼",
+      "喜头鱼",
+      "鲫瓜子"
+    ],
+    "nutrition": {
+      "protein": 17.1,
+      "potassium": 290,
+      "phosphorus": 193,
+      "sodium": 41.2,
+      "energy": 109
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "优质蛋白，汤味鲜美但磷含量高，少喝浓汤",
+    "categoryId": "fc_fish_seafood",
+    "pinyin": "jiyu",
+    "pinyinInitials": "jy",
+    "aliasesPinyin": [
+      "fuyu",
+      "xitouyu",
+      "jiguazi"
+    ],
+    "aliasesPinyinInitials": [
+      "fy",
+      "xty",
+      "jgz"
+    ],
+    "cover": "鲫鱼.webp"
+  },
+  {
+    "id": "f171",
+    "name": "黄鱼",
+    "aliases": [
+      "大黄鱼",
+      "小黄鱼",
+      "黄花鱼"
+    ],
+    "nutrition": {
+      "protein": 17.9,
+      "potassium": 228,
+      "phosphorus": 188,
+      "sodium": 103,
+      "energy": 100
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "优质蛋白，磷和钠偏高，清蒸少盐；每周1-2次",
+    "categoryId": "fc_fish_seafood",
+    "pinyin": "huangyu",
+    "pinyinInitials": "hy",
+    "aliasesPinyin": [
+      "dahuangyu",
+      "xiaohuangyu",
+      "huanghuayu"
+    ],
+    "aliasesPinyinInitials": [
+      "dhy",
+      "xhy",
+      "hhy"
+    ],
+    "cover": "黄鱼.webp"
+  },
+  {
+    "id": "f172",
+    "name": "茶树菇",
+    "aliases": [
+      "柱状田头菇",
+      "茶薪菇"
+    ],
+    "nutrition": {
+      "protein": 23.1,
+      "potassium": 2165,
+      "phosphorus": 908,
+      "sodium": 6,
+      "energy": 312
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "钾含量偏高，焯水后食用，每次不超过50g",
+    "categoryId": "fc_mushroom",
+    "pinyin": "chashugu",
+    "pinyinInitials": "csg",
+    "aliasesPinyin": [
+      "zhuzhuangtiantougu",
+      "chaxingu"
+    ],
+    "aliasesPinyinInitials": [
+      "zzttg",
+      "cxg"
+    ],
+    "cover": "茶树菇.webp"
+  },
+  {
+    "id": "f173",
+    "name": "北豆腐",
+    "aliases": [
+      "老豆腐",
+      "硬豆腐",
+      "卤水豆腐"
+    ],
+    "nutrition": {
+      "protein": 12.2,
+      "potassium": 106,
+      "phosphorus": 158,
+      "sodium": 7.3,
+      "energy": 99
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "磷含量比内酯豆腐高，每次100g以内",
+    "categoryId": "fc_beancurd",
+    "pinyin": "beidoufu",
+    "pinyinInitials": "bdf",
+    "aliasesPinyin": [
+      "laodoufu",
+      "yingdoufu",
+      "lushuidoufu"
+    ],
+    "aliasesPinyinInitials": [
+      "ldf",
+      "ydf",
+      "lsdf"
+    ],
+    "cover": "北豆腐.webp"
+  },
+  {
+    "id": "f175",
+    "name": "扁豆角",
+    "aliases": [
+      "豇豆",
+      "长豆角",
+      "豆角（长）"
+    ],
+    "nutrition": {
+      "protein": 2.7,
+      "potassium": 178,
+      "phosphorus": 54,
+      "sodium": 3.8,
+      "energy": 42
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "tips": "必须煮熟食用；中等钾，适量食用",
+    "categoryId": "fc_vegetable",
+    "pinyin": "biandoujiao",
+    "pinyinInitials": "bdj",
+    "aliasesPinyin": [
+      "jiangdou",
+      "changdoujiao",
+      "doujiao（chang）"
+    ],
+    "aliasesPinyinInitials": [
+      "jd",
+      "cdj",
+      "dj（c）"
+    ],
+    "cover": "扁豆角.webp"
+  },
+  {
+    "id": "f176",
+    "name": "白玉菇",
+    "category": "菌菇",
+    "aliases": [
+      "白蘑菇",
+      "玉龙菇"
+    ],
+    "cover": "白玉菇.webp",
+    "nutrition": {
+      "protein": 2.7,
+      "potassium": 312,
+      "phosphorus": 94,
+      "sodium": 8.3,
+      "calories": 26,
+      "energy": 24
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "白玉菇低钾低磷，口感脆嫩鲜美，适合各分期肾病患者。可炒、煮汤或凉拌。",
+    "tags": [
+      "菌菇",
+      "低钾",
+      "低磷"
+    ],
+    "pinyin": "baiyugu",
+    "pinyinInitials": "byg",
+    "aliasesPinyin": [
+      "baimogu",
+      "yulonggu"
+    ],
+    "aliasesPinyinInitials": [
+      "bmg",
+      "ylg"
+    ]
+  },
+  {
+    "id": "f177",
+    "name": "娃娃菜",
+    "category": "蔬菜",
+    "aliases": [
+      "小白菜心",
+      "迷你白菜"
+    ],
+    "cover": "娃娃菜.webp",
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 278,
+      "phosphorus": 58,
+      "sodium": 19.3,
+      "calories": 13,
+      "energy": 12
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "娃娃菜低钾低磷，口感嫩甜，是肾病患者的优质蔬菜之选。适合炒、煮汤或涮锅。",
+    "tags": [
+      "蔬菜",
+      "低钾",
+      "低磷"
+    ],
+    "pinyin": "wawacai",
+    "pinyinInitials": "wwc",
+    "aliasesPinyin": [
+      "xiaobaicaixin",
+      "minibaicai"
+    ],
+    "aliasesPinyinInitials": [
+      "xbcx",
+      "mnbc"
+    ]
+  },
+  {
+    "id": "f178",
+    "name": "鲳鱼",
+    "category": "水产",
+    "aliases": [
+      "平鱼",
+      "白鲳",
+      "银鲳"
+    ],
+    "cover": "鲳鱼.webp",
+    "nutrition": {
+      "protein": 18.5,
+      "potassium": 328,
+      "phosphorus": 155,
+      "sodium": 62.5,
+      "calories": 140,
+      "energy": 140
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "green"
+    },
+    "tips": "鲳鱼肉质细嫩少刺，蛋白质优质。透析期患者可适量食用补充蛋白；3-5期需控制摄入量，每次不超过75g。",
+    "tags": [
+      "水产",
+      "优质蛋白"
+    ],
+    "pinyin": "changyu",
+    "pinyinInitials": "cy",
+    "aliasesPinyin": [
+      "pingyu",
+      "baichang",
+      "yinchang"
+    ],
+    "aliasesPinyinInitials": [
+      "py",
+      "bc",
+      "yc"
+    ]
+  },
+  {
+    "id": "f179",
+    "name": "豆腐皮",
+    "category": "豆制品",
+    "aliases": [
+      "百叶",
+      "千张",
+      "豆皮"
+    ],
+    "cover": "豆腐皮.webp",
+    "nutrition": {
+      "protein": 44.6,
+      "potassium": 536,
+      "phosphorus": 318,
+      "sodium": 9.4,
+      "calories": 409,
+      "energy": 411
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "yellow"
+    },
+    "tips": "豆腐皮蛋白质极高，透析期患者适量可补充蛋白；但磷含量高，需谨慎。3-5期患者不建议食用。",
+    "tags": [
+      "豆制品",
+      "高蛋白"
+    ],
+    "pinyin": "doufupi",
+    "pinyinInitials": "dfp",
+    "aliasesPinyin": [
+      "baiye",
+      "qianzhang",
+      "doupi"
+    ],
+    "aliasesPinyinInitials": [
+      "by",
+      "qz",
+      "dp"
+    ]
+  },
+  {
+    "id": "f180",
+    "name": "紫菜",
+    "category": "水产",
+    "aliases": [
+      "条斑紫菜",
+      "坛紫菜"
+    ],
+    "cover": "紫菜.webp",
+    "nutrition": {
+      "protein": 26.7,
+      "potassium": 1796,
+      "phosphorus": 350,
+      "sodium": 710.5,
+      "calories": 207,
+      "energy": 251
+    },
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "tips": "紫菜钾和磷含量极高，透析期和3-5期患者不宜食用。1-2期患者少量用于汤料调味即可，不可大量食用。",
+    "tags": [
+      "水产",
+      "高钾",
+      "高磷"
+    ],
+    "pinyin": "zicai",
+    "pinyinInitials": "zc",
+    "aliasesPinyin": [
+      "tiaobanzicai",
+      "tanzicai"
+    ],
+    "aliasesPinyinInitials": [
+      "tbzc",
+      "tzc"
+    ]
+  },
+  {
+    "id": "f181",
+    "name": "西芹",
+    "category": "蔬菜",
+    "aliases": [
+      "洋芹菜",
+      "美芹"
+    ],
+    "cover": "西芹.webp",
+    "nutrition": {
+      "protein": 1.2,
+      "potassium": 206,
+      "phosphorus": 38,
+      "sodium": 159,
+      "calories": 16,
+      "energy": 22
+    },
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "tips": "西芹低钾低磷，清爽脆嫩，有助于控制血压。适合各分期患者，可炒、凉拌或做汤。",
+    "tags": [
+      "蔬菜",
+      "低钾",
+      "低磷"
+    ],
+    "pinyin": "xiqin",
+    "pinyinInitials": "xq",
+    "aliasesPinyin": [
+      "yangqincai",
+      "meiqin"
+    ],
+    "aliasesPinyinInitials": [
+      "yqc",
+      "mq"
+    ]
+  },
+  {
+    "id": "f182",
+    "name": "糯米",
+    "aliases": [
+      "江米",
+      "酒米",
+      "元米"
+    ],
+    "category": "主食",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "notes": "高磷，需控量；宜少量食用，不宜大份",
+    "nutrition": {
+      "protein": 7.3,
+      "potassium": 137,
+      "phosphorus": 113,
+      "sodium": 1.5,
+      "energy": 355
+    },
+    "pinyin": "nuomi",
+    "pinyinInitials": "nm",
+    "aliasesPinyin": [
+      "jiangmi",
+      "jiumi",
+      "yuanmi"
+    ],
+    "aliasesPinyinInitials": [
+      "jm",
+      "jm",
+      "ym"
+    ],
+    "cover": "糯米.webp"
+  },
+  {
+    "id": "f183",
+    "name": "牛肉干",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "beef jerky",
+      "牛肉条"
+    ],
+    "nutrition": {
+      "protein": 45.6,
+      "potassium": 510,
+      "phosphorus": 464,
+      "sodium": 412,
+      "energy": 547
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "高蛋白高钠零食，透析患者限食；磷含量高，每次不超过30g",
+    "cover": "牛肉干.webp"
+  },
+  {
+    "id": "f184",
+    "name": "猪肉脯",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "肉脯",
+      "猪肉干"
+    ],
+    "nutrition": {
+      "protein": 56,
+      "potassium": 533.3,
+      "phosphorus": 566.7,
+      "sodium": 2000,
+      "energy": 400
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "高钠高磷加工肉类零食，透析患者应避免",
+    "cover": "猪肉脯.webp"
+  },
+  {
+    "id": "f185",
+    "name": "葡萄干",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "raisins"
+    ],
+    "nutrition": {
+      "protein": 2.5,
+      "potassium": 995,
+      "phosphorus": 90,
+      "sodium": 19.1,
+      "energy": 349
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "钾含量高，透析患者禁食；1-2期和移植后适量",
+    "cover": "葡萄干.webp"
+  },
+  {
+    "id": "f186",
+    "name": "红枣（干）",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "大枣",
+      "干枣",
+      "jujube"
+    ],
+    "nutrition": {
+      "protein": 5,
+      "potassium": 900,
+      "phosphorus": 93.3,
+      "sodium": 23.3,
+      "energy": 270
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "高钾干果，透析患者禁食；磷含量低，移植后可少量食用",
+    "cover": "红枣（干）.webp"
+  },
+  {
+    "id": "f187",
+    "name": "核桃仁",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "walnut",
+      "核桃"
+    ],
+    "nutrition": {
+      "protein": 15.3,
+      "potassium": 520,
+      "phosphorus": 450,
+      "sodium": 10,
+      "energy": 653.3
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "yellow",
+      "transplant": "yellow"
+    },
+    "description": "高磷坚果，各分期均需限量；富含Omega-3，对心血管有益"
+  },
+  {
+    "id": "f188",
+    "name": "花生",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "peanut",
+      "落花生",
+      "花生米"
+    ],
+    "nutrition": {
+      "protein": 24,
+      "potassium": 680,
+      "phosphorus": 500,
+      "sodium": 10,
+      "energy": 570
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "yellow",
+      "transplant": "yellow"
+    },
+    "description": "高磷高蛋白坚果，各分期限量；每次不超过30g"
+  },
+  {
+    "id": "f189",
+    "name": "腰果",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "cashew"
+    ],
+    "nutrition": {
+      "protein": 17,
+      "potassium": 513.3,
+      "phosphorus": 480,
+      "sodium": 13.3,
+      "energy": 553.3
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "yellow",
+      "transplant": "yellow"
+    },
+    "description": "高磷坚果，各分期均需限量；热量高，每次不超过30g"
+  },
+  {
+    "id": "f190",
+    "name": "葵花籽",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "瓜子",
+      "sunflower seeds",
+      "向日葵籽"
+    ],
+    "nutrition": {
+      "protein": 24,
+      "potassium": 850,
+      "phosphorus": 770,
+      "sodium": 26.7,
+      "energy": 600
+    },
+    "advice": {
+      "stage3_5": "red",
+      "dialysis": "red",
+      "transplant": "red"
+    },
+    "description": "磷含量极高，所有CKD分期均应避免；钾含量也高",
+    "cover": "葵花籽.webp"
+  },
+  {
+    "id": "f191",
+    "name": "薯片（原味）",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "potato chips",
+      "chips"
+    ],
+    "nutrition": {
+      "protein": 7,
+      "potassium": 500,
+      "phosphorus": 200,
+      "sodium": 1300,
+      "energy": 540
+    },
+    "advice": {
+      "stage3_5": "red",
+      "dialysis": "red",
+      "transplant": "red"
+    },
+    "description": "高钠高磷加工食品，含大量添加磷酸盐；所有CKD患者应避免",
+    "cover": "薯片（原味）.webp"
+  },
+  {
+    "id": "f192",
+    "name": "苏打饼干",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "soda crackers",
+      "咸饼干"
+    ],
+    "nutrition": {
+      "protein": 8.4,
+      "potassium": 82,
+      "phosphorus": 69,
+      "sodium": 312,
+      "energy": 412
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "钾磷含量低但钠含量较高；透析患者限食；每次不超过30g",
+    "cover": "苏打饼干.webp"
+  },
+  {
+    "id": "f193",
+    "name": "黑巧克力",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "dark chocolate",
+      "黑朱古力"
+    ],
+    "nutrition": {
+      "protein": 8,
+      "potassium": 666.7,
+      "phosphorus": 350,
+      "sodium": 23.3,
+      "energy": 583.3
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "yellow",
+      "transplant": "yellow"
+    },
+    "description": "高磷高钾，各分期均需限量；每次不超过30g，不宜每日食用",
+    "cover": "黑巧克力.webp"
+  },
+  {
+    "id": "f194",
+    "name": "调味海苔",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "seaweed snack",
+      "即食海苔",
+      "海苔片"
+    ],
+    "nutrition": {
+      "protein": 13,
+      "potassium": 850,
+      "phosphorus": 390,
+      "sodium": 1500,
+      "energy": 100
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "red",
+      "transplant": "yellow"
+    },
+    "description": "调味海苔钠钾均高；透析患者应避免；原味海苔稍优",
+    "cover": "调味海苔.webp"
+  },
+  {
+    "id": "f195",
+    "name": "奥利奥饼干",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "Oreo",
+      "夹心饼干"
+    ],
+    "nutrition": {
+      "protein": 6,
+      "potassium": 200,
+      "phosphorus": 160,
+      "sodium": 500,
+      "energy": 470
+    },
+    "advice": {
+      "stage3_5": "yellow",
+      "dialysis": "yellow",
+      "transplant": "yellow"
+    },
+    "description": "钾磷相对较低，钠含量适中；各分期可少量食用，注意含糖量",
+    "cover": "奥利奥饼干.webp"
+  },
+  {
+    "id": "f196",
+    "name": "糖炒栗子",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "栗子",
+      "板栗",
+      "chestnut"
+    ],
+    "nutrition": {
+      "protein": 8,
+      "potassium": 630,
+      "phosphorus": 180,
+      "sodium": 50,
+      "energy": 217
+    },
+    "advice": {
+      "stage3_5": "green",
+      "dialysis": "yellow",
+      "transplant": "green"
+    },
+    "description": "低钠低磷，是肾病患者较友好的零食；透析期注意钾含量",
+    "cover": "糖炒栗子.webp"
+  },
+  {
+    "id": "f197",
+    "name": "果冻",
+    "category": "零食",
+    "unit": "g",
+    "defaultAmount": 30,
+    "aliases": [
+      "jelly",
+      "果冻布丁"
+    ],
+    "nutrition": {
+      "protein": 0.1,
+      "potassium": 42,
+      "phosphorus": 1,
+      "sodium": 38,
+      "energy": 72
+    },
+    "advice": {
+      "stage3_5": "green",
+      "dialysis": "green",
+      "transplant": "green"
+    },
+    "description": "低磷低钾，各分期均可少量食用；注意含糖量，糖尿病患者慎食",
+    "cover": "果冻.webp"
+  },
+  {
+    "id": "f198",
+    "name": "绿茶",
+    "categoryId": "fc_drink",
+    "pinyin": "lvchawulongcha",
+    "pinyinInitials": "lcwlc",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 80,
+      "phosphorus": 10,
+      "sodium": 5,
+      "energy": 5
+    },
+    "perServing": "1杯 (约350ml)",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "riskFactors": [
+      "含草酸"
+    ],
+    "tips": "【1杯 (约350ml)】淡茶适量可饮用；草酸含量较高，长期大量饮用增加结石风险；透析患者不建议浓茶，每日不超过250ml；不加奶不加糖",
+    "cover": "绿茶.webp"
+  },
+  {
+    "id": "f199",
+    "name": "红茶",
+    "categoryId": "fc_drink",
+    "pinyin": "hongcha",
+    "pinyinInitials": "hc",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 90,
+      "phosphorus": 15,
+      "sodium": 5,
+      "energy": 5
+    },
+    "perServing": "1杯 (约350ml)",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "riskFactors": [
+      "含草酸"
+    ],
+    "tips": "【1杯 (约350ml)】红茶草酸含量较高；透析患者限制每日不超过250ml淡茶；避免浓茶；加奶后磷含量翻倍，不建议",
+    "cover": "红茶.webp"
+  },
+  {
+    "id": "f200",
+    "name": "黑咖啡（无糖无奶）",
+    "categoryId": "fc_drink",
+    "pinyin": "heikafeiwutangwunai",
+    "pinyinInitials": "hkfwtwn",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 100,
+      "phosphorus": 10,
+      "sodium": 5,
+      "energy": 10
+    },
+    "perServing": "1杯 (约250ml)",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "yellow"
+    },
+    "riskFactors": [],
+    "tips": "【1杯 (约250ml)】纯黑咖啡磷钠极低；透析患者每日不超过1杯；避免加奶精/奶粉（无机磷吸收率高）；加糖会增加热量负担",
+    "cover": "黑咖啡（无糖无奶）.webp"
+  },
+  {
+    "id": "f201",
+    "name": "拿铁",
+    "categoryId": "fc_drink",
+    "pinyin": "natieniunaikafei",
+    "pinyinInitials": "ntnnkf",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 8,
+      "potassium": 250,
+      "phosphorus": 200,
+      "sodium": 100,
+      "energy": 140
+    },
+    "perServing": "1杯 (约350ml)",
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "red"
+    },
+    "riskFactors": [
+      "高磷",
+      "高钾"
+    ],
+    "tips": "【1杯 (约350ml)】牛奶本身磷含量较高；拿铁约含200mg磷；透析患者严格限制；若要喝选小杯且不加糖浆",
+    "cover": "拿铁.webp"
+  },
+  {
+    "id": "f202",
+    "name": "豆浆（无糖）",
+    "categoryId": "fc_drink",
+    "pinyin": "doujiangwutang",
+    "pinyinInitials": "djwt",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 9,
+      "potassium": 200,
+      "phosphorus": 90,
+      "sodium": 10,
+      "energy": 48
+    },
+    "perServing": "1杯 (约300ml)",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "riskFactors": [],
+    "tips": "【1杯 (约300ml)】豆浆植物蛋白质含量较高；3-5期每日不超过200ml；透析患者可适量但需计入蛋白质总量；有糖豆浆额外增加热量",
+    "cover": "豆浆（无糖）.webp"
+  },
+  {
+    "id": "f203",
+    "name": "鲜牛奶",
+    "categoryId": "fc_drink",
+    "pinyin": "xianniunai",
+    "pinyinInitials": "xnn",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 3.0,
+      "potassium": 109,
+      "phosphorus": 73,
+      "sodium": 37,
+      "energy": 54
+    },
+    "perServing": "100g",
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "red"
+    },
+    "riskFactors": [
+      "高磷",
+      "高钾"
+    ],
+    "tips": "【每100g】牛奶营养丰富但磷钾偏高；3-5期每日不超过120ml；透析患者建议换成低磷植物奶；不建议睡前大量饮用",
+    "cover": "鲜牛奶.webp"
+  },
+  {
+    "id": "f204",
+    "name": "椰子水",
+    "categoryId": "fc_drink",
+    "pinyin": "yezishui",
+    "pinyinInitials": "yzs",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 480,
+      "phosphorus": 30,
+      "sodium": 60,
+      "energy": 60
+    },
+    "perServing": "1杯 (约330ml)",
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "riskFactors": [
+      "高钾"
+    ],
+    "tips": "【1杯 (约330ml)】椰子水钾含量极高（约480mg/杯），是常见饮品中最高之一；3-5期及透析患者严格禁止；即使是1-2期也建议每次不超过150ml",
+    "cover": "椰子水.webp"
+  },
+  {
+    "id": "f205",
+    "name": "果茶",
+    "categoryId": "fc_drink",
+    "pinyin": "guochashuiguocha",
+    "pinyinInitials": "gcsgc",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 200,
+      "phosphorus": 20,
+      "sodium": 20,
+      "energy": 120
+    },
+    "perServing": "1杯 (约500ml)",
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "yellow",
+      "dialysis": "yellow"
+    },
+    "riskFactors": [
+      "高钾"
+    ],
+    "tips": "【1杯 (约500ml)】水果茶含大量水果成分，钾含量因水果种类不同差异较大；含糖量通常偏高；建议选无糖版本；透析患者慎选含草莓/猕猴桃版",
+    "cover": "果茶.webp"
+  },
+  {
+    "id": "f206",
+    "name": "苏打水",
+    "categoryId": "fc_drink",
+    "pinyin": "sudashuiqipaoshuiwuwei",
+    "pinyinInitials": "sdsqpsww",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 5,
+      "phosphorus": 5,
+      "sodium": 50,
+      "energy": 0
+    },
+    "perServing": "1瓶 (约330ml)",
+    "advice": {
+      "stage1_2": "green",
+      "stage3_5": "green",
+      "dialysis": "green"
+    },
+    "riskFactors": [],
+    "tips": "【1瓶 (约330ml)】无味苏打水是肾友良好选择；注意区分「苏打水」（NaHCO₃，偏碱性）和「碳酸水」（CO₂，中性）；不要选加了磷酸的柠檬味气泡水",
+    "cover": "苏打水.webp"
+  },
+  {
+    "id": "f207",
+    "name": "运动饮料（如佳得乐）",
+    "categoryId": "fc_drink",
+    "pinyin": "yundongyinliaorujiadele",
+    "pinyinInitials": "ydylrjdl",
+    "aliases": [],
+    "aliasesPinyin": [],
+    "aliasesPinyinInitials": [],
+    "nutrition": {
+      "protein": 0,
+      "potassium": 120,
+      "phosphorus": 60,
+      "sodium": 270,
+      "energy": 130
+    },
+    "perServing": "1瓶 (约500ml)",
+    "advice": {
+      "stage1_2": "yellow",
+      "stage3_5": "red",
+      "dialysis": "red"
+    },
+    "riskFactors": [
+      "高钠"
+    ],
+    "tips": "【1瓶 (约500ml)】运动饮料专为补充电解质设计，钠钾含量高；肾病患者无需补充电解质；3-5期及透析患者严格避免；建议以白开水替代",
+    "cover": "运动饮料（如佳得乐）.webp"
+  }
+]

@@ -40,6 +40,11 @@
     "sort": 60
   },
   {
+    "id": "fc_oil",
+    "name": "食用油",
+    "sort": 65
+  },
+  {
     "id": "fc_nuts",
     "name": "坚果",
     "sort": 70

@@ -6019,5 +6019,4011 @@
       "energy": 157
     },
     "cover": "南瓜炖北豆腐.webp"
+  },
+  {
+    "id": "r131",
+    "title": "焯拌油麦菜",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f033",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "油麦菜洗净切段，大蒜切末",
+      "水烧开加几滴油，放入油麦菜焯 30 秒捞出过凉水",
+      "沥干水分，拌入蒜末、芝麻油和少量盐即可"
+    ],
+    "tips": "焯水可降低叶菜钾约 20%-30%；叶菜清爽低热量；CKD 各分期均可，透析期可用味精替代部分盐",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.9,
+      "potassium": 209,
+      "phosphorus": 66,
+      "sodium": 357,
+      "energy": 62
+    },
+    "cover": "焯拌油麦菜.webp"
+  },
+  {
+    "id": "r132",
+    "title": "凉拌生菜丝",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f032",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "生菜洗净切丝",
+      "调味汁：醋 5g、芝麻油 2g、少量盐、蒜末",
+      "拌匀即可食用"
+    ],
+    "tips": "生菜低钾低磷，生食保留维 C；调味以醋和香油为主，不加酱油可控钠；CKD 各期均可",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 279,
+      "phosphorus": 48,
+      "sodium": 181,
+      "energy": 44
+    },
+    "cover": "凉拌生菜丝.webp"
+  },
+  {
+    "id": "r133",
+    "title": "清炒空心菜(焯水版)",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f031",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "空心菜洗净切段，先焯水 20 秒捞出",
+      "锅中下油，爆香蒜片",
+      "放入焯过的空心菜快速翻炒 1 分钟",
+      "加少量盐出锅"
+    ],
+    "tips": "空心菜含钾较高，焯水后再炒可降 25-30%；CKD 3-5 期每次 <150g；透析期酌情少量",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.4,
+      "potassium": 374,
+      "phosphorus": 61,
+      "sodium": 339,
+      "energy": 83
+    },
+    "cover": "清炒空心菜(焯水版).webp"
+  },
+  {
+    "id": "r134",
+    "title": "焯拌菠菜(低钾版)",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f029",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "菠菜洗净整株焯水 1 分钟后立即过凉水",
+      "挤干水分切段，倒掉焯菜汤",
+      "拌入芝麻油、蒜末、少量盐和醋"
+    ],
+    "tips": "菠菜草酸和钾都高，必须焯水弃汤；焯水 1 分钟可去除 30%-40% 钾；CKD 3-5 期一次 <100g",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.3,
+      "potassium": 393,
+      "phosphorus": 63,
+      "sodium": 307,
+      "energy": 65
+    },
+    "cover": "焯拌菠菜(低钾版).webp"
+  },
+  {
+    "id": "r135",
+    "title": "清炒圆白菜(焯水)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f026",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "圆白菜撕成小片洗净",
+      "焯水 30 秒捞出",
+      "热锅少油，放蒜片爆香",
+      "放入圆白菜翻炒至断生，加盐调味"
+    ],
+    "tips": "圆白菜钾磷较低；焯水后更脆嫩；适合 CKD 各分期日常菜",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.1,
+      "potassium": 257,
+      "phosphorus": 56,
+      "sodium": 370,
+      "energy": 96
+    },
+    "cover": "清炒圆白菜(焯水).webp"
+  },
+  {
+    "id": "r136",
+    "title": "凉拌萝卜丝",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f039",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f096",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "白萝卜去皮切细丝，加少量盐腌 5 分钟挤干水",
+      "蒜末、醋、糖、香油调匀",
+      "与萝卜丝拌匀即可"
+    ],
+    "tips": "白萝卜钾磷极低、助消化；腌制出水减少辛辣；CKD 各期均可作为开胃小菜",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.0,
+      "potassium": 373,
+      "phosphorus": 60,
+      "sodium": 334,
+      "energy": 86
+    },
+    "cover": "凉拌萝卜丝.webp"
+  },
+  {
+    "id": "r137",
+    "title": "清炒西葫芦",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f024",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "西葫芦切薄片",
+      "热锅下油，蒜片爆香",
+      "放入西葫芦翻炒至透明",
+      "加盐调味出锅"
+    ],
+    "tips": "西葫芦水分高钾低钠低，脆嫩香甜；CKD 各期可常食",
+    "cookTime": 8,
+    "servings": 1,
+    "nutrition": {
+      "protein": 1.7,
+      "potassium": 193,
+      "phosphorus": 38,
+      "sodium": 207,
+      "energy": 86
+    },
+    "cover": "清炒西葫芦.webp"
+  },
+  {
+    "id": "r138",
+    "title": "蒜蓉秋葵",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f050",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "秋葵整条洗净去蒂，沸水焯 1 分钟",
+      "切段摆盘",
+      "蒜末用油爆香淋上，加少量生抽"
+    ],
+    "tips": "秋葵黏液含植物胶质，有助肠道；钾中等焯水后更安全；CKD 3-5 期一次 <100g",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.4,
+      "potassium": 168,
+      "phosphorus": 110,
+      "sodium": 180,
+      "energy": 120
+    },
+    "cover": "蒜蓉秋葵.webp"
+  },
+  {
+    "id": "r139",
+    "title": "蒜蓉娃娃菜",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f177",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      }
+    ],
+    "steps": [
+      "娃娃菜纵切四瓣，焯水备用",
+      "蒜末、少量盐、油调匀，淋于娃娃菜表面",
+      "水开后蒸 4 分钟"
+    ],
+    "tips": "娃娃菜低钾低磷，甜嫩清淡；建议蒸熟后不再额外加酱油；CKD 各期均可",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.0,
+      "potassium": 571,
+      "phosphorus": 122,
+      "sodium": 354,
+      "energy": 57
+    },
+    "cover": "蒜蓉娃娃菜.webp"
+  },
+  {
+    "id": "r140",
+    "title": "凉拌黄豆芽",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f104",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "4g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f096",
+        "amount": "1g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "黄豆芽沸水焯 1-2 分钟",
+      "过凉水沥干",
+      "加蒜末、醋、芝麻油、少量盐和糖拌匀"
+    ],
+    "tips": "豆芽蛋白质适中，焯水可降低生豆腥味；CKD 1-2 期与透析期均可，3-5 期一次 <100g",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.0,
+      "potassium": 263,
+      "phosphorus": 118,
+      "sodium": 218,
+      "energy": 108
+    },
+    "cover": "凉拌黄豆芽.webp"
+  },
+  {
+    "id": "r141",
+    "title": "凉拌绿豆芽",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f103",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "4g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "绿豆芽焯水 1 分钟后过凉水",
+      "加醋、盐、芝麻油、蒜末拌匀"
+    ],
+    "tips": "绿豆芽非常低钾低磷；口感清脆；CKD 各期均可常吃",
+    "cookTime": 8,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.4,
+      "potassium": 125,
+      "phosphorus": 63,
+      "sodium": 214,
+      "energy": 62
+    },
+    "cover": "凉拌绿豆芽.webp"
+  },
+  {
+    "id": "r142",
+    "title": "蒜香芦笋",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f049",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "芦笋去老根切段",
+      "焯水 30 秒过凉",
+      "锅中油热，放入芦笋和蒜末炒 1 分钟",
+      "加少量盐出锅"
+    ],
+    "tips": "芦笋含钾但纤维好，焯水后更安全；CKD 各期可食，3-5 期一次 <100g",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.3,
+      "potassium": 335,
+      "phosphorus": 70,
+      "sodium": 202,
+      "energy": 84
+    },
+    "cover": "蒜香芦笋.webp"
+  },
+  {
+    "id": "r143",
+    "title": "豆腐干拌西芹",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f105",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f181",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "豆腐干切丝，焯水 30 秒",
+      "西芹切薄片焯水过凉",
+      "两者混合，加芝麻油、醋、盐、蒜末拌匀"
+    ],
+    "tips": "西芹焯水去钾；豆腐干是优质植物蛋白；CKD 1-2 期和透析期均合适；注意豆干含磷，3-5 期少量",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 10.1,
+      "potassium": 399,
+      "phosphorus": 200,
+      "sodium": 482,
+      "energy": 136
+    },
+    "cover": "豆腐干拌西芹.webp"
+  },
+  {
+    "id": "r144",
+    "title": "清炒菜花(焯水)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f035",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "菜花切小朵洗净",
+      "沸水焯 1 分钟过凉",
+      "热锅下油，蒜片爆香",
+      "放入菜花翻炒 2 分钟，加盐调味"
+    ],
+    "tips": "菜花与西兰花类似，富含维 C；焯水可去部分钾；CKD 各期可作日常菜",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.3,
+      "potassium": 409,
+      "phosphorus": 98,
+      "sodium": 378,
+      "energy": 100
+    },
+    "cover": "清炒菜花(焯水).webp"
+  },
+  {
+    "id": "r145",
+    "title": "山药胡萝卜炒木耳",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f007",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f038",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f116",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "山药去皮切片，胡萝卜切片，木耳泡发撕小朵",
+      "全部焯水 30 秒",
+      "热锅下油爆香姜片",
+      "放入所有食材翻炒 2 分钟，加盐出锅"
+    ],
+    "tips": "三色搭配美观；山药健脾，木耳补铁；焯水后钾含量更可控；CKD 各分期可食",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 5.8,
+      "potassium": 571,
+      "phosphorus": 124,
+      "sodium": 388,
+      "energy": 205
+    },
+    "cover": "山药胡萝卜炒木耳.webp"
+  },
+  {
+    "id": "r146",
+    "title": "香菇炒菜心",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f046",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f149",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "香菇去蒂切片，菜心切段",
+      "菜心焯水 30 秒沥干",
+      "热锅下油，放入香菇翻炒出香",
+      "加入菜心快速翻炒，加少量盐和酱油"
+    ],
+    "tips": "香菇含磷较高但嘌呤不高；菜心焯水后钾可控；CKD 3-5 期一次 <100g",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.7,
+      "potassium": 296,
+      "phosphorus": 91,
+      "sodium": 481,
+      "energy": 88
+    },
+    "cover": "香菇炒菜心.webp"
+  },
+  {
+    "id": "r147",
+    "title": "口蘑炒西兰花",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f034",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f176",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "西兰花切小朵焯水 1 分钟",
+      "口蘑切片",
+      "热锅下油，口蘑先炒出水",
+      "放入西兰花翻炒 1 分钟，加盐出锅"
+    ],
+    "tips": "西兰花抗氧化；口蘑低热量；清淡爽口适合各分期",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.6,
+      "potassium": 639,
+      "phosphorus": 159,
+      "sodium": 348,
+      "energy": 114
+    },
+    "cover": "口蘑炒西兰花.webp"
+  },
+  {
+    "id": "r148",
+    "title": "茄子豆角煲(少盐)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "炖煮",
+    "ingredients": [
+      {
+        "foodId": "f036",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f043",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "8g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "茄子切滚刀块焯水，豆角切段焯水",
+      "热锅下油，蒜末姜末爆香",
+      "放入茄子豆角翻炒",
+      "加少量水焖 5 分钟，加盐和少量酱油出锅"
+    ],
+    "tips": "茄子吸油严重，焯水可减少吸油；豆角需充分煮熟避免中毒；CKD 各期可食",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.5,
+      "potassium": 444,
+      "phosphorus": 101,
+      "sodium": 500,
+      "energy": 147
+    },
+    "cover": "茄子豆角煲(少盐).webp"
+  },
+  {
+    "id": "r149",
+    "title": "手撕鸡胸(低盐)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f168",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "鸡胸肉冷水下锅，加姜片和料酒",
+      "水开转小火煮 8 分钟关火焖 5 分钟",
+      "捞出过凉水，手撕成丝",
+      "加葱丝、蒜末、醋、芝麻油、少量酱油拌匀"
+    ],
+    "tips": "鸡胸肉优质蛋白、低脂；凉拌比热炒更好控盐；透析期非常适合",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 19.9,
+      "potassium": 380,
+      "phosphorus": 229,
+      "sodium": 229,
+      "energy": 169
+    },
+    "cover": "手撕鸡胸(低盐).webp"
+  },
+  {
+    "id": "r150",
+    "title": "嫩煎鸡胸肉",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f168",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "鸡胸肉片薄，加少量盐、料酒、黑胡椒腌 10 分钟",
+      "平底锅少油，中小火每面煎 3 分钟",
+      "切片后挤少量柠檬汁"
+    ],
+    "tips": "煎烤比油炸少油；与青菜搭配即是完整一餐；适合 CKD 1-2 期及透析期",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 19.4,
+      "potassium": 338,
+      "phosphorus": 215,
+      "sodium": 284,
+      "energy": 177
+    },
+    "cover": "嫩煎鸡胸肉.webp"
+  },
+  {
+    "id": "r151",
+    "title": "冬瓜鸡肉丁",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f021",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f168",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "冬瓜去皮去瓤切丁，鸡胸肉切丁用淀粉抓匀",
+      "热锅下油，鸡丁滑炒至变色盛出",
+      "冬瓜下锅翻炒，加少量水焖 3 分钟",
+      "回入鸡丁，加盐翻匀出锅"
+    ],
+    "tips": "冬瓜低钾，鸡肉优质蛋白；口感清爽适合各分期",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 16.4,
+      "potassium": 432,
+      "phosphorus": 197,
+      "sodium": 346,
+      "energy": 186
+    },
+    "cover": "冬瓜鸡肉丁.webp"
+  },
+  {
+    "id": "r152",
+    "title": "洋葱炒牛肉丝",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f073",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f041",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "牛肉切丝用料酒、淀粉、少量酱油抓匀腌 10 分钟",
+      "洋葱切丝",
+      "热锅下油，牛肉大火快炒至变色盛出",
+      "再下洋葱炒软，回入牛肉翻匀加盐出锅"
+    ],
+    "tips": "牛肉优质蛋白；洋葱含硫化物有益；CKD 1-2 期、透析期适合",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.5,
+      "potassium": 385,
+      "phosphorus": 184,
+      "sodium": 470,
+      "energy": 192
+    },
+    "cover": "洋葱炒牛肉丝.webp"
+  },
+  {
+    "id": "r153",
+    "title": "西葫芦炒牛肉片",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f073",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f024",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "牛肉切片腌制 10 分钟",
+      "西葫芦切片",
+      "热锅下油滑炒牛肉至变色盛出",
+      "西葫芦下锅炒软，回入牛肉加盐炒匀"
+    ],
+    "tips": "西葫芦低钾，与牛肉营养互补；CKD 各期合适",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.5,
+      "potassium": 375,
+      "phosphorus": 168,
+      "sodium": 301,
+      "energy": 182
+    },
+    "cover": "西葫芦炒牛肉片.webp"
+  },
+  {
+    "id": "r154",
+    "title": "青椒肉丝(焯水版)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f162",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f040",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "猪里脊切丝用料酒淀粉抓匀",
+      "青椒切丝焯水 20 秒",
+      "热锅下油滑炒肉丝盛出",
+      "下青椒翻炒，回入肉丝加少量酱油和盐"
+    ],
+    "tips": "肉丝腌制让口感更嫩；青椒焯水可降钾并软化；CKD 各期可食",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.5,
+      "potassium": 415,
+      "phosphorus": 178,
+      "sodium": 422,
+      "energy": 218
+    },
+    "cover": "青椒肉丝(焯水版).webp"
+  },
+  {
+    "id": "r155",
+    "title": "冬瓜瘦肉片",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f021",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "70g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "瘦肉片薄，冬瓜切片",
+      "肉片用料酒淀粉腌 5 分钟",
+      "热锅下油，肉片滑炒变色",
+      "加入冬瓜和少量水焖 5 分钟，加盐出锅"
+    ],
+    "tips": "冬瓜瘦肉是经典低钾组合；口感滑嫩清爽",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.1,
+      "potassium": 375,
+      "phosphorus": 158,
+      "sodium": 288,
+      "energy": 180
+    },
+    "cover": "冬瓜瘦肉片.webp"
+  },
+  {
+    "id": "r156",
+    "title": "胡萝卜木耳炒肉片",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f038",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f116",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "70g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "胡萝卜切片，木耳泡发撕小朵",
+      "瘦肉片腌 5 分钟",
+      "锅中下油，肉片滑炒至变色盛出",
+      "胡萝卜木耳下锅翻炒，回入肉片加盐"
+    ],
+    "tips": "三色搭配均衡；木耳补铁，胡萝卜补维 A；CKD 各期可作日常菜",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.5,
+      "potassium": 517,
+      "phosphorus": 214,
+      "sodium": 351,
+      "energy": 239
+    },
+    "cover": "胡萝卜木耳炒肉片.webp"
+  },
+  {
+    "id": "r157",
+    "title": "豆角炒肉末",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f043",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "豆角切小粒，瘦肉末用料酒抓匀",
+      "锅中下油，肉末炒香",
+      "放入豆角翻炒并加少量水焖至全熟",
+      "加盐和少量酱油调味"
+    ],
+    "tips": "豆角必须充分加热；肉末比大块肉更易消化；CKD 各期可食",
+    "cookTime": 18,
+    "servings": 1,
+    "nutrition": {
+      "protein": 14.2,
+      "potassium": 482,
+      "phosphorus": 187,
+      "sodium": 451,
+      "energy": 174
+    },
+    "cover": "豆角炒肉末.webp"
+  },
+  {
+    "id": "r158",
+    "title": "芦笋肉片",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f049",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "70g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "芦笋切段焯水 30 秒",
+      "瘦肉片腌制",
+      "锅下油，肉片滑炒至变色",
+      "加入芦笋翻炒，加盐出锅"
+    ],
+    "tips": "芦笋含叶酸维 B；CKD 1-2 期和透析期合适；3-5 期一次 <100g",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.9,
+      "potassium": 469,
+      "phosphorus": 184,
+      "sodium": 249,
+      "energy": 181
+    },
+    "cover": "芦笋肉片.webp"
+  },
+  {
+    "id": "r159",
+    "title": "蒜苗炒鸡丁",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f168",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f151",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "鸡胸肉切丁腌制",
+      "蒜苗切段",
+      "热锅下油滑炒鸡丁至变色",
+      "放入蒜苗翻炒，加盐和少量酱油"
+    ],
+    "tips": "蒜苗香气浓郁；鸡肉优质蛋白；CKD 1-2 期和透析期适合",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.8,
+      "potassium": 507,
+      "phosphorus": 223,
+      "sodium": 410,
+      "energy": 204
+    },
+    "cover": "蒜苗炒鸡丁.webp"
+  },
+  {
+    "id": "r160",
+    "title": "番茄牛肉煮",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "炖煮",
+    "ingredients": [
+      {
+        "foodId": "f037",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f073",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "牛肉切小块，焯水去血沫",
+      "番茄切块炒出沙",
+      "加入牛肉和水煮沸",
+      "转小火炖 40 分钟，加少量盐和葱花"
+    ],
+    "tips": "番茄酸甜天然鲜味，减少盐用量；牛肉优质蛋白；CKD 1-2 期适合，透析期建议减牛肉量",
+    "cookTime": 50,
+    "servings": 1,
+    "nutrition": {
+      "protein": 17.6,
+      "potassium": 484,
+      "phosphorus": 175,
+      "sodium": 379,
+      "energy": 164
+    },
+    "cover": "番茄牛肉煮.webp"
+  },
+  {
+    "id": "r161",
+    "title": "鸡蛋炒青椒",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f066",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f040",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      }
+    ],
+    "steps": [
+      "青椒切丝焯水 20 秒",
+      "鸡蛋打散炒散盛出",
+      "青椒下锅翻炒，回入鸡蛋加盐炒匀"
+    ],
+    "tips": "青椒焯水去钾；鸡蛋优质蛋白；CKD 各期可食",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.4,
+      "potassium": 203,
+      "phosphorus": 112,
+      "sodium": 263,
+      "energy": 141
+    },
+    "cover": "鸡蛋炒青椒.webp"
+  },
+  {
+    "id": "r162",
+    "title": "西红柿鸡蛋(少盐版)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f037",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f096",
+        "amount": "1g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "西红柿切块，鸡蛋打散",
+      "先把鸡蛋炒至大块盛出",
+      "番茄炒出沙加少量糖",
+      "回入鸡蛋翻炒，加少量盐出锅"
+    ],
+    "tips": "番茄的酸甜可以减少用盐；鸡蛋补蛋白；家庭常备菜；适合 CKD 各期",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 8.4,
+      "potassium": 316,
+      "phosphorus": 137,
+      "sodium": 274,
+      "energy": 159
+    },
+    "cover": "西红柿鸡蛋(少盐版).webp"
+  },
+  {
+    "id": "r163",
+    "title": "蒸水蛋(低钠)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "1 个鸡蛋加 1.2 倍温水打散过筛",
+      "加 0.3g 盐调匀",
+      "盖保鲜膜戳洞蒸 8 分钟",
+      "淋少量酱油和芝麻油"
+    ],
+    "tips": "滑嫩易消化；优质蛋白；适合肾病各期及老年人；透析期可加少量瘦肉末",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.2,
+      "potassium": 73,
+      "phosphorus": 104,
+      "sodium": 302,
+      "energy": 98
+    },
+    "cover": "蒸水蛋(低钠).webp"
+  },
+  {
+    "id": "r164",
+    "title": "鸡蛋白蔬菜汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f067",
+        "amount": "60g"
+      },
+      {
+        "foodId": "f021",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "鸡蛋白打散；冬瓜切薄片或西葫芦切丁",
+      "水烧开放入冬瓜煮 3 分钟",
+      "淋入蛋白，边淋边搅出蛋花",
+      "加少量盐和葱花"
+    ],
+    "tips": "蛋白是优质蛋白且不含磷；冬瓜低钾低磷；CKD 3-5 期优选",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.6,
+      "potassium": 201,
+      "phosphorus": 31,
+      "sodium": 247,
+      "energy": 73
+    },
+    "cover": "鸡蛋白蔬菜汤.webp"
+  },
+  {
+    "id": "r165",
+    "title": "柠檬煎鳕鱼",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f695",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "鳕鱼用料酒、少量盐、黑胡椒腌 10 分钟",
+      "平底锅下少油，鳕鱼中小火每面煎 3 分钟",
+      "出锅前挤柠檬汁"
+    ],
+    "tips": "鳕鱼低汞、蛋白质优质；煎烤比红烧更控钠；透析期理想选择",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 20.4,
+      "potassium": 321,
+      "phosphorus": 233,
+      "sodium": 341,
+      "energy": 133
+    },
+    "cover": "柠檬煎鳕鱼.webp"
+  },
+  {
+    "id": "r166",
+    "title": "清蒸三文鱼",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f077",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "三文鱼用料酒、姜丝腌 10 分钟",
+      "摆上姜丝葱丝",
+      "水开后大火蒸 6 分钟",
+      "淋少量蒸鱼豉油和热油"
+    ],
+    "tips": "三文鱼富含 Omega-3；蒸制最大限度保留营养；透析期适合；蒸鱼豉油含盐要控量",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 14.2,
+      "potassium": 318,
+      "phosphorus": 136,
+      "sodium": 352,
+      "energy": 144
+    },
+    "cover": "清蒸三文鱼.webp"
+  },
+  {
+    "id": "r167",
+    "title": "番茄鱼片汤",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f076",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f037",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "草鱼肉切片用料酒淀粉腌 5 分钟",
+      "番茄切块炒出沙",
+      "加水煮开，放入鱼片煮 3 分钟",
+      "加少量盐和葱花"
+    ],
+    "tips": "番茄可减盐用量；鱼片滑嫩；CKD 1-2 期适合，透析期建议少喝汤",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 14.8,
+      "potassium": 499,
+      "phosphorus": 200,
+      "sodium": 373,
+      "energy": 178
+    },
+    "cover": "番茄鱼片汤.webp"
+  },
+  {
+    "id": "r168",
+    "title": "虾仁炒西葫芦",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f078",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f024",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "虾仁用料酒淀粉腌 5 分钟",
+      "西葫芦切片",
+      "热锅下油，虾仁炒至变色盛出",
+      "西葫芦下锅炒软，回入虾仁加盐出锅"
+    ],
+    "tips": "虾仁优质蛋白；西葫芦低钾；透析期佳选；CKD 3-5 期减量",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 14.8,
+      "potassium": 330,
+      "phosphorus": 187,
+      "sodium": 494,
+      "energy": 151
+    },
+    "cover": "虾仁炒西葫芦.webp"
+  },
+  {
+    "id": "r169",
+    "title": "虾仁滑蛋",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f078",
+        "amount": "70g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "虾仁用料酒淀粉腌制",
+      "鸡蛋打散加少量盐",
+      "虾仁先炒至半熟",
+      "倒入蛋液小火炒至凝固即可"
+    ],
+    "tips": "滑蛋口感嫩滑；虾蛋均为优质蛋白；适合透析期",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 18.8,
+      "potassium": 227,
+      "phosphorus": 239,
+      "sodium": 486,
+      "energy": 198
+    },
+    "cover": "虾仁滑蛋.webp"
+  },
+  {
+    "id": "r170",
+    "title": "葱姜蒸蛤蜊",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f139",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "蛤蜊吐沙洗净",
+      "摆姜丝葱丝",
+      "水开后蒸 5 分钟",
+      "淋少量蒸鱼豉油和热油"
+    ],
+    "tips": "蛤蜊低脂优质蛋白；注意蛤蜊钠含量较高，不再加盐；痛风期限量",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.5,
+      "potassium": 235,
+      "phosphorus": 201,
+      "sodium": 825,
+      "energy": 125
+    },
+    "cover": "葱姜蒸蛤蜊.webp"
+  },
+  {
+    "id": "r171",
+    "title": "清蒸黄鱼",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f171",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f160",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.3g"
+      }
+    ],
+    "steps": [
+      "黄鱼清理干净两面划刀",
+      "抹料酒和少量盐腌 5 分钟",
+      "摆姜丝葱丝水开后蒸 7 分钟",
+      "淋蒸鱼豉油和热油"
+    ],
+    "tips": "黄鱼肉质细嫩；蒸制是最友好的鱼类烹饪方式；CKD 1-2 期和透析期合适",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 21.9,
+      "potassium": 303,
+      "phosphorus": 238,
+      "sodium": 543,
+      "energy": 153
+    },
+    "cover": "清蒸黄鱼.webp"
+  },
+  {
+    "id": "r172",
+    "title": "鲈鱼豆腐煮",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "炖煮",
+    "ingredients": [
+      {
+        "foodId": "f132",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f136",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "鲈鱼切段煎至两面微黄",
+      "加水、姜片煮至奶白",
+      "加入内酯豆腐块煮 5 分钟",
+      "加少量盐和葱花"
+    ],
+    "tips": "鲈鱼优质低汞蛋白；豆腐补钙；汤鲜不咸；透析期建议只吃鱼不多喝汤",
+    "cookTime": 25,
+    "servings": 1,
+    "nutrition": {
+      "protein": 26.2,
+      "potassium": 357,
+      "phosphorus": 330,
+      "sodium": 482,
+      "energy": 227
+    },
+    "cover": "鲈鱼豆腐煮.webp"
+  },
+  {
+    "id": "r173",
+    "title": "麦淀粉馒头",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f121",
+        "amount": "80g"
+      }
+    ],
+    "steps": [
+      "麦淀粉 80g、温水 60ml、酵母 1g 混匀",
+      "揉成光滑面团发酵 1 小时",
+      "搓成长条切段",
+      "上锅蒸 15 分钟"
+    ],
+    "tips": "麦淀粉几乎无蛋白，可腾出蛋白配额给优质蛋白食物；CKD 3-5 期主食首选",
+    "cookTime": 80,
+    "servings": 2,
+    "nutrition": {
+      "protein": 1.0,
+      "potassium": 6,
+      "phosphorus": 20,
+      "sodium": 5,
+      "energy": 281
+    },
+    "cover": "麦淀粉馒头.webp"
+  },
+  {
+    "id": "r174",
+    "title": "低蛋白米饭",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f012",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "低蛋白大米 50g 淘洗干净",
+      "加水 70ml",
+      "蒸锅或电饭锅蒸熟"
+    ],
+    "tips": "低蛋白大米蛋白质仅普通大米的 1/10 左右；CKD 3-5 期和透析期主食优选",
+    "cookTime": 30,
+    "servings": 1,
+    "nutrition": {
+      "protein": 0.4,
+      "potassium": 6,
+      "phosphorus": 9,
+      "sodium": 0,
+      "energy": 175
+    },
+    "cover": "低蛋白米饭.webp"
+  },
+  {
+    "id": "r175",
+    "title": "南瓜米饭",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f001",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f009",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "南瓜切小块",
+      "大米淘洗后与南瓜一起入电饭锅",
+      "加适量水按正常蒸饭程序"
+    ],
+    "tips": "南瓜天然甘甜，米饭减少用量；CKD 各期可食",
+    "cookTime": 40,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.2,
+      "potassium": 204,
+      "phosphorus": 65,
+      "sodium": 3,
+      "energy": 200
+    },
+    "cover": "南瓜米饭.webp"
+  },
+  {
+    "id": "r176",
+    "title": "玉米面发糕",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f004",
+        "amount": "60g"
+      },
+      {
+        "foodId": "f121",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      "玉米面 60g + 麦淀粉 30g + 酵母 1g + 温水",
+      "发酵 40 分钟",
+      "倒入模具蒸 20 分钟"
+    ],
+    "tips": "玉米面+麦淀粉降低整体蛋白；口感松软；适合 CKD 3-5 期作早餐主食",
+    "cookTime": 70,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.8,
+      "potassium": 145,
+      "phosphorus": 78,
+      "sodium": 3,
+      "energy": 173
+    },
+    "cover": "玉米面发糕.webp"
+  },
+  {
+    "id": "r177",
+    "title": "山药粥",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f001",
+        "amount": "40g"
+      },
+      {
+        "foodId": "f007",
+        "amount": "80g"
+      }
+    ],
+    "steps": [
+      "山药去皮切片",
+      "大米淘洗加水煮开",
+      "放入山药一同煮 25 分钟成粥"
+    ],
+    "tips": "山药健脾养胃；对肾病胃肠道不适者友好；CKD 各期可食",
+    "cookTime": 30,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.5,
+      "potassium": 212,
+      "phosphorus": 71,
+      "sodium": 16,
+      "energy": 187
+    },
+    "cover": "山药粥.webp"
+  },
+  {
+    "id": "r178",
+    "title": "南瓜小米发糕",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f009",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f002",
+        "amount": "30g"
+      },
+      {
+        "foodId": "f121",
+        "amount": "40g"
+      }
+    ],
+    "steps": [
+      "南瓜蒸熟压泥",
+      "加小米面、酵母、麦淀粉和温水",
+      "发酵后蒸 20 分钟"
+    ],
+    "tips": "颜色金黄口感软糯；小米磷较高，配麦淀粉降低总蛋白和磷",
+    "cookTime": 70,
+    "servings": 2,
+    "nutrition": {
+      "protein": 3.6,
+      "potassium": 210,
+      "phosphorus": 87,
+      "sodium": 5,
+      "energy": 269
+    },
+    "cover": "南瓜小米发糕.webp"
+  },
+  {
+    "id": "r179",
+    "title": "低蛋白馒头",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f121",
+        "amount": "70g"
+      },
+      {
+        "foodId": "f003",
+        "amount": "20g"
+      }
+    ],
+    "steps": [
+      "麦淀粉 70g + 面粉 20g + 酵母 1g + 温水",
+      "发酵 1 小时",
+      "搓条切段上锅蒸 15 分钟"
+    ],
+    "tips": "半低蛋白版馒头平衡口感和低蛋白需求；CKD 3-5 期可作主食",
+    "cookTime": 80,
+    "servings": 2,
+    "nutrition": {
+      "protein": 3.1,
+      "potassium": 44,
+      "phosphorus": 55,
+      "sodium": 5,
+      "energy": 316
+    },
+    "cover": "低蛋白馒头.webp"
+  },
+  {
+    "id": "r180",
+    "title": "燕麦大米粥",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f013",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f001",
+        "amount": "30g"
+      }
+    ],
+    "steps": [
+      "燕麦 20g、大米 30g 淘洗",
+      "加水 400ml 大火煮开",
+      "转小火煮 25 分钟至粘稠"
+    ],
+    "tips": "燕麦含磷较高，量控制在 20g 以内；CKD 1-2 期可食；3-5 期一次 <50g",
+    "cookTime": 35,
+    "servings": 1,
+    "nutrition": {
+      "protein": 5.1,
+      "potassium": 102,
+      "phosphorus": 105,
+      "sodium": 4,
+      "energy": 182
+    },
+    "cover": "燕麦大米粥.webp"
+  },
+  {
+    "id": "r181",
+    "title": "藜麦白米饭",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f122",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f001",
+        "amount": "40g"
+      }
+    ],
+    "steps": [
+      "藜麦 20g 洗净浸泡 30 分钟",
+      "与大米 40g 一起煮",
+      "加水量比普通米饭多 1 成"
+    ],
+    "tips": "藜麦含优质蛋白和氨基酸；CKD 1-2 期理想主食；3-5 期 <20g",
+    "cookTime": 40,
+    "servings": 1,
+    "nutrition": {
+      "protein": 5.8,
+      "potassium": 154,
+      "phosphorus": 135,
+      "sodium": 3,
+      "energy": 214
+    },
+    "cover": "藜麦白米饭.webp"
+  },
+  {
+    "id": "r182",
+    "title": "白菜猪肉水饺(自制少盐)",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f025",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "40g"
+      },
+      {
+        "foodId": "f003",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "1g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "白菜切碎挤干水",
+      "瘦肉末加少量盐、料酒、葱花姜末拌匀",
+      "白菜和肉馅混合包入饺子皮",
+      "水开下饺子煮 3 开"
+    ],
+    "tips": "家庭自制可严格控盐；白菜和瘦肉搭配蛋白质适中；CKD 1-2 期 10 个以内；3-5 期限 6 个",
+    "cookTime": 40,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.7,
+      "potassium": 385,
+      "phosphorus": 210,
+      "sodium": 495,
+      "energy": 258
+    },
+    "cover": "白菜猪肉水饺(自制少盐).webp"
+  },
+  {
+    "id": "r183",
+    "title": "韭菜鸡蛋饺子(自制)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f127",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f003",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "1g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "韭菜切碎，鸡蛋炒散晾凉",
+      "两者混合加少量盐和芝麻油",
+      "包入饺子皮",
+      "水开下饺子煮 3 开"
+    ],
+    "tips": "素饺减少饱和脂肪；韭菜含钾中等；CKD 1-2 期一次 8-10 个",
+    "cookTime": 40,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.0,
+      "potassium": 409,
+      "phosphorus": 232,
+      "sodium": 472,
+      "energy": 311
+    },
+    "cover": "韭菜鸡蛋饺子(自制).webp"
+  },
+  {
+    "id": "r184",
+    "title": "冬瓜蛋花汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f021",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "冬瓜去皮切薄片",
+      "水烧开放入冬瓜煮 5 分钟",
+      "淋入打散的鸡蛋液成蛋花",
+      "加少量盐、芝麻油和葱花"
+    ],
+    "tips": "冬瓜低钾低磷；鸡蛋补优质蛋白；汤清淡易消化；CKD 各期均可",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.7,
+      "potassium": 188,
+      "phosphorus": 120,
+      "sodium": 308,
+      "energy": 115
+    },
+    "cover": "冬瓜蛋花汤.webp"
+  },
+  {
+    "id": "r185",
+    "title": "冬瓜海米汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f021",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f078",
+        "amount": "30g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "冬瓜切片；海米不用，直接用少量虾仁代替",
+      "虾仁提前泡发",
+      "水开后放虾仁煮 3 分钟",
+      "加冬瓜煮 5 分钟，加少量盐和葱花"
+    ],
+    "tips": "虾仁提鲜不咸；冬瓜低钾；透析期建议只吃料不喝汤控水",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 5.7,
+      "potassium": 193,
+      "phosphorus": 79,
+      "sodium": 290,
+      "energy": 61
+    },
+    "cover": "冬瓜海米汤.webp"
+  },
+  {
+    "id": "r186",
+    "title": "丝瓜豆腐汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f023",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f136",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "丝瓜去皮切滚刀块",
+      "内酯豆腐切块",
+      "水开放入丝瓜煮 3 分钟",
+      "加豆腐再煮 3 分钟，加盐和芝麻油"
+    ],
+    "tips": "丝瓜清热去火；豆腐补蛋白；CKD 1-2 期合适；3-5 期注意豆腐份量",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 6.6,
+      "potassium": 275,
+      "phosphorus": 103,
+      "sodium": 247,
+      "energy": 102
+    },
+    "cover": "丝瓜豆腐汤.webp"
+  },
+  {
+    "id": "r187",
+    "title": "西红柿蛋花汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f037",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "番茄切块炒出沙",
+      "加水煮开",
+      "淋蛋液成蛋花",
+      "加少量盐和葱花"
+    ],
+    "tips": "番茄天然提鲜；少量盐即可；CKD 各期都可作为日常汤",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 8.5,
+      "potassium": 315,
+      "phosphorus": 137,
+      "sodium": 313,
+      "energy": 137
+    },
+    "cover": "西红柿蛋花汤.webp"
+  },
+  {
+    "id": "r188",
+    "title": "白萝卜排骨汤(少盐)",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f163",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f039",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.8g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "排骨焯水去血沫",
+      "加入姜片和水炖 40 分钟",
+      "加白萝卜块再炖 15 分钟",
+      "加少量盐和葱花"
+    ],
+    "tips": "排骨磷较高；少喝汤只吃肉和萝卜；CKD 3-5 期一次少量；透析期慎食",
+    "cookTime": 60,
+    "servings": 1,
+    "nutrition": {
+      "protein": 14.8,
+      "potassium": 456,
+      "phosphorus": 149,
+      "sodium": 471,
+      "energy": 258
+    },
+    "cover": "白萝卜排骨汤(少盐).webp"
+  },
+  {
+    "id": "r189",
+    "title": "海带豆腐汤(少盐)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "汤品",
+    "ingredients": [
+      {
+        "foodId": "f117",
+        "amount": "30g"
+      },
+      {
+        "foodId": "f136",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "海带提前泡发 2 小时换水 2 次",
+      "豆腐切块",
+      "水开放入海带煮 5 分钟",
+      "加豆腐煮 3 分钟，加少量盐"
+    ],
+    "tips": "海带碘丰富但钾较高，泡发并焯水；CKD 1-2 期合适；3-5 期注意份量",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 5.4,
+      "potassium": 174,
+      "phosphorus": 64,
+      "sodium": 206,
+      "energy": 73
+    },
+    "cover": "海带豆腐汤(少盐).webp"
+  },
+  {
+    "id": "r190",
+    "title": "玉米大米粥",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f004",
+        "amount": "30g"
+      },
+      {
+        "foodId": "f001",
+        "amount": "40g"
+      }
+    ],
+    "steps": [
+      "玉米粒或玉米碎 30g",
+      "大米 40g 淘洗",
+      "一同加水煮成粥"
+    ],
+    "tips": "玉米粥口感清甜，含一定钾，CKD 3-5 期一次 <100g",
+    "cookTime": 30,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.2,
+      "potassium": 113,
+      "phosphorus": 79,
+      "sodium": 2,
+      "energy": 175
+    },
+    "cover": "玉米大米粥.webp"
+  },
+  {
+    "id": "r191",
+    "title": "胡萝卜小米粥",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "主食",
+    "ingredients": [
+      {
+        "foodId": "f002",
+        "amount": "30g"
+      },
+      {
+        "foodId": "f038",
+        "amount": "50g"
+      }
+    ],
+    "steps": [
+      "胡萝卜切小丁",
+      "小米淘洗",
+      "加水煮 30 分钟至粘稠"
+    ],
+    "tips": "胡萝卜提供维 A；小米含磷，CKD 3-5 期减量；透析期一次 <150g",
+    "cookTime": 35,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.2,
+      "potassium": 180,
+      "phosphorus": 82,
+      "sodium": 37,
+      "energy": 129
+    },
+    "cover": "胡萝卜小米粥.webp"
+  },
+  {
+    "id": "r192",
+    "title": "银耳莲子羹",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f115",
+        "amount": "10g"
+      },
+      {
+        "foodId": "f112",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f096",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "银耳泡发撕小朵",
+      "莲子去芯泡软",
+      "与水一同炖煮 1 小时",
+      "加少量冰糖或不加糖"
+    ],
+    "tips": "银耳富含植物胶质；莲子养心安神；含糖量可自控；CKD 各期均可",
+    "cookTime": 70,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.4,
+      "potassium": 328,
+      "phosphorus": 147,
+      "sodium": 9,
+      "energy": 109
+    },
+    "cover": "银耳莲子羹.webp"
+  },
+  {
+    "id": "r193",
+    "title": "木瓜炖鸡蛋",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f064",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      }
+    ],
+    "steps": [
+      "木瓜去皮去籽切块",
+      "加少量水蒸 10 分钟",
+      "打入一个鸡蛋再蒸 5 分钟"
+    ],
+    "tips": "木瓜低钾低磷，适合各期；鸡蛋补蛋白；天然甜味无需加糖",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.6,
+      "potassium": 94,
+      "phosphorus": 118,
+      "sodium": 111,
+      "energy": 122
+    },
+    "cover": "木瓜炖鸡蛋.webp"
+  },
+  {
+    "id": "r194",
+    "title": "苹果蒸山药",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f007",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f051",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f097",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "山药去皮切小块",
+      "苹果去皮切小块",
+      "两者蒸 15 分钟",
+      "可加少量蜂蜜"
+    ],
+    "tips": "山药健脾；苹果低钾；天然甜味适合控糖人群；CKD 各期可食",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.1,
+      "potassium": 310,
+      "phosphorus": 44,
+      "sodium": 20,
+      "energy": 118
+    },
+    "cover": "苹果蒸山药.webp"
+  },
+  {
+    "id": "r195",
+    "title": "梨银耳汤",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f130",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f115",
+        "amount": "10g"
+      }
+    ],
+    "steps": [
+      "雪梨去皮切块",
+      "银耳泡发撕小朵",
+      "与水同煮 40 分钟至粘稠"
+    ],
+    "tips": "雪梨润肺；无糖也香甜；CKD 各期均可",
+    "cookTime": 50,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.4,
+      "potassium": 226,
+      "phosphorus": 53,
+      "sodium": 10,
+      "energy": 103
+    },
+    "cover": "梨银耳汤.webp"
+  },
+  {
+    "id": "r196",
+    "title": "红枣枸杞蒸蛋",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f114",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "鸡蛋打散加温水调匀",
+      "撒入几粒红枣枸杞",
+      "蒸 10 分钟"
+    ],
+    "tips": "温和滋补；红枣钾较高，限量使用；CKD 3-5 期慎食红枣",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.3,
+      "potassium": 75,
+      "phosphorus": 102,
+      "sodium": 71,
+      "energy": 81
+    },
+    "cover": "红枣枸杞蒸蛋.webp"
+  },
+  {
+    "id": "r197",
+    "title": "家常豆腐(少油少盐)",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f173",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f040",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f096",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "北豆腐切块两面煎至金黄",
+      "爆香蒜姜",
+      "加少量水、少量酱油和糖焖 3 分钟",
+      "加入青椒片炒匀"
+    ],
+    "tips": "豆腐是优质植物蛋白；煎后口感更好；CKD 1-2 期适合；3-5 期注意豆腐磷含量",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.6,
+      "potassium": 229,
+      "phosphorus": 215,
+      "sodium": 299,
+      "energy": 201
+    },
+    "cover": "家常豆腐(少油少盐).webp"
+  },
+  {
+    "id": "r198",
+    "title": "鸡蛋豆腐羹",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f136",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "内酯豆腐切小块",
+      "鸡蛋打散加 1.5 倍水调匀",
+      "倒在豆腐上蒸 10 分钟",
+      "淋少量酱油和芝麻油"
+    ],
+    "tips": "豆腐+鸡蛋互补氨基酸；滑嫩易消化；适合老人和患者各期",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 12.2,
+      "potassium": 168,
+      "phosphorus": 161,
+      "sodium": 309,
+      "energy": 148
+    },
+    "cover": "鸡蛋豆腐羹.webp"
+  },
+  {
+    "id": "r199",
+    "title": "豆腐皮炒青菜",
+    "stages": [
+      "stage1_2"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f179",
+        "amount": "40g"
+      },
+      {
+        "foodId": "f149",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "豆腐皮切丝",
+      "小白菜切段",
+      "热锅下油，豆腐皮翻炒",
+      "放入小白菜快速炒匀，加盐出锅"
+    ],
+    "tips": "豆腐皮蛋白质高；青菜清爽；搭配均衡；CKD 1-2 期适合",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 20.2,
+      "potassium": 491,
+      "phosphorus": 185,
+      "sodium": 351,
+      "energy": 238
+    },
+    "cover": "豆腐皮炒青菜.webp"
+  },
+  {
+    "id": "r200",
+    "title": "香煎豆腐排",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f173",
+        "amount": "120g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "6g"
+      },
+      {
+        "foodId": "f120",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "北豆腐切厚片，两面裹少量淀粉",
+      "平底锅中小火两面煎至金黄",
+      "淋少量酱油和蒜末"
+    ],
+    "tips": "煎豆腐外酥内嫩；少油做法；CKD 1-2 期优质植物蛋白",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 15.0,
+      "potassium": 147,
+      "phosphorus": 201,
+      "sodium": 183,
+      "energy": 195
+    },
+    "cover": "香煎豆腐排.webp"
+  },
+  {
+    "id": "r201",
+    "title": "内酯豆腐拌皮蛋替代(不加皮蛋)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f136",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f161",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "内酯豆腐切方块摆盘",
+      "蒜末、香葱末、芝麻油、醋、少量酱油调味",
+      "淋在豆腐上即可"
+    ],
+    "tips": "皮蛋含铅钠较高，用蒜末葱花调味替代同样清爽；CKD 各期更安全",
+    "cookTime": 8,
+    "servings": 1,
+    "nutrition": {
+      "protein": 8.0,
+      "potassium": 179,
+      "phosphorus": 101,
+      "sodium": 191,
+      "energy": 110
+    },
+    "cover": "内酯豆腐拌皮蛋替代(不加皮蛋).webp"
+  },
+  {
+    "id": "r202",
+    "title": "蓝莓酸奶杯",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f065",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f071",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "蓝莓洗净沥干",
+      "酸奶倒入杯中",
+      "蓝莓撒在表面"
+    ],
+    "tips": "蓝莓抗氧化且钾低；酸奶含磷较高，透析期一次 <100ml；CKD 1-2 期适合",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.6,
+      "potassium": 334,
+      "phosphorus": 178,
+      "sodium": 70,
+      "energy": 135
+    },
+    "cover": "蓝莓酸奶杯.webp"
+  },
+  {
+    "id": "r203",
+    "title": "草莓奶昔(低磷版)",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f056",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f203",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f097",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "草莓洗净去蒂",
+      "与鲜牛奶一起搅打成昔",
+      "可加少量蜂蜜调味"
+    ],
+    "tips": "草莓低钾；牛奶含磷，透析期建议用 100ml 以内；CKD 1-2 期和 3-5 期减半",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.0,
+      "potassium": 241,
+      "phosphorus": 100,
+      "sodium": 41,
+      "energy": 102
+    },
+    "cover": "草莓奶昔(低磷版).webp"
+  },
+  {
+    "id": "r204",
+    "title": "葡萄苹果沙拉",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f055",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f051",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f097",
+        "amount": "5g"
+      }
+    ],
+    "steps": [
+      "葡萄对半切",
+      "苹果切丁",
+      "混合即可（可加少量酸奶或蜂蜜）"
+    ],
+    "tips": "葡萄和苹果都是低钾水果；CKD 各期可食；不加奶油版更健康",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 0.6,
+      "potassium": 204,
+      "phosphorus": 23,
+      "sodium": 3,
+      "energy": 107
+    },
+    "cover": "葡萄苹果沙拉.webp"
+  },
+  {
+    "id": "r205",
+    "title": "梨汁",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "饮品",
+    "ingredients": [
+      {
+        "foodId": "f130",
+        "amount": "100g"
+      }
+    ],
+    "steps": [
+      "雪梨去皮去核切块",
+      "加少量饮用水放入榨汁机",
+      "榨汁后过滤"
+    ],
+    "tips": "梨汁润喉；透析期要控制液体总量；CKD 各期可作餐间饮品",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 45,
+      "phosphorus": 11,
+      "sodium": 1,
+      "energy": 51
+    },
+    "cover": "梨汁.webp"
+  },
+  {
+    "id": "r206",
+    "title": "西瓜汁",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "饮品",
+    "ingredients": [
+      {
+        "foodId": "f054",
+        "amount": "150g"
+      }
+    ],
+    "steps": [
+      "西瓜去籽切块",
+      "榨汁后过滤",
+      "冷藏后饮用"
+    ],
+    "tips": "西瓜含水量大可能加重液体负担；透析期尤其注意；CKD 3-5 期一次 <150g",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 130,
+      "phosphorus": 14,
+      "sodium": 5,
+      "energy": 39
+    },
+    "cover": "西瓜汁.webp"
+  },
+  {
+    "id": "r207",
+    "title": "冰镇樱桃",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "甜品",
+    "ingredients": [
+      {
+        "foodId": "f131",
+        "amount": "80g"
+      }
+    ],
+    "steps": [
+      "樱桃洗净去蒂",
+      "冰箱冷藏 1 小时",
+      "直接食用"
+    ],
+    "tips": "樱桃含钾中等，CKD 3-5 期一次 <80g；色彩鲜艳富含抗氧化物",
+    "cookTime": 5,
+    "servings": 1,
+    "nutrition": {
+      "protein": 0.9,
+      "potassium": 186,
+      "phosphorus": 22,
+      "sodium": 6,
+      "energy": 38
+    },
+    "cover": "冰镇樱桃.webp"
+  },
+  {
+    "id": "r208",
+    "title": "蒸茄子",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f036",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "茄子去蒂切长段，蒸 15 分钟",
+      "取出撕成条",
+      "蒜末、生抽、香油、少量醋调汁淋上"
+    ],
+    "tips": "蒸茄子不吸油；CKD 各期可食；注意生抽要控量",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.8,
+      "potassium": 326,
+      "phosphorus": 65,
+      "sodium": 307,
+      "energy": 83
+    },
+    "cover": "蒸茄子.webp"
+  },
+  {
+    "id": "r209",
+    "title": "清炒丝瓜木耳",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f023",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f116",
+        "amount": "20g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "丝瓜去皮切滚刀块",
+      "木耳泡发撕小朵",
+      "热锅下油，木耳炒香",
+      "加丝瓜翻炒 2 分钟，加盐出锅"
+    ],
+    "tips": "丝瓜清热；木耳补铁；CKD 各期可食",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 4.1,
+      "potassium": 333,
+      "phosphorus": 106,
+      "sodium": 250,
+      "energy": 134
+    },
+    "cover": "清炒丝瓜木耳.webp"
+  },
+  {
+    "id": "r210",
+    "title": "凉拌茼蒿",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "凉菜",
+    "ingredients": [
+      {
+        "foodId": "f125",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "茼蒿洗净整株焯水 30 秒",
+      "过凉水切段",
+      "加芝麻油、蒜末、少量生抽、醋拌匀"
+    ],
+    "tips": "茼蒿有特殊清香；焯水去部分钾；CKD 1-2 期合适，3-5 期减量",
+    "cookTime": 10,
+    "servings": 1,
+    "nutrition": {
+      "protein": 3.2,
+      "potassium": 360,
+      "phosphorus": 67,
+      "sodium": 423,
+      "energy": 69
+    },
+    "cover": "凉拌茼蒿.webp"
+  },
+  {
+    "id": "r211",
+    "title": "杏鲍菇炒青椒",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f135",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f040",
+        "amount": "80g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "杏鲍菇切条，青椒切块",
+      "热锅下油，先炒杏鲍菇至微黄",
+      "加青椒翻炒 1 分钟",
+      "加盐、少量酱油出锅"
+    ],
+    "tips": "杏鲍菇低热量饱腹；青椒富含维 C；CKD 1-2 期可食",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.4,
+      "potassium": 375,
+      "phosphorus": 92,
+      "sodium": 415,
+      "energy": 105
+    },
+    "cover": "杏鲍菇炒青椒.webp"
+  },
+  {
+    "id": "r212",
+    "title": "白萝卜丝素炒",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f039",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f088",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "白萝卜切丝焯水 30 秒",
+      "热锅下油爆香姜丝",
+      "放入萝卜丝翻炒",
+      "加盐少量醋翻匀出锅"
+    ],
+    "tips": "白萝卜极低钾；助消化；CKD 各期可常吃",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 1.9,
+      "potassium": 361,
+      "phosphorus": 56,
+      "sodium": 368,
+      "energy": 92
+    },
+    "cover": "白萝卜丝素炒.webp"
+  },
+  {
+    "id": "r213",
+    "title": "清蒸冬瓜夹",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f021",
+        "amount": "200g"
+      },
+      {
+        "foodId": "f072",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f087",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "3g"
+      },
+      {
+        "foodId": "f100",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "冬瓜切厚片中间夹瘦肉末",
+      "肉末加少量盐和料酒",
+      "蒸 12 分钟",
+      "淋少量蒸鱼豉油"
+    ],
+    "tips": "蒸菜保留营养；冬瓜低钾；瘦肉提供优质蛋白；CKD 1-2 期适合",
+    "cookTime": 20,
+    "servings": 1,
+    "nutrition": {
+      "protein": 11.1,
+      "potassium": 323,
+      "phosphorus": 125,
+      "sodium": 410,
+      "energy": 99
+    },
+    "cover": "清蒸冬瓜夹.webp"
+  },
+  {
+    "id": "r214",
+    "title": "莴笋炒鸡蛋",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "荤菜",
+    "ingredients": [
+      {
+        "foodId": "f147",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f066",
+        "amount": "55g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      }
+    ],
+    "steps": [
+      "莴笋切片焯水 30 秒",
+      "鸡蛋打散炒成小块盛出",
+      "莴笋下锅翻炒，回入鸡蛋",
+      "加盐炒匀出锅"
+    ],
+    "tips": "莴笋脆嫩清爽；鸡蛋补蛋白；CKD 各期可食",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 8.5,
+      "potassium": 385,
+      "phosphorus": 173,
+      "sodium": 321,
+      "energy": 145
+    },
+    "cover": "莴笋炒鸡蛋.webp"
+  },
+  {
+    "id": "r215",
+    "title": "小白菜豆腐煮",
+    "stages": [
+      "stage1_2",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f149",
+        "amount": "150g"
+      },
+      {
+        "foodId": "f136",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.5g"
+      },
+      {
+        "foodId": "f095",
+        "amount": "2g"
+      },
+      {
+        "foodId": "f159",
+        "amount": "2g"
+      }
+    ],
+    "steps": [
+      "小白菜洗净切段焯水",
+      "内酯豆腐切块",
+      "水开放入豆腐煮 3 分钟",
+      "加小白菜再煮 2 分钟，加盐"
+    ],
+    "tips": "清淡好消化；适合老人和 CKD 各期；控制豆腐份量",
+    "cookTime": 15,
+    "servings": 1,
+    "nutrition": {
+      "protein": 7.3,
+      "potassium": 365,
+      "phosphorus": 111,
+      "sodium": 313,
+      "energy": 94
+    },
+    "cover": "小白菜豆腐煮.webp"
+  },
+  {
+    "id": "r216",
+    "title": "芹菜炒香菇",
+    "stages": [
+      "stage1_2",
+      "stage3_5",
+      "dialysis"
+    ],
+    "category": "素菜",
+    "ingredients": [
+      {
+        "foodId": "f027",
+        "amount": "100g"
+      },
+      {
+        "foodId": "f046",
+        "amount": "50g"
+      },
+      {
+        "foodId": "f093",
+        "amount": "5g"
+      },
+      {
+        "foodId": "f086",
+        "amount": "0.6g"
+      },
+      {
+        "foodId": "f155",
+        "amount": "3g"
+      }
+    ],
+    "steps": [
+      "芹菜切段焯水",
+      "香菇切片",
+      "热锅下油先炒香菇",
+      "加芹菜翻炒，加盐出锅"
+    ],
+    "tips": "芹菜焯水可降钾；香菇鲜美但含磷，两者搭配适量；CKD 1-2 期合适",
+    "cookTime": 12,
+    "servings": 1,
+    "nutrition": {
+      "protein": 2.0,
+      "potassium": 173,
+      "phosphorus": 81,
+      "sodium": 311,
+      "energy": 78
+    },
+    "cover": "芹菜炒香菇.webp"
   }
 ]

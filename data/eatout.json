@@ -1197,6 +1197,2651 @@
       },
       "tips": "卤汁含盐含糖，要求少淋卤汁；卤肉肥瘦相间蛋白质适中；卤蛋含磷稍高，透析患者少吃；台式卤肉饭是相对均衡的外食选择",
       "pinyin": "luroufan"
+    },
+    {
+      "id": "eo053",
+      "name": "生煎包",
+      "category": "早点",
+      "perServing": "4个约150g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 200,
+        "phosphorus": 120,
+        "sodium": 700,
+        "energy": 420
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "底部煎制吸油多；酱油含钠高；建议配清粥不蘸醋；透析期限 2 个",
+      "pinyin": "shengjianbao"
+    },
+    {
+      "id": "eo054",
+      "name": "烧麦",
+      "category": "面食点心",
+      "perServing": "4个约150g",
+      "nutrition": {
+        "protein": 12,
+        "potassium": 180,
+        "phosphorus": 120,
+        "sodium": 550,
+        "energy": 310
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "糯米猪肉馅能量密度高；外皮薄但馅油重；单餐不超过 4 个；CKD 3-5 期建议搭配清汤青菜",
+      "pinyin": "shaomai"
+    },
+    {
+      "id": "eo055",
+      "name": "韭菜盒子",
+      "category": "面食点心",
+      "perServing": "2个约150g",
+      "nutrition": {
+        "protein": 10,
+        "potassium": 260,
+        "phosphorus": 120,
+        "sodium": 600,
+        "energy": 420
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "韭菜含钾中等；蛋液+面皮能量高；油煎后吸油；建议少吃蘸醋，避免油大；透析期限 1 个",
+      "pinyin": "jiucaihezi"
+    },
+    {
+      "id": "eo056",
+      "name": "豆腐脑(咸)",
+      "category": "早点",
+      "perServing": "1碗约250g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 230,
+        "phosphorus": 110,
+        "sodium": 850,
+        "energy": 140
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "卤汁含酱油和虾皮磷钠极高；建议只喝豆花弃汤；CKD 3 期及以上避免",
+      "pinyin": "doufunaoxian"
+    },
+    {
+      "id": "eo057",
+      "name": "豆腐脑(甜)",
+      "category": "早点",
+      "perServing": "1碗约250g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 180,
+        "phosphorus": 100,
+        "sodium": 120,
+        "energy": 180
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "糖浆含糖量高，血糖控制不佳者慎食；钠低于咸豆腐脑，对 CKD 更友好",
+      "pinyin": "doufunaotian"
+    },
+    {
+      "id": "eo058",
+      "name": "胡辣汤",
+      "category": "早点",
+      "perServing": "1碗约350ml",
+      "nutrition": {
+        "protein": 9,
+        "potassium": 220,
+        "phosphorus": 100,
+        "sodium": 1400,
+        "energy": 220
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "加入牛肉/粉条/木耳后钠磷较高；勾芡含淀粉磷酸盐；CKD 3-5 期建议少喝",
+      "pinyin": "hulatang"
+    },
+    {
+      "id": "eo059",
+      "name": "茶叶蛋",
+      "category": "早点",
+      "perServing": "1个约55g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 70,
+        "phosphorus": 100,
+        "sodium": 350,
+        "energy": 80
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "green"
+      },
+      "tips": "蛋白质优质但久卤钠含量升高；蛋黄含磷较高；透析患者每日限 1 个",
+      "pinyin": "chayedan"
+    },
+    {
+      "id": "eo060",
+      "name": "粢饭团",
+      "category": "早点",
+      "perServing": "1个约200g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 120,
+        "phosphorus": 100,
+        "sodium": 480,
+        "energy": 410
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "green"
+      },
+      "tips": "糯米为主碳水高；肉松/榨菜含钠；血糖/体重控制者少吃",
+      "pinyin": "zifantuan"
+    },
+    {
+      "id": "eo061",
+      "name": "油茶(北方)",
+      "category": "早点",
+      "perServing": "1碗约250g",
+      "nutrition": {
+        "protein": 5,
+        "potassium": 140,
+        "phosphorus": 100,
+        "sodium": 450,
+        "energy": 310
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "green"
+      },
+      "tips": "面粉炒后加盐加芝麻；钠中等；能量不低；可作早餐但不宜天天喝",
+      "pinyin": "youchabeifang"
+    },
+    {
+      "id": "eo062",
+      "name": "锅盔夹菜",
+      "category": "早点",
+      "perServing": "1个约180g",
+      "nutrition": {
+        "protein": 12,
+        "potassium": 180,
+        "phosphorus": 110,
+        "sodium": 750,
+        "energy": 450
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "面饼大、酱料咸；夹肉夹菜蛋白质中等；建议去卤汁、少酱；CKD 3-5 期尽量避免",
+      "pinyin": "guokuijiacai"
+    },
+    {
+      "id": "eo063",
+      "name": "生煎",
+      "category": "面食点心",
+      "perServing": "3个约120g",
+      "nutrition": {
+        "protein": 10,
+        "potassium": 150,
+        "phosphorus": 100,
+        "sodium": 550,
+        "energy": 310
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "上海风味底脆；猪肉馅含钠酱油；建议不蘸醋不蘸酱油",
+      "pinyin": "shengjian"
+    },
+    {
+      "id": "eo064",
+      "name": "葱油饼",
+      "category": "面食点心",
+      "perServing": "1张约120g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 90,
+        "phosphorus": 70,
+        "sodium": 550,
+        "energy": 400
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "主要风险是油和盐；家庭版可少放葱和盐；外食版常油重；每次建议 1/2 张",
+      "pinyin": "congyoubing"
+    },
+    {
+      "id": "eo065",
+      "name": "春卷",
+      "category": "面食点心",
+      "perServing": "4根约120g",
+      "nutrition": {
+        "protein": 6,
+        "potassium": 110,
+        "phosphorus": 80,
+        "sodium": 420,
+        "energy": 340
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "green"
+      },
+      "tips": "油炸小食，能量高；馅料以蔬菜为主则钾钠风险一般；建议佐茶而非主食",
+      "pinyin": "chunjuan"
+    },
+    {
+      "id": "eo066",
+      "name": "煎饺",
+      "category": "面食点心",
+      "perServing": "6个约160g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 180,
+        "phosphorus": 110,
+        "sodium": 680,
+        "energy": 410
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "与水饺类似但多了油煎；不蘸生抽可降低 20-30% 钠；CKD 3-5 期限量",
+      "pinyin": "jianjiao"
+    },
+    {
+      "id": "eo067",
+      "name": "千层饼",
+      "category": "面食点心",
+      "perServing": "1份约120g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 90,
+        "phosphorus": 70,
+        "sodium": 500,
+        "energy": 380
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "层层刷油含油脂；若夹火腿/葱花则钠更高；建议搭配低钠低脂汤",
+      "pinyin": "qiancengbing"
+    },
+    {
+      "id": "eo068",
+      "name": "白馒头",
+      "category": "主食",
+      "perServing": "1个约80g",
+      "nutrition": {
+        "protein": 6,
+        "potassium": 90,
+        "phosphorus": 80,
+        "sodium": 140,
+        "energy": 200
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "钠含量在外食主食中较低；CKD 各期均较友好；建议搭配低盐菜肴",
+      "pinyin": "baimantou"
+    },
+    {
+      "id": "eo069",
+      "name": "牛肉拉面",
+      "category": "粉面",
+      "perServing": "1大碗约500g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 300,
+        "phosphorus": 200,
+        "sodium": 1900,
+        "energy": 580
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "汤底含盐极高（>1500mg 钠）；不喝汤可减少 50-60% 钠；建议加蛋替代牛肉控磷",
+      "pinyin": "niuroulamian"
+    },
+    {
+      "id": "eo070",
+      "name": "四川担担面",
+      "category": "粉面",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 15,
+        "potassium": 220,
+        "phosphorus": 160,
+        "sodium": 1400,
+        "energy": 520
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "红油+榨菜+花生碎导致钾磷钠全高；建议少放辣油少放榨菜；透析期红",
+      "pinyin": "sichuandandanmian"
+    },
+    {
+      "id": "eo071",
+      "name": "北京炸酱面",
+      "category": "粉面",
+      "perServing": "1碗约350g",
+      "nutrition": {
+        "protein": 18,
+        "potassium": 260,
+        "phosphorus": 180,
+        "sodium": 1500,
+        "energy": 600
+      },
+      "riskFactors": [
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "黄豆酱钠磷高；可要求酱料分放自行控量；菜码多有助于饱腹",
+      "pinyin": "beijingzhajiangmian"
+    },
+    {
+      "id": "eo072",
+      "name": "山西刀削面",
+      "category": "粉面",
+      "perServing": "1碗约350g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 180,
+        "phosphorus": 150,
+        "sodium": 1200,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "臊子/卤汁含盐；面条本身较硬；建议不喝汤、少倒卤",
+      "pinyin": "shanxidaoxiaomian"
+    },
+    {
+      "id": "eo073",
+      "name": "重庆小面",
+      "category": "粉面",
+      "perServing": "1碗约350g",
+      "nutrition": {
+        "protein": 12,
+        "potassium": 200,
+        "phosphorus": 140,
+        "sodium": 1400,
+        "energy": 500
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "麻辣红油+酱油+榨菜重盐；CKD 3 期以上建议避免；一周不超过 1 次",
+      "pinyin": "chongqingxiaomian"
+    },
+    {
+      "id": "eo074",
+      "name": "螺蛳粉",
+      "category": "粉面",
+      "perServing": "1碗约450g",
+      "nutrition": {
+        "protein": 16,
+        "potassium": 380,
+        "phosphorus": 240,
+        "sodium": 1900,
+        "energy": 580
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "酸笋+腐乳+猪骨汤导致钠钾磷全高；CKD 3-5 期和透析期红；CKD 1-2 期偶尔可",
+      "pinyin": "luosifen"
+    },
+    {
+      "id": "eo075",
+      "name": "桂林米粉",
+      "category": "粉面",
+      "perServing": "1碗约350g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 220,
+        "phosphorus": 160,
+        "sodium": 1300,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "卤汁+酸豆角含盐；建议选择清汤版不放酸菜；不喝汤可减钠 40%",
+      "pinyin": "guilinmifen"
+    },
+    {
+      "id": "eo076",
+      "name": "云吞面",
+      "category": "粉面",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 180,
+        "phosphorus": 140,
+        "sodium": 1100,
+        "energy": 450
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "云吞猪肉含磷；碱水面磷含量略高；建议少喝汤",
+      "pinyin": "yuntunmian"
+    },
+    {
+      "id": "eo077",
+      "name": "延吉冷面",
+      "category": "粉面",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 240,
+        "phosphorus": 140,
+        "sodium": 950,
+        "energy": 460
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "朝鲜族冷面汤含酱油梨汁；面条通常含碱；CKD 3-5 期尽量不喝汤",
+      "pinyin": "yanjilengmian"
+    },
+    {
+      "id": "eo078",
+      "name": "阳春面",
+      "category": "粉面",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 100,
+        "phosphorus": 90,
+        "sodium": 950,
+        "energy": 340
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "光面少配菜但汤底咸；建议不喝汤或点半汤；CKD 各期需注意",
+      "pinyin": "yangchunmian"
+    },
+    {
+      "id": "eo079",
+      "name": "红油抄手",
+      "category": "粉面",
+      "perServing": "1碗约280g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 180,
+        "phosphorus": 140,
+        "sodium": 1200,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "抄手含猪肉馅磷中等；红油钠高；建议清汤替代红油；透析期限 1 碗",
+      "pinyin": "hongyouchaoshou"
+    },
+    {
+      "id": "eo080",
+      "name": "酸菜牛肉面",
+      "category": "粉面",
+      "perServing": "1大碗约450g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 320,
+        "phosphorus": 210,
+        "sodium": 1800,
+        "energy": 620
+      },
+      "riskFactors": [
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "酸菜+牛肉+汤底综合高钠高钾高磷；建议只吃肉和面不喝汤",
+      "pinyin": "suancainiuroumian"
+    },
+    {
+      "id": "eo081",
+      "name": "西红柿鸡蛋面",
+      "category": "粉面",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 300,
+        "phosphorus": 150,
+        "sodium": 900,
+        "energy": 450
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "相对清淡的外食面；番茄含钾中等；CKD 各期可作面食备选；注意不要多加生抽",
+      "pinyin": "xihongshijidanmian"
+    },
+    {
+      "id": "eo082",
+      "name": "黄焖鸡米饭",
+      "category": "米饭",
+      "perServing": "1份约550g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 450,
+        "phosphorus": 280,
+        "sodium": 1400,
+        "energy": 780
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "酱汁含酱油冰糖钠高；鸡肉为优质蛋白；建议酱汁分放自行控量；透析期红",
+      "pinyin": "huangmenjimifan"
+    },
+    {
+      "id": "eo083",
+      "name": "煲仔饭(腊味)",
+      "category": "米饭",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 280,
+        "phosphorus": 230,
+        "sodium": 1400,
+        "energy": 720
+      },
+      "riskFactors": [
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "腊肠/腊肉含盐亚硝酸盐；锅巴香但热量高；CKD 3-5 期和透析期红",
+      "pinyin": "baozaifanlawei"
+    },
+    {
+      "id": "eo084",
+      "name": "海南鸡饭",
+      "category": "米饭",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 300,
+        "phosphorus": 230,
+        "sodium": 1000,
+        "energy": 700
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "鸡肉皮含脂肪；姜葱汁蘸料含盐；建议去皮食用并控蘸料",
+      "pinyin": "hainanjifan"
+    },
+    {
+      "id": "eo085",
+      "name": "咖喱鸡饭",
+      "category": "米饭",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 25,
+        "potassium": 400,
+        "phosphorus": 220,
+        "sodium": 1100,
+        "energy": 720
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高钠",
+        "高能量",
+        "高油"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "椰浆咖喱含饱和脂肪高；土豆含钾；CKD 3 期以上避免椰浆版本",
+      "pinyin": "galijifan"
+    },
+    {
+      "id": "eo086",
+      "name": "青椒肉丝盖饭",
+      "category": "米饭",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 350,
+        "phosphorus": 200,
+        "sodium": 1200,
+        "energy": 680
+      },
+      "riskFactors": [
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "肉丝量大蛋白高；酱油用量多；建议要求少油少酱；米饭替换为半份",
+      "pinyin": "qingjiaorousigaifan"
+    },
+    {
+      "id": "eo087",
+      "name": "麻辣香锅(饭套)",
+      "category": "米饭",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 600,
+        "phosphorus": 290,
+        "sodium": 2000,
+        "energy": 900
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "辣椒花椒+多种食材+酱汁导致钾钠磷全高；CKD 3-5 期和透析期红；一般人也不宜频繁",
+      "pinyin": "malaxiangguofantao"
+    },
+    {
+      "id": "eo088",
+      "name": "红烧牛腩饭",
+      "category": "米饭",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 450,
+        "phosphorus": 260,
+        "sodium": 1400,
+        "energy": 800
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "牛腩脂肪较多；卤汁浓厚含盐；建议只吃少量卤汁并搭配青菜",
+      "pinyin": "hongshaoniunanfan"
+    },
+    {
+      "id": "eo089",
+      "name": "梅菜扣肉饭",
+      "category": "米饭",
+      "perServing": "1份约450g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 420,
+        "phosphorus": 240,
+        "sodium": 1600,
+        "energy": 800
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "梅干菜+五花肉钠+饱和脂肪全高；CKD 2 期以上避免",
+      "pinyin": "meicaikouroufan"
+    },
+    {
+      "id": "eo090",
+      "name": "酸菜鱼饭",
+      "category": "米饭",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 500,
+        "phosphorus": 320,
+        "sodium": 1800,
+        "energy": 700
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "鱼肉优质蛋白但酸菜钠高；泡椒/酸菜含钾磷；建议少喝汤只吃鱼",
+      "pinyin": "suancaiyufan"
+    },
+    {
+      "id": "eo091",
+      "name": "台式牛肉饭",
+      "category": "米饭",
+      "perServing": "1份约450g",
+      "nutrition": {
+        "protein": 26,
+        "potassium": 400,
+        "phosphorus": 230,
+        "sodium": 1200,
+        "energy": 720
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "酱油卤味+白饭为主；较日式牛肉饭偏油；建议汤汁不要拌饭",
+      "pinyin": "taishiniuroufan"
+    },
+    {
+      "id": "eo092",
+      "name": "小米粥",
+      "category": "早点",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 5,
+        "potassium": 120,
+        "phosphorus": 80,
+        "sodium": 20,
+        "energy": 180
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "钠含量极低，对 CKD 和高血压友好；小米含钾磷略高于大米，透析期控制份量",
+      "pinyin": "xiaomizhou"
+    },
+    {
+      "id": "eo093",
+      "name": "八宝粥",
+      "category": "早点",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 320,
+        "phosphorus": 180,
+        "sodium": 40,
+        "energy": 260
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "多种豆类坚果钾磷偏高；无盐但含糖；CKD 3-5 期避免；透析期一次半碗",
+      "pinyin": "babaozhou"
+    },
+    {
+      "id": "eo094",
+      "name": "绿豆粥",
+      "category": "早点",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 260,
+        "phosphorus": 130,
+        "sodium": 20,
+        "energy": 220
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "绿豆含钾较高；夏季清热佳品；CKD 3-5 期建议焯水后单次 <200ml",
+      "pinyin": "lvdouzhou"
+    },
+    {
+      "id": "eo095",
+      "name": "海鲜粥",
+      "category": "早点",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 18,
+        "potassium": 320,
+        "phosphorus": 210,
+        "sodium": 900,
+        "energy": 290
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "海鲜磷含量高、汤底熬煮嘌呤高；痛风/晚期 CKD 避免",
+      "pinyin": "haixianzhou"
+    },
+    {
+      "id": "eo096",
+      "name": "生滚牛肉粥",
+      "category": "早点",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 18,
+        "potassium": 320,
+        "phosphorus": 210,
+        "sodium": 850,
+        "energy": 300
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "牛肉优质蛋白；但广东粥底含盐高；建议要求少盐少味精",
+      "pinyin": "shenggunniurouzhou"
+    },
+    {
+      "id": "eo097",
+      "name": "艇仔粥",
+      "category": "早点",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 16,
+        "potassium": 270,
+        "phosphorus": 190,
+        "sodium": 800,
+        "energy": 280
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "含虾鱼肉花生等多种配料；钠偏高；透析期建议换无配料的白粥",
+      "pinyin": "tingzaizhou"
+    },
+    {
+      "id": "eo098",
+      "name": "玉米粥",
+      "category": "早点",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 210,
+        "phosphorus": 110,
+        "sodium": 20,
+        "energy": 180
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "玉米粥钾中等；低钠友好；CKD 1-2 期可替代白粥",
+      "pinyin": "yumizhou"
+    },
+    {
+      "id": "eo099",
+      "name": "麻婆豆腐",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 400,
+        "phosphorus": 290,
+        "sodium": 1200,
+        "energy": 380
+      },
+      "riskFactors": [
+        "高钾",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "豆腐含磷中等；豆瓣酱+酱油钠磷极高；建议点家常版不加郫县豆瓣；透析期限量",
+      "pinyin": "mapodoufu"
+    },
+    {
+      "id": "eo100",
+      "name": "回锅肉",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 550,
+        "phosphorus": 280,
+        "sodium": 1400,
+        "energy": 720
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "肥瘦肉+豆瓣酱+蒜苗钾磷高；建议两人分食；CKD 3 期以上一般为红",
+      "pinyin": "huiguorou"
+    },
+    {
+      "id": "eo101",
+      "name": "辣子鸡",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 32,
+        "potassium": 450,
+        "phosphorus": 290,
+        "sodium": 1300,
+        "energy": 680
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "油炸鸡块含磷，干辣椒+花椒刺激但钾钠可控；建议挑小块鸡肉避免长时间炸制",
+      "pinyin": "laziji"
+    },
+    {
+      "id": "eo102",
+      "name": "毛血旺",
+      "category": "外卖家常菜",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 580,
+        "phosphorus": 420,
+        "sodium": 2000,
+        "energy": 620
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "鸭血/毛肚/黄豆芽+麻辣汤底；钾磷钠嘌呤全高；CKD 3-5 期红；一般人也慎食",
+      "pinyin": "maoxuewang"
+    },
+    {
+      "id": "eo103",
+      "name": "口水鸡",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 35,
+        "potassium": 400,
+        "phosphorus": 290,
+        "sodium": 1300,
+        "energy": 520
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "辣油+酱油+花生碎是钠磷主要来源；建议少淋辣油或选清鸡白斩版本",
+      "pinyin": "koushuiji"
+    },
+    {
+      "id": "eo104",
+      "name": "夫妻肺片",
+      "category": "外卖家常菜",
+      "perServing": "1份约250g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 380,
+        "phosphorus": 360,
+        "sodium": 1400,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "牛内脏（肺/肚/舌）磷嘌呤极高；痛风/CKD 3-5 期红；透析期红",
+      "pinyin": "fuqifeipian"
+    },
+    {
+      "id": "eo105",
+      "name": "干锅花菜",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 12,
+        "potassium": 520,
+        "phosphorus": 200,
+        "sodium": 1100,
+        "energy": 420
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "花椰菜含钾；腊肉+干辣椒+豆瓣酱钠高；建议减少腊肉比例",
+      "pinyin": "ganguohuacai"
+    },
+    {
+      "id": "eo106",
+      "name": "白切鸡",
+      "category": "外卖家常菜",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 36,
+        "potassium": 300,
+        "phosphorus": 230,
+        "sodium": 400,
+        "energy": 340
+      },
+      "riskFactors": [
+        "高蛋白"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "不加酱料时钠低；蘸料含盐可要求分放；鸡肉为优质蛋白适合透析期",
+      "pinyin": "baiqieji"
+    },
+    {
+      "id": "eo107",
+      "name": "叉烧",
+      "category": "外卖家常菜",
+      "perServing": "1份约150g",
+      "nutrition": {
+        "protein": 26,
+        "potassium": 350,
+        "phosphorus": 200,
+        "sodium": 1200,
+        "energy": 450
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "蜜汁腌制含糖+酱油+亚硝酸盐；建议一次 <100g；CKD 3 期以上避免",
+      "pinyin": "chashao"
+    },
+    {
+      "id": "eo108",
+      "name": "烧鹅",
+      "category": "外卖家常菜",
+      "perServing": "1份约150g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 280,
+        "phosphorus": 210,
+        "sodium": 800,
+        "energy": 450
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "鹅皮脂肪含量高；腌料含盐；建议去皮食用搭配大量蔬菜",
+      "pinyin": "shaoe"
+    },
+    {
+      "id": "eo109",
+      "name": "豉汁蒸排骨",
+      "category": "外卖家常菜",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 400,
+        "phosphorus": 280,
+        "sodium": 1100,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "豆豉+酱油含钠高；排骨磷含量较高；建议一周 <1 次",
+      "pinyin": "shizhizhengpaigu"
+    },
+    {
+      "id": "eo110",
+      "name": "清蒸鲈鱼",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 380,
+        "phosphorus": 260,
+        "sodium": 700,
+        "energy": 320
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "是外食中较友好的优质蛋白选择；蒸菜用油少；建议要求少油少酱",
+      "pinyin": "qingzhengluyu"
+    },
+    {
+      "id": "eo111",
+      "name": "菠萝咕咾肉",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 320,
+        "phosphorus": 180,
+        "sodium": 700,
+        "energy": 560
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "挂糊油炸+糖醋汁糖分高；菠萝含钾；血糖/体重控制者慎食",
+      "pinyin": "boluogulaorou"
+    },
+    {
+      "id": "eo112",
+      "name": "锅包肉",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 25,
+        "potassium": 280,
+        "phosphorus": 180,
+        "sodium": 750,
+        "energy": 650
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "肉片挂糊油炸后糖醋汁；能量密度高；建议偶尔食用并弃部分糖醋汁",
+      "pinyin": "guobaorou"
+    },
+    {
+      "id": "eo113",
+      "name": "地三鲜",
+      "category": "外卖家常菜",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 600,
+        "phosphorus": 150,
+        "sodium": 1100,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "土豆+茄子+青椒均过油；钾含量高且吸油严重；CKD 3 期以上避免",
+      "pinyin": "disanxian"
+    },
+    {
+      "id": "eo114",
+      "name": "油爆虾",
+      "category": "外卖家常菜",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 300,
+        "phosphorus": 300,
+        "sodium": 850,
+        "energy": 300
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "带壳虾磷高；外层糖醋浓油赤酱；建议去壳一次 <10 只",
+      "pinyin": "youbaoxia"
+    },
+    {
+      "id": "eo115",
+      "name": "西湖醋鱼",
+      "category": "外卖家常菜",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 400,
+        "phosphorus": 270,
+        "sodium": 900,
+        "energy": 320
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "鱼肉优质蛋白；糖醋汁含糖钠；建议少淋酱汁",
+      "pinyin": "xihucuyu"
+    },
+    {
+      "id": "eo116",
+      "name": "狮子头",
+      "category": "外卖家常菜",
+      "perServing": "1个约100g",
+      "nutrition": {
+        "protein": 18,
+        "potassium": 250,
+        "phosphorus": 170,
+        "sodium": 750,
+        "energy": 330
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "猪肉大丸子+酱汁；蛋白中等；建议单只不超过 1 个并搭配清汤菜",
+      "pinyin": "shizitou"
+    },
+    {
+      "id": "eo117",
+      "name": "葱爆羊肉",
+      "category": "外卖家常菜",
+      "perServing": "1份约250g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 450,
+        "phosphorus": 200,
+        "sodium": 1000,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "羊肉钾较高；酱爆含酱油；建议分食并不用汤汁拌饭",
+      "pinyin": "congbaoyangrou"
+    },
+    {
+      "id": "eo118",
+      "name": "冒菜",
+      "category": "火锅",
+      "perServing": "1份约400g",
+      "nutrition": {
+        "protein": 20,
+        "potassium": 550,
+        "phosphorus": 230,
+        "sodium": 1700,
+        "energy": 420
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "一人份火锅；麻辣汤底钠极高；建议先用清水涮一下食材再吃",
+      "pinyin": "maocai"
+    },
+    {
+      "id": "eo119",
+      "name": "串串香",
+      "category": "火锅",
+      "perServing": "1人份约500g",
+      "nutrition": {
+        "protein": 32,
+        "potassium": 720,
+        "phosphorus": 360,
+        "sodium": 2500,
+        "energy": 650
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "30 串左右；荤素混合；汤底反复煮含嘌呤；CKD 3-5 期和透析期红",
+      "pinyin": "chuanchuanxiang"
+    },
+    {
+      "id": "eo120",
+      "name": "潮汕牛肉火锅",
+      "category": "火锅",
+      "perServing": "1人份约400g",
+      "nutrition": {
+        "protein": 40,
+        "potassium": 600,
+        "phosphorus": 280,
+        "sodium": 1200,
+        "energy": 520
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "清汤底较麻辣友好；牛肉不同部位脂肪差异大；建议选嫩肉+大量白萝卜",
+      "pinyin": "chaoshanniurouhuoguo"
+    },
+    {
+      "id": "eo121",
+      "name": "烤鸡翅",
+      "category": "烧烤",
+      "perServing": "2个约100g",
+      "nutrition": {
+        "protein": 20,
+        "potassium": 180,
+        "phosphorus": 170,
+        "sodium": 600,
+        "energy": 260
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "表皮含脂肪；腌料含盐；建议撕去焦皮降低盐分和致癌风险",
+      "pinyin": "kaojichi"
+    },
+    {
+      "id": "eo122",
+      "name": "烤五花肉",
+      "category": "烧烤",
+      "perServing": "1份约150g",
+      "nutrition": {
+        "protein": 15,
+        "potassium": 220,
+        "phosphorus": 140,
+        "sodium": 550,
+        "energy": 520
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "饱和脂肪极高；韩式蘸酱含盐；建议用生菜包着吃限量",
+      "pinyin": "kaowuhuarou"
+    },
+    {
+      "id": "eo123",
+      "name": "烤茄子(蒜蓉)",
+      "category": "烧烤",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 420,
+        "phosphorus": 80,
+        "sodium": 1200,
+        "energy": 280
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "茄子吸油严重；蒜蓉酱钠高；CKD 3-5 期建议少吃蒜蓉",
+      "pinyin": "kaoqiezisuanrong"
+    },
+    {
+      "id": "eo124",
+      "name": "烤金针菇",
+      "category": "烧烤",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 420,
+        "phosphorus": 200,
+        "sodium": 900,
+        "energy": 200
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "金针菇钾磷偏高；调味酱和孜然盐分高；CKD 3-5 期一次 <100g",
+      "pinyin": "kaojinzhengu"
+    },
+    {
+      "id": "eo125",
+      "name": "蒜蓉粉丝扇贝",
+      "category": "烧烤",
+      "perServing": "3个约150g",
+      "nutrition": {
+        "protein": 15,
+        "potassium": 280,
+        "phosphorus": 220,
+        "sodium": 900,
+        "energy": 200
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "扇贝优质蛋白；粉丝几乎无蛋白；蒜蓉酱钠高；建议一次 <3 个",
+      "pinyin": "suanrongfensishanbei"
+    },
+    {
+      "id": "eo126",
+      "name": "烤生蚝",
+      "category": "烧烤",
+      "perServing": "3个约150g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 240,
+        "phosphorus": 220,
+        "sodium": 900,
+        "energy": 180
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "生蚝锌含量高蛋白优质；注意生蚝的嘌呤与卫生；建议一次 <3 只",
+      "pinyin": "kaoshenghao"
+    },
+    {
+      "id": "eo127",
+      "name": "烤韭菜",
+      "category": "烧烤",
+      "perServing": "1份约150g",
+      "nutrition": {
+        "protein": 3,
+        "potassium": 350,
+        "phosphorus": 60,
+        "sodium": 900,
+        "energy": 200
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "韭菜含钾中等；主要问题是孜然盐；CKD 3-5 期一次 <100g",
+      "pinyin": "kaojiucai"
+    },
+    {
+      "id": "eo128",
+      "name": "烤面筋",
+      "category": "烧烤",
+      "perServing": "2串约80g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 60,
+        "phosphorus": 80,
+        "sodium": 800,
+        "energy": 230
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "面筋为纯麦谷蛋白；辣酱+孜然钠高；能量尚可接受",
+      "pinyin": "kaomianjin"
+    },
+    {
+      "id": "eo129",
+      "name": "鳗鱼饭",
+      "category": "日料",
+      "perServing": "1份约350g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 350,
+        "phosphorus": 280,
+        "sodium": 1100,
+        "energy": 700
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "蒲烧酱汁含糖酱油；鳗鱼磷较高；CKD 3 期以上建议弃酱汁",
+      "pinyin": "manyufan"
+    },
+    {
+      "id": "eo130",
+      "name": "日式咖喱饭",
+      "category": "日料",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 20,
+        "potassium": 450,
+        "phosphorus": 180,
+        "sodium": 1500,
+        "energy": 750
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠",
+        "高能量",
+        "高油"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "咖喱块含盐含饱和脂肪；土豆含钾；建议自制无盐版",
+      "pinyin": "rishigalifan"
+    },
+    {
+      "id": "eo131",
+      "name": "寿喜锅",
+      "category": "日料",
+      "perServing": "1人份约400g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 550,
+        "phosphorus": 300,
+        "sodium": 1800,
+        "energy": 700
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "酱油+味醂+糖的甜咸汤汁钠高；蘸生蛋液额外增加磷；透析期红",
+      "pinyin": "shouxiguo"
+    },
+    {
+      "id": "eo132",
+      "name": "石锅拌饭",
+      "category": "日料",
+      "perServing": "1份约500g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 500,
+        "phosphorus": 220,
+        "sodium": 1300,
+        "energy": 700
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "韩式混合蔬菜+肉末+辣椒酱；钠中偏高；可要求辣椒酱分放",
+      "pinyin": "shiguobanfan"
+    },
+    {
+      "id": "eo133",
+      "name": "部队锅",
+      "category": "日料",
+      "perServing": "1人份约500g",
+      "nutrition": {
+        "protein": 30,
+        "potassium": 620,
+        "phosphorus": 360,
+        "sodium": 2500,
+        "energy": 780
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钾",
+        "高磷",
+        "高钠",
+        "高能量",
+        "加工肉"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "含方便面+火腿肠+午餐肉+泡菜；加工肉钠磷极高；CKD 3 期以上禁食",
+      "pinyin": "buduiguo"
+    },
+    {
+      "id": "eo134",
+      "name": "韩式炸鸡",
+      "category": "西式快餐",
+      "perServing": "1份约250g",
+      "nutrition": {
+        "protein": 28,
+        "potassium": 260,
+        "phosphorus": 200,
+        "sodium": 1100,
+        "energy": 720
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高钠",
+        "高能量"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "裹粉厚+含糖辣酱；饱和脂肪高；CKD 3-5 期一次 <3 块",
+      "pinyin": "hanshizhaji"
+    },
+    {
+      "id": "eo135",
+      "name": "泡菜汤",
+      "category": "日料",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 10,
+        "potassium": 420,
+        "phosphorus": 160,
+        "sodium": 1800,
+        "energy": 280
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "泡菜发酵含盐极高；含豆腐磷中等；建议少喝汤只吃料",
+      "pinyin": "paocaitang"
+    },
+    {
+      "id": "eo136",
+      "name": "冬阴功汤",
+      "category": "日料",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 12,
+        "potassium": 380,
+        "phosphorus": 200,
+        "sodium": 1300,
+        "energy": 220
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "椰奶+柠檬叶+虾；嘌呤钠高；CKD 3 期以上避免",
+      "pinyin": "dongyingongtang"
+    },
+    {
+      "id": "eo137",
+      "name": "越南河粉",
+      "category": "粉面",
+      "perServing": "1碗约400g",
+      "nutrition": {
+        "protein": 20,
+        "potassium": 400,
+        "phosphorus": 220,
+        "sodium": 1500,
+        "energy": 420
+      },
+      "riskFactors": [
+        "高钾",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "red",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "牛骨汤含钠；佐料九层塔辣椒酱钠高；建议不喝汤",
+      "pinyin": "yuenanhefen"
+    },
+    {
+      "id": "eo138",
+      "name": "麦乐鸡",
+      "category": "西式快餐",
+      "perServing": "6块约100g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 200,
+        "phosphorus": 160,
+        "sodium": 600,
+        "energy": 280
+      },
+      "riskFactors": [
+        "含磷酸盐添加剂",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "red"
+      },
+      "tips": "加工鸡肉含磷酸盐；蘸酱含糖钠；建议用番茄酱替代蜜汁芥末",
+      "pinyin": "maileji"
+    },
+    {
+      "id": "eo139",
+      "name": "鸡腿堡",
+      "category": "西式快餐",
+      "perServing": "1个约200g",
+      "nutrition": {
+        "protein": 22,
+        "potassium": 260,
+        "phosphorus": 200,
+        "sodium": 1000,
+        "energy": 530
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "炸鸡腿+蛋黄酱+面包；钠脂肪全高；建议改选烤鸡堡",
+      "pinyin": "jituibao"
+    },
+    {
+      "id": "eo140",
+      "name": "辣翅",
+      "category": "西式快餐",
+      "perServing": "2个约70g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 160,
+        "phosphorus": 150,
+        "sodium": 550,
+        "energy": 270
+      },
+      "riskFactors": [
+        "含磷酸盐添加剂",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "red"
+      },
+      "tips": "裹粉油炸+辣腌料；磷酸盐添加使磷偏高；透析期限 <2 个",
+      "pinyin": "lachi"
+    },
+    {
+      "id": "eo141",
+      "name": "墨西哥卷",
+      "category": "西式快餐",
+      "perServing": "1个约180g",
+      "nutrition": {
+        "protein": 16,
+        "potassium": 220,
+        "phosphorus": 160,
+        "sodium": 850,
+        "energy": 480
+      },
+      "riskFactors": [
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "玉米饼+鸡肉+酱汁；酱汁含钠；建议去酸奶油和芝士",
+      "pinyin": "moxigejuan"
+    },
+    {
+      "id": "eo142",
+      "name": "珍珠奶茶(全糖)",
+      "category": "饮品",
+      "perServing": "1杯500ml",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 200,
+        "phosphorus": 150,
+        "sodium": 100,
+        "energy": 440
+      },
+      "riskFactors": [
+        "高能量",
+        "含磷酸盐添加剂",
+        "高糖"
+      ],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "奶精+珍珠+糖浆能量极高；含非乳磷酸盐；血糖/体重/CKD 患者禁频繁饮",
+      "pinyin": "zhenzhunaichaquantang"
+    },
+    {
+      "id": "eo143",
+      "name": "珍珠奶茶(少糖)",
+      "category": "饮品",
+      "perServing": "1杯500ml",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 200,
+        "phosphorus": 150,
+        "sodium": 100,
+        "energy": 300
+      },
+      "riskFactors": [
+        "含磷酸盐添加剂",
+        "高糖"
+      ],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "red"
+      },
+      "tips": "糖减少但奶精和磷添加剂不变；不建议为日常饮品",
+      "pinyin": "zhenzhunaichashaotang"
+    },
+    {
+      "id": "eo144",
+      "name": "美式咖啡(无糖)",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 1,
+        "potassium": 150,
+        "phosphorus": 10,
+        "sodium": 5,
+        "energy": 5
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "咖啡因可能影响血压和肾血流；高血压控制不佳者一日 <1 杯",
+      "pinyin": "meishikafeiwutang"
+    },
+    {
+      "id": "eo145",
+      "name": "拿铁(加糖)",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 360,
+        "phosphorus": 200,
+        "sodium": 80,
+        "energy": 200
+      },
+      "riskFactors": [
+        "高磷",
+        "含糖"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "red"
+      },
+      "tips": "全脂奶+糖浆；磷钾较高；CKD 3-5 期建议改脱脂奶且不加糖",
+      "pinyin": "natiejiatang"
+    },
+    {
+      "id": "eo146",
+      "name": "酸梅汤",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 0,
+        "potassium": 80,
+        "phosphorus": 10,
+        "sodium": 15,
+        "energy": 150
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "含糖高但钾磷钠低；适合夏日解暑；糖尿病者选择无糖版",
+      "pinyin": "suanmeitang"
+    },
+    {
+      "id": "eo147",
+      "name": "水果茶",
+      "category": "饮品",
+      "perServing": "1杯500ml",
+      "nutrition": {
+        "protein": 1,
+        "potassium": 280,
+        "phosphorus": 30,
+        "sodium": 20,
+        "energy": 250
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "真实水果熬制钾偏高；含糖量大；CKD 3-5 期一次 <200ml",
+      "pinyin": "shuiguocha"
+    },
+    {
+      "id": "eo148",
+      "name": "现磨豆浆(无糖)",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 10,
+        "potassium": 220,
+        "phosphorus": 130,
+        "sodium": 12,
+        "energy": 120
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "优质植物蛋白；注意大豆磷含量对透析期患者的影响",
+      "pinyin": "xianmodoujiangwutang"
+    },
+    {
+      "id": "eo149",
+      "name": "椰汁",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 1,
+        "potassium": 520,
+        "phosphorus": 50,
+        "sodium": 60,
+        "energy": 150
+      },
+      "riskFactors": [
+        "高钾"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "椰汁钾极高；CKD 3-5 期和透析期红；一般人适量",
+      "pinyin": "yezhi"
+    },
+    {
+      "id": "eo150",
+      "name": "柠檬蜂蜜水",
+      "category": "饮品",
+      "perServing": "1杯350ml",
+      "nutrition": {
+        "protein": 0,
+        "potassium": 60,
+        "phosphorus": 10,
+        "sodium": 10,
+        "energy": 100
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "柠檬维 C 高；钾磷钠都极低；对 CKD 相对友好；糖尿病者少蜂蜜",
+      "pinyin": "ningmengfengmishui"
+    },
+    {
+      "id": "eo151",
+      "name": "臭豆腐(长沙)",
+      "category": "小吃",
+      "perServing": "1份约150g",
+      "nutrition": {
+        "protein": 18,
+        "potassium": 200,
+        "phosphorus": 180,
+        "sodium": 1400,
+        "energy": 360
+      },
+      "riskFactors": [
+        "高钠",
+        "高磷",
+        "高油"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "发酵豆腐钠极高；表面油炸；一份钠即超日摄量 70%；CKD 3-5 期避免",
+      "pinyin": "choudoufuchangsha"
+    },
+    {
+      "id": "eo152",
+      "name": "卤味拼盘",
+      "category": "小吃",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 25,
+        "potassium": 300,
+        "phosphorus": 250,
+        "sodium": 2000,
+        "energy": 380
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷",
+        "高钠",
+        "嘌呤高"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "鸭头/鸭脖/鸭舌/豆干等盐分与嘌呤极高；透析期红；痛风红",
+      "pinyin": "luweipinpan"
+    },
+    {
+      "id": "eo153",
+      "name": "鸭脖",
+      "category": "小吃",
+      "perServing": "1根约80g",
+      "nutrition": {
+        "protein": 20,
+        "potassium": 200,
+        "phosphorus": 200,
+        "sodium": 1400,
+        "energy": 180
+      },
+      "riskFactors": [
+        "高钠",
+        "高磷",
+        "亚硝酸盐"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "盐+辣椒+糖混合腌制；磷和钠很高；CKD 3-5 期和透析期避免",
+      "pinyin": "yabo"
+    },
+    {
+      "id": "eo154",
+      "name": "卤鸡爪",
+      "category": "小吃",
+      "perServing": "3个约90g",
+      "nutrition": {
+        "protein": 19,
+        "potassium": 100,
+        "phosphorus": 150,
+        "sodium": 1200,
+        "energy": 200
+      },
+      "riskFactors": [
+        "高钠",
+        "亚硝酸盐"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "胶原蛋白为主；含盐和亚硝酸盐；建议一次 <2 个",
+      "pinyin": "lujizhao"
+    },
+    {
+      "id": "eo155",
+      "name": "双皮奶",
+      "category": "小吃",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 250,
+        "phosphorus": 170,
+        "sodium": 100,
+        "energy": 280
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "牛奶含钾磷；糖分高；CKD 3 期以上建议一次 <150g",
+      "pinyin": "shuangpinai"
+    },
+    {
+      "id": "eo156",
+      "name": "红豆沙",
+      "category": "小吃",
+      "perServing": "1碗约250g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 380,
+        "phosphorus": 190,
+        "sodium": 15,
+        "energy": 320
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "红豆钾磷偏高；无盐适合低钠；CKD 3-5 期份量 <150g",
+      "pinyin": "hongdousha"
+    },
+    {
+      "id": "eo157",
+      "name": "杨枝甘露",
+      "category": "小吃",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 420,
+        "phosphorus": 80,
+        "sodium": 50,
+        "energy": 280
+      },
+      "riskFactors": [
+        "高钾"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "芒果+西柚+椰浆钾极高；CKD 3-5 期和透析期一次 <150g",
+      "pinyin": "yangzhiganlu"
+    },
+    {
+      "id": "eo158",
+      "name": "芋圆",
+      "category": "小吃",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 300,
+        "phosphorus": 80,
+        "sodium": 40,
+        "energy": 330
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "主要是淀粉和糖；钾磷偏高是因红豆/仙草；血糖控制不佳慎食",
+      "pinyin": "yuyuan"
+    },
+    {
+      "id": "eo159",
+      "name": "冰粉",
+      "category": "小吃",
+      "perServing": "1碗约250g",
+      "nutrition": {
+        "protein": 1,
+        "potassium": 150,
+        "phosphorus": 30,
+        "sodium": 30,
+        "energy": 180
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "凉粉本身钠钾磷都低；风险来自红糖+花生碎+果脯；CKD 较友好",
+      "pinyin": "bingfen"
+    },
+    {
+      "id": "eo160",
+      "name": "绿豆汤",
+      "category": "小吃",
+      "perServing": "1碗约300g",
+      "nutrition": {
+        "protein": 8,
+        "potassium": 380,
+        "phosphorus": 150,
+        "sodium": 20,
+        "energy": 220
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "绿豆含钾较高但热量低；建议弃一半豆留汤；CKD 3-5 期一次 <200ml",
+      "pinyin": "lvdoutang"
+    },
+    {
+      "id": "eo161",
+      "name": "糯米糍",
+      "category": "小吃",
+      "perServing": "3个约120g",
+      "nutrition": {
+        "protein": 4,
+        "potassium": 80,
+        "phosphorus": 50,
+        "sodium": 30,
+        "energy": 320
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "green",
+        "stage3_5": "green",
+        "dialysis": "green"
+      },
+      "tips": "糯米+豆沙/椰蓉；热量高易升血糖；但钠钾磷都较低",
+      "pinyin": "nuomici"
+    },
+    {
+      "id": "eo162",
+      "name": "便利店饭团(鲑鱼)",
+      "category": "早点",
+      "perServing": "1个约110g",
+      "nutrition": {
+        "protein": 7,
+        "potassium": 100,
+        "phosphorus": 90,
+        "sodium": 550,
+        "energy": 200
+      },
+      "riskFactors": [
+        "加工米饭"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "紫菜+海鲜含磷适中；钠主要来自调味饭；CKD 各期可作应急主食",
+      "pinyin": "bianlidianfantuanguiyu"
+    },
+    {
+      "id": "eo163",
+      "name": "关东煮拼盘",
+      "category": "小吃",
+      "perServing": "1份约300g",
+      "nutrition": {
+        "protein": 16,
+        "potassium": 320,
+        "phosphorus": 220,
+        "sodium": 1500,
+        "energy": 280
+      },
+      "riskFactors": [
+        "高钠",
+        "加工鱼糜"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "red"
+      },
+      "tips": "鱼丸/萝卜/蛋+高汤；汤汁钠极高；建议不喝汤并挑低盐食材",
+      "pinyin": "guandongzhupinpan"
+    },
+    {
+      "id": "eo164",
+      "name": "寿司卷(金枪鱼)",
+      "category": "日料",
+      "perServing": "6块约150g",
+      "nutrition": {
+        "protein": 14,
+        "potassium": 200,
+        "phosphorus": 140,
+        "sodium": 700,
+        "energy": 360
+      },
+      "riskFactors": [],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "yellow",
+        "dialysis": "yellow"
+      },
+      "tips": "醋饭含糖；海苔磷较高；酱油含钠；建议少蘸酱油+芥末",
+      "pinyin": "shousijuanjinqiangyu"
+    },
+    {
+      "id": "eo165",
+      "name": "牛排套餐(菲力)",
+      "category": "西式快餐",
+      "perServing": "1份约200g",
+      "nutrition": {
+        "protein": 38,
+        "potassium": 380,
+        "phosphorus": 280,
+        "sodium": 900,
+        "energy": 500
+      },
+      "riskFactors": [
+        "高蛋白",
+        "高磷",
+        "高钠"
+      ],
+      "advice": {
+        "stage1_2": "yellow",
+        "stage3_5": "red",
+        "dialysis": "yellow"
+      },
+      "tips": "优质蛋白；配菜黄油土豆泥钾磷高；建议配菜换西兰花或青菜",
+      "pinyin": "niupaitaocanfeili"
     }
   ]
 }

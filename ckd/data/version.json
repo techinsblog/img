@@ -2,9 +2,9 @@
   "version": "1.0.2",
   "updateTime": "2026-04-28",
   "assetTag": "a7f3c91d4e2b6f08",
-  "foodCategoriesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn@main/ckd/data/food-categories.a7f3c91d4e2b6f08.json",
-  "foodsUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn@main/ckd/data/foods.a7f3c91d4e2b6f08.json",
-  "recipesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn@main/ckd/data/recipes.a7f3c91d4e2b6f08.json",
-  "eatoutUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn@main/ckd/data/eatout.a7f3c91d4e2b6f08.json",
-  "mealPlansUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn@main/ckd/data/meal-plans.a7f3c91d4e2b6f08.json"
+  "foodCategoriesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/food-categories.a7f3c91d4e2b6f08.json",
+  "foodsUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/foods.a7f3c91d4e2b6f08.json",
+  "recipesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/recipes.a7f3c91d4e2b6f08.json",
+  "eatoutUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/eatout.a7f3c91d4e2b6f08.json",
+  "mealPlansUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/meal-plans.a7f3c91d4e2b6f08.json"
 }

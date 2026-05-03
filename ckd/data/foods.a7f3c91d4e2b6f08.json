@@ -13994,11 +13994,11 @@
       "energy": 32
     },
     "advice": {
-      "stage1_2": "green",
-      "stage3_5": "green",
-      "dialysis": "green"
+      "stage1_2": "red",
+      "stage3_5": "red",
+      "dialysis": "red"
     },
-    "tips": "营养成分适中，可在饮食方案内适量食用",
+    "tips": "不建议 CKD 患者食用杨桃，且应绝对避免。",
     "categoryId": "fc_fruit",
     "aliases": [],
     "pinyin": "yangtao",

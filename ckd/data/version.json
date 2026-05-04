@@ -7,6 +7,6 @@
   "recipesUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/recipes.a7f3c91d4e2b6f10.json",
   "eatoutUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/eatout.a7f3c91d4e2b6f10.json",
   "mealPlansUrl": "https://cdn.jsdmirror.com/gh/techinsblog/cdn/ckd/data/meal-plans.a7f3c91d4e2b6f10.json",
-  "donate": "false",
-  "tools": "false"
+  "donate": "true",
+  "tools": "true"
 }
